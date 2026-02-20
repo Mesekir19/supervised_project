@@ -1,0 +1,36 @@
+Topic 1: Geospatial Semantic Verbalization (Structured-to-Text Generation)
+The Concept 
+This research addresses the "modality gap" between structured geographic data and natural language. OpenStreetMap (OSM) data is stored as a collection of technical tags and numerical coordinates—a format that lacks the semantic richness required for human-centric applications like conversational tour guides or navigation assistants.
+
+The Objective 
+The goal is to fine-tune a Large Language Model (LLM) to perform Semantic Verbalization . You will train the model to synthesize disparate data points (eg, amenity, cuisine, historictags) into high-quality, contextually aware narrative descriptions.
+
+The Task
+
+Instruction Tuning: You will create an instruction-following dataset where the input is a set of OSM tags and the output is a professional description.
+
+Methodology: Utilizing qLoRA and the Unsloth library to fine-tune a model like Mistral-7B, ensuring high performance with low memory overhead.
+
+Example: Converting name: Place Stanislas, historic: monumentinto: "Place Stanislas is a world-renowned historic landmark and a central pedestrian square in Nancy, recognized as a UNESCO World Heritage site."
+
+
+Topic 2: Automated Attribute Inference (Semantic Data Enrichment)
+The Concept 
+A significant challenge in open-source geospatial data is data sparsity —many entries contain a name but lack critical metadata. This project investigates whether a fine-tuned LLM can act as an intelligent agent to predict and "fill in" these missing attributes based on semantic patterns.
+
+The Objective 
+To perform Semantic Attribute Inference , where the model uses its pre-trained knowledge and specific fine-tuning on the Nancy region to predict missing tags (like cuisine, shoptype, or opening_hours) based on the POI name and its neighborhood context.
+
+The Task
+
+Data Masking: You will simulate an incomplete dataset by masking existing tags in your extracted Nancy CSV.
+
+Contextual Training: The model will be trained to reconstruct these missing tags by analyzing geographic naming conventions and spatial relationships between nearby points of interest.
+
+Example: If a point is named "Pizza Nancy" but the cuisinetag is empty, the model infers and predicts cuisine: italian.
+
+
+
+
+
+
