@@ -1,0 +1,14 @@
+====================================================
+  CARBON EMISSION REPORT
+  2026-04-15 14:36:02
+====================================================
+  Model          : Qwen/Qwen3-0.6B
+  Training steps : 1250
+  Training loss  : 0.1839
+
+  Duration       : 2.7673 h (166.0 min)
+  CO2 equivalent : 19.348 g CO2eq
+  Source         : codecarbon
+
+  ~= 0.161 km driven by an average car
+====================================================

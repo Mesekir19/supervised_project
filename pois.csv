@@ -1,0 +1,2119 @@
+name,latitude,longitude,amenity,tourism,leisure,shop,historic,category
+Place Commanderie,48.6858518,6.1674456,bicycle_rental,,,,,bicycle_rental
+Commanderie - Chalnot,48.6868589,6.1722364,bicycle_rental,,,,,bicycle_rental
+Gare Saint-Léon,48.6895927,6.1722984,bicycle_rental,,,,,bicycle_rental
+Saint-Sébastien - Saint-Thiébaut,48.6886915,6.1793496,bicycle_rental,,,,,bicycle_rental
+Marché Central,48.6891697,6.1838427,bicycle_rental,,,,,bicycle_rental
+Place Dombasle,48.6918509,6.1781901,bicycle_rental,,,,,bicycle_rental
+Place de la Carrière,48.6945726,6.1821918,bicycle_rental,,,,,bicycle_rental
+Cours Léopold - Saint-Michel,48.6957178,6.1767737,bicycle_rental,,,,,bicycle_rental
+Porte de la Craffe,48.6984552,6.1779375,bicycle_rental,,,,,bicycle_rental
+3 Maisons - Charles V,48.7012234,6.1769554,bicycle_rental,,,,,bicycle_rental
+Conservatoire - Manufacture,48.6957309,6.1712253,bicycle_rental,,,,,bicycle_rental
+Hôpital Central,48.6834257,6.1902912,bicycle_rental,,,,,bicycle_rental
+Hôpital Saint-Julien,48.685891,6.1929421,bicycle_rental,,,,,bicycle_rental
+Place Colonel Driant,48.6920811,6.1872489,bicycle_rental,,,,,bicycle_rental
+Port Sainte-Catherine,48.69553,6.1904219,bicycle_rental,,,,,bicycle_rental
+Promenade des Canaux,48.6928364,6.1963211,bicycle_rental,,,,,bicycle_rental
+Porte Saint-Nicolas,48.6848122,6.1873286,bicycle_rental,,,,,bicycle_rental
+Dominicains - Fourier,48.6924393,6.1833039,bicycle_rental,,,,,bicycle_rental
+Match,48.6851333,6.1609959,,,,supermarket,,supermarket
+Croix de Bourgogne,48.6852559,6.1710557,,,,,monument,monument
+LCL,48.6893224,6.1726934,atm,,,,,atm
+Printemps,48.6895241,6.1764171,,,,department_store,,department_store
+Paul,48.6892466,6.1773802,,,,bakery,,bakery
+Parking Monseigneur Thouvenin,48.6888021,6.1780346,parking,,,,,parking
+Kinepolis Nancy,48.6918103,6.1958243,cinema,,,,,cinema
+GSILab,48.6949702,6.193588,,,hackerspace,,,hackerspace
+La Place,48.6937938,6.1825077,nightclub,,,,,nightclub
+L'Alsace à Table,48.6940166,6.1807088,restaurant,,,,,restaurant
+Caisse d'Épargne,48.6917248,6.1778545,atm,,,,,atm
+Hôtel Littéraire Stendhal,48.6917582,6.186497,,hotel,,,,hotel
+Le Petit Français,48.6963319,6.1785329,,,,wine,,wine
+Port de Plaisance de Nancy-Saint-Georges,48.6931359,6.1935487,,,marina,,,marina
+Théâtre de la Manufacture,48.6960807,6.1718764,theatre,,,,,theatre
+Copy 54,48.6738605,6.1743829,,,,copyshop,,copyshop
+La Pêche Lorraine,48.6723275,6.1729865,,,fishing,outdoor,,fishing
+Coiffure Olivier,48.6903678,6.1716532,,,,hairdresser,,hairdresser
+Fnac,48.6896176,6.1767483,,,,books,,books
+Université de la Culture Permanente,48.6855481,6.1705002,college,,,,,college
+Hungry Sushi,48.6841479,6.1772376,restaurant,,,,,restaurant
+Le Black Baron,48.6846961,6.1797333,pub,,,,,pub
+Auto-École JC,48.6724402,6.1725554,driving_school,,,,,driving_school
+Bar au dit vin,48.6910048,6.1710947,bar,,,,,bar
+Le Ch'timi,48.6965467,6.179726,bar,,,,,bar
+Port de Plaisance de Nancy,48.6950032,6.1918425,,,marina,,,marina
+Port de Malzéville,48.7026599,6.1823505,,,marina,,,marina
+L'Avant Première,48.6913546,6.1956945,restaurant,,,,,restaurant
+Parking Dom Calmet,48.6916239,6.1811413,parking,,,,,parking
+Signé Banière,48.6915829,6.1830185,,,,hairdresser,,hairdresser
+Fami Thé,48.6915635,6.1803795,fast_food,,,,,fast_food
+Générale d'Optique,48.690459,6.1811825,,,,optician,,optician
+Les Domaines,48.6921213,6.1841091,,,,alcohol,,alcohol
+Confédération Générale du Travail Ville de Nancy,48.69294,6.1849502,social_centre,,,,,social_centre
+Hall du Livre,48.6901263,6.1831043,,,,books,,books
+Parking Saint-Dizier,48.6892457,6.184451,parking,,,,,parking
+Crédit Agricole,48.6893716,6.1783511,bank,,,,,bank
+Abracadabra,48.7024634,6.1808556,restaurant,,,,,restaurant
+Residhome Apparthotel Nancy Lorraine,48.6941144,6.1954989,,hotel,,,,hotel
+Buste Monseigneur Petit,48.6819144,6.1743146,,,,,memorial,memorial
+Émile Coué,48.6814394,6.170834,,,,,memorial,memorial
+Sergent Blandan,48.6722261,6.1723915,,,,,memorial,memorial
+id&a,48.6905359,6.1794755,,,,interior_decoration,,interior_decoration
+MyBud Shop,48.693937,6.1787524,,,,cannabis,,cannabis
+Euro Cycles,48.682092,6.203637,,,,bicycle,,bicycle
+La Fleuriste Estelle,48.6857863,6.1612095,,,,florist,,florist
+Maison Gaudin,48.6885449,6.1904925,,,,,building,building
+La Poste Nancy Porte Saint-Georges,48.6881272,6.1919259,post_office,,,,,post_office
+Pharmacie de la Salle,48.6870612,6.1888339,pharmacy,,,,,pharmacy
+Espace Skate Board Oberlin,48.70344,6.185091,,,pitch,,,pitch
+Pharmacie des Jardins d'Eau,48.694834,6.194108,pharmacy,,,,,pharmacy
+Novotel Suites Nancy Centre,48.6927217,6.1952019,,hotel,,,,hotel
+Épicerie 3 maisons,48.7009589,6.1768418,,,,convenience,,convenience
+Brasserie Le Midi Pile,48.7010909,6.176654,bar,,,,,bar
+Laverie des Trois Maisons,48.7008611,6.1775609,,,,laundry,,laundry
+Crédit Mutuel,48.700611,6.177871,atm,,,,,atm
+Boulangerie Pâtisserie Boufflers,48.6921697,6.1482272,,,,bakery,,bakery
+Pizzas,48.6921373,6.1483773,fast_food,,,,,fast_food
+Boulangerie Pâtisserie Odile et Patrice Lebroc,48.689018,6.1614792,,,,bakery,,bakery
+G. Julien,48.6882589,6.1620202,,,,butcher,,butcher
+BNP Paribas,48.6881566,6.1653418,bank,,,,,bank
+Banque Populaire,48.6880291,6.165738,bank,,,,,bank
+Hôtel Poincaré,48.6885494,6.167189,,hotel,,,,hotel
+Bibliothèque pour Tous,48.6886542,6.1675644,library,,,,,library
+Dupont Fleurs,48.6885968,6.1668264,,,,florist,,florist
+Audika,48.688302,6.1665497,,,,hearing_aids,,hearing_aids
+Auto-école Boufflers,48.693464,6.139842,driving_school,,,,,driving_school
+Restaurant Beauregard,48.69348,6.139682,restaurant,,,,,restaurant
+Société Générale,48.6921006,6.1680559,bank,,,,,bank
+McDonald's,48.6900162,6.1831638,fast_food,,,,,fast_food
+Tezenis,48.6902831,6.1811969,,,,clothes,,clothes
+Bonne Vap City,48.6897848,6.183337,,,,e-cigarette,,e-cigarette
+Marionnaud,48.690508,6.1825531,,,,perfumery,,perfumery
+Le Medea,48.6904407,6.1715852,fast_food,,,,,fast_food
+Pizzeria Adriatica,48.6902854,6.171499,restaurant,,,,,restaurant
+Maison Schindler,48.6901296,6.171896,,,,bakery,,bakery
+Pizza Roma,48.6900267,6.1720015,fast_food,,,,,fast_food
+Saint Algue,48.6900612,6.1721167,,,,hairdresser,,hairdresser
+Rice and curry,48.6904159,6.1728211,fast_food,,,,,fast_food
+Histoires de Lunettes,48.690832,6.1742064,,,,optician,,optician
+Esprit Coiffeur,48.6908919,6.1743996,,,,hairdresser,,hairdresser
+Hôtel de Flore,48.6909144,6.1744682,,hotel,,,,hotel
+Bouillon du terroir,48.6911257,6.1749582,restaurant,,,,,restaurant
+Brasserie Simone,48.6896111,6.1753725,bar,,,,,bar
+Burger Kebab,48.6893791,6.1760135,fast_food,,,,,fast_food
+Crystal Hôtel,48.6900334,6.1781471,,hotel,,,,hotel
+Du Pareil... au même,48.6896277,6.1791463,,,,clothes,,clothes
+HEMA,48.6896015,6.1790655,,,,variety_store,,variety_store
+CCF,48.6898427,6.1792926,bank,,,,,bank
+Vacances Dernière Minute,48.6899024,6.179481,,,,travel_agency,,travel_agency
+Opticiens Maurice Frères,48.6899547,6.1796413,,,,optician,,optician
+H&M,48.6897383,6.1795074,,,,clothes,,clothes
+Oxybul Éveil et Jeux,48.6897734,6.179617,,,,toys,,toys
+JD Sports,48.6898886,6.1799746,,,,sports,,sports
+Etam,48.6899456,6.1801507,,,,clothes,,clothes
+RougeGorge,48.6900369,6.1798948,,,,clothes,,clothes
+Free,48.6900693,6.179995,,,,mobile_phone,,mobile_phone
+Éram,48.6899921,6.1802935,,,,shoes,,shoes
+Foot Locker,48.6900151,6.1803641,,,,shoes,,shoes
+Edji,48.6900655,6.1805503,,,,clothes,,clothes
+Courir,48.690106,6.180107,,,,shoes,,shoes
+La Casa de las Carcasas,48.6902045,6.1804237,,,,mobile_phone_accessories,,mobile_phone_accessories
+Optical Center,48.6903865,6.1804959,,,,optician,,optician
+De Neuville,48.6901167,6.1807041,,,,chocolate,,chocolate
+SFR,48.6901522,6.1807906,,,,mobile_phone,,mobile_phone
+L'Épi d'Or,48.6901826,6.1808841,,,,bakery,,bakery
+Father & Sons,48.6902255,6.1810172,,,,clothes,,clothes
+KFC,48.6902061,6.1809571,fast_food,,,,,fast_food
+Le Chagnot,48.6906688,6.1824189,restaurant,,,,,restaurant
+Bijou Brigitte,48.6906329,6.1822828,,,,jewelry,,jewelry
+Joailler Mathis,48.6906127,6.1822209,,,,jewelry,,jewelry
+Mango,48.6905642,6.1820723,,,,clothes,,clothes
+Édouard Genton,48.6910174,6.1824254,,,,jewelry,,jewelry
+Atol,48.6907781,6.1827379,,,,optician,,optician
+Yves Rocher,48.6908001,6.182806,,,,beauty,,beauty
+By Izéa,48.6908409,6.1829325,,,,clothes,,clothes
+Morgan,48.6908611,6.1829949,,,,clothes,,clothes
+Lego,48.6909894,6.1827769,,,,toys,,toys
+Peggy Sage,48.6908833,6.183062,,,,clothes,,clothes
+Nora,48.6909076,6.1831367,,,,jewelry,,jewelry
+Sephora,48.6909556,6.1832862,,,,cosmetics,,cosmetics
+Zara,48.6910049,6.1834392,,,,clothes,,clothes
+Papa Fries,48.691235,6.1835947,fast_food,,,,,fast_food
+Snack Marmaris,48.6917349,6.1851445,fast_food,,,,,fast_food
+Le Liseron,48.6915085,6.1850002,,,,florist,,florist
+Garage Caer,48.69397,6.139091,,,,car_repair,,car_repair
+Le Gentilly,48.694933,6.13885,bar,,,newsagent,,bar
+Pomme de Pain,48.6895245,6.1788275,fast_food,,,,,fast_food
+Nancy Thermal,48.6795944,6.1671514,bicycle_rental,,,,,bicycle_rental
+Marché d'Haussonville,48.672246,6.1656732,bicycle_rental,,,,,bicycle_rental
+Les Deux Rives,48.6953458,6.195203,bicycle_rental,,,,,bicycle_rental
+Fac de Lettres,48.6928829,6.168452,bicycle_rental,,,,,bicycle_rental
+CIC,48.6898604,6.1774793,bank,,,,,bank
+Caméo Saint-Sébastien,48.6889331,6.1787659,cinema,,,,,cinema
+Parking Kennedy,48.685952,6.1739307,parking,,,,,parking
+Zhong Pin,48.6839717,6.1730019,restaurant,,,,,restaurant
+Milo Pizza,48.6844638,6.1858275,fast_food,,,,,fast_food
+Barthelemy,48.6901566,6.1841625,,,,jewelry,,jewelry
+Le Salon de Justine,48.6911034,6.1846264,,,,hairdresser,,hairdresser
+Blonde — Wine and Beer Place,48.6901648,6.1842877,bar,,,,,bar
+Comtesse du Barry,48.6910168,6.1841686,,,,deli,,deli
+La Flamme du chef,48.690077,6.1839165,restaurant,,,,,restaurant
+Le Coq en Fer,48.6903992,6.1847646,restaurant,,,,,restaurant
+Blend,48.6900568,6.183854,cafe,,,,,cafe
+Voyou delivery,48.6900323,6.1837773,fast_food,,,,,fast_food
+La Julienne,48.6909478,6.1847178,restaurant,,,,,restaurant
+El Gusto,48.6911674,6.1845888,restaurant,,,,,restaurant
+Lorr Alice,48.6912295,6.1845517,,,,fabric,,fabric
+L'Annexe (Brexit),48.6901411,6.1841145,pub,,,,,pub
+Recouvreur,48.6900766,6.1836446,,,,confectionery,,confectionery
+Makewok,48.6900119,6.1837143,fast_food,,,,,fast_food
+Caseus,48.6953745,6.1810425,,,,dairy,,dairy
+Atelier Dynamo,48.6958809,6.1807283,,,,bicycle,,bicycle
+Bora Baden,48.6949714,6.181429,,gallery,,,,gallery
+Papilles Alain,48.6954256,6.1810115,restaurant,,,,,restaurant
+Les années modernes,48.695311,6.1810812,,,,antiques,,antiques
+La Gavotte,48.6962576,6.1803447,restaurant,,,,,restaurant
+La cave du Père Magott,48.6962154,6.1803917,restaurant,,,,,restaurant
+Flambock,48.6944069,6.1817787,restaurant,,,,,restaurant
+Butter,48.6952454,6.1811209,restaurant,,,,,restaurant
+Le Speakeasy,48.6955448,6.1809391,bar,,,,,bar
+L'intime,48.6946267,6.1814856,bar,,,,,bar
+L'Univers,48.6961604,6.1806505,,,,hairdresser,,hairdresser
+Carte Blanche,48.6947899,6.1815305,restaurant,,,,,restaurant
+Le Petit Bouillon Pharamond,48.6895807,6.1752755,restaurant,,,,,restaurant
+Quick,48.6895269,6.1761692,fast_food,,,,,fast_food
+La laverie verte,48.6987842,6.1623839,,,,laundry,,laundry
+Jean Lamour,48.6938547,6.1827025,restaurant,,,,,restaurant
+Les Oliviers,48.695614,6.177814,restaurant,,,,,restaurant
+L'Atelier Hérisson,48.7012187,6.1765469,,,,sewing,,sewing
+Akoya Sushi,48.7011832,6.1765845,restaurant,,,,,restaurant
+Thiriet,48.7020702,6.1757313,,,,frozen_food,,frozen_food
+M & J Coiffure,48.7025924,6.1753556,,,,hairdresser,,hairdresser
+Pharmacie de la Croix,48.7025757,6.1756487,pharmacy,,,,,pharmacy
+Saveurs & Traditions,48.7026572,6.1752939,,,,bakery,,bakery
+Torréfaction du Faubourg,48.702205,6.1759566,,,,coffee,,coffee
+Rue des Fleurs,48.7022485,6.1759202,,,,florist,,florist
+Atmosphair,48.701987,6.1761399,,,,hairdresser,,hairdresser
+Garage Prévot,48.7013638,6.1773639,,,,car_repair,,car_repair
+La Cave du Faubourg,48.7013036,6.1774029,,,,alcohol,,alcohol
+Little Faubourg,48.7010242,6.1775633,bar,,,,,bar
+Boulangerie Pâtisserie Sucré Salé,48.7017443,6.1763424,,,,bakery,,bakery
+Au temps suspendu,48.7013073,6.176877,,,,clothes,,clothes
+Vallance Joël,48.7010939,6.1773385,,,,butcher,,butcher
+Pharmacie de la Craffe,48.7009567,6.177799,pharmacy,,,,,pharmacy
+3 Maisons Kebab,48.7017923,6.1763,fast_food,,,,,fast_food
+Brasserie de la Croix,48.7027708,6.1750331,cafe,,,,,cafe
+La Citadelle,48.7010938,6.1779914,fast_food,,,,,fast_food
+Sylvie Coiffure,48.7030375,6.1750981,,,,hairdresser,,hairdresser
+Madame,48.7004691,6.1781586,restaurant,,,,,restaurant
+Hops Bar,48.6985627,6.1781542,bar,,,,,bar
+La Brûlerie,48.6983813,6.1782966,cafe,,,coffee,,cafe
+The Reddington Bar,48.6997872,6.1780936,bar,,,,,bar
+Le Pacha du Bosphore,48.6983486,6.1783256,restaurant,,,,,restaurant
+Brasserie de la Vieille Ville,48.6978298,6.1787848,restaurant,,,,,restaurant
+Librairie Ancienne Dornier,48.6978683,6.1787539,,,,books,,books
+Hôtel d'Haussonville,48.6965813,6.1782616,,hotel,,,,hotel
+Bistrot Gros,48.6956716,6.1778932,restaurant,,,,,restaurant
+La Parenthèse,48.6917392,6.1829242,,,,books,,books
+Aux Merveilleux de Fred,48.6911287,6.1823429,,,,confectionery,,confectionery
+Pharmacie Saint-Jean,48.6895437,6.177165,pharmacy,,,,,pharmacy
+La Poste Nancy Commanderie,48.6853678,6.1665169,post_office,,,,,post_office
+Hôtel Mercure Nancy Centre Gare,48.6907749,6.1748147,,hotel,,,,hotel
+Columbarium,48.6911028,6.1614305,,,,,tomb,tomb
+Studio 159,48.6727664,6.1769545,,,,hairdresser,,hairdresser
+Arbise,48.7021894,6.1756289,,,,shoes,,shoes
+Le Patio,48.7012628,6.1769454,,,,hairdresser,,hairdresser
+Le Souvenir,48.6897183,6.1779835,,artwork,,,monument,artwork
+Angeluzzo,48.6919193,6.1956748,restaurant,,,,,restaurant
+Express Bar,48.6892775,6.1753467,,hotel,,,,hotel
+Qualys-Hôtel Nancy Centre,48.6894731,6.1757517,,hotel,,,,hotel
+Ibis Nancy Centre Gare et Congrès,48.6893564,6.1753148,,hotel,,,,hotel
+La Friterie,48.6893,6.1753373,fast_food,,,,,fast_food
+Carrefour Express,48.6892591,6.1756484,,,,supermarket,,supermarket
+Méat&Tacos,48.6892217,6.1755331,fast_food,,,,,fast_food
+Bouillon Batignolles,48.6894667,6.1768479,cafe,,,,,cafe
+Easy Store,48.6894964,6.1769451,,,,computer,,computer
+Carrefour Express Nancy Mon Désert,48.6843097,6.1780625,,,,convenience,,convenience
+Les 3L,48.6844287,6.1786233,,,,butcher,,butcher
+Maison Brandenberg,48.6845817,6.1787377,,,,bakery,,bakery
+Pharmacie Mon Désert,48.6843762,6.1783333,pharmacy,,,,,pharmacy
+Laverie,48.6844085,6.1784869,,,,laundry,,laundry
+Le Royal,48.6844502,6.1781088,bar,,,,,bar
+Dombasle,48.691917,6.1782446,car_sharing,,,,,car_sharing
+Eléna Beauté,48.685769,6.1581966,,,,beauty,,beauty
+Salon OANH Manucure,48.6846232,6.1786854,,,,beauty,,beauty
+La Résidence,48.682499,6.1775325,,hotel,,,,hotel
+Brasserie Mon Désert,48.6844649,6.1788068,bar,,,,,bar
+Le Prince,48.6853826,6.1780227,bar,,,,,bar
+City Burger,48.6845111,6.1789726,fast_food,,,,,fast_food
+Sécuritest,48.6836889,6.1770676,vehicle_inspection,,,,,vehicle_inspection
+Institut MG Beauté,48.6834503,6.1897353,,,,beauty,,beauty
+Le Bistrot d'Alsace,48.6838391,6.1890904,cafe,,,,,cafe
+El Mata Store,48.6837517,6.1892377,,,,tattoo,,tattoo
+Viagim,48.6839589,6.1884193,bank,,,,,bank
+BraiseMaster,48.6839456,6.1889104,restaurant,,,,,restaurant
+La Galerie Funéraire,48.6837827,6.1891856,,,,funeral_directors,,funeral_directors
+Le Tassigny,48.6835644,6.1895518,bar,,,,,bar
+Épicerie Centrale,48.6836148,6.1894695,,,,convenience,,convenience
+Resto Istanbul Rapide,48.6836539,6.1894034,fast_food,,,,,fast_food
+Roussel SARL,48.6839203,6.1883818,driving_school,,,,,driving_school
+Taxiphone,48.683817,6.1891278,internet_cafe,,,,,internet_cafe
+Banque Kolb Centre d'Affaires,48.6812393,6.1833855,bank,,,,,bank
+Garage J. Marin,48.6820837,6.1831706,,,,car_repair,,car_repair
+La Villa 1901,48.680779,6.1824198,,guest_house,,,,guest_house
+Le Petit Chaouen,48.6813038,6.1830097,,,,interior_decoration,,interior_decoration
+Proxi Super,48.6804379,6.1816098,,,,convenience,,convenience
+5th Avenue,48.684906,6.1604737,,,,hairdresser,,hairdresser
+Mandaloun,48.6966852,6.1797462,restaurant,,,,,restaurant
+Mac Carthy,48.6922776,6.1774743,pub,,,,,pub
+Carol'Optic,48.6851163,6.159606,,,,optician,,optician
+Restaurant Le Blouge,48.6905908,6.1712453,restaurant,,,,,restaurant
+Office de Tourisme,48.6929082,6.1830133,,information,,,,information
+Parking Saint-Sébastien,48.6873844,6.1816405,parking,,,,,parking
+Centre Lorrain de consultation conjugale et de médiation familiale,48.6956839,6.1773665,social_facility,,,,,social_facility
+La Toq',48.6962231,6.1786761,restaurant,,,,,restaurant
+AXA,48.6934952,6.1798248,,,,insurance,,insurance
+Allianz,48.6942367,6.1798955,,,,insurance,,insurance
+Antiquité 34,48.6934648,6.179173,,,,antiques,,antiques
+Auto-Moto-École Duroc Carnot,48.6939284,6.1787215,driving_school,,,,,driving_school
+L’Éliceur,48.6935466,6.1800342,restaurant,,,,,restaurant
+Le Greniel à Sel,48.6935378,6.1794808,restaurant,,,,,restaurant
+Pharmacie des Maréchaux,48.6938706,6.1803866,pharmacy,,,,,pharmacy
+Factory,48.6934552,6.179662,bar,,,,,bar
+Deva,48.6940829,6.1800355,,,,shoes,,shoes
+Le Torcedor,48.6937134,6.1801851,,,,newsagent,,newsagent
+Durex,48.6938453,6.1803708,vending_machine,,,,,vending_machine
+Espace Culturel Roger Comets,48.6932412,6.1795386,arts_centre,,,,,arts_centre
+Médiathèque Nabécor,48.6810624,6.1933046,library,,,,,library
+Chinexpress,48.6817765,6.1924177,fast_food,,,,,fast_food
+Clés Express,48.6816144,6.1926788,,,,hardware,,hardware
+Espace Arts & Création,48.6813456,6.1931107,,,,jewelry,,jewelry
+Olry Pizza,48.6812576,6.1932527,fast_food,,,,,fast_food
+MCA Coiffure,48.6815859,6.1927247,,,,hairdresser,,hairdresser
+Patissier Chocolatier,48.6812922,6.1931966,,,,confectionery,,confectionery
+Épicerie L'Étoile,48.6812201,6.193313,,,,convenience,,convenience
+Maison des Jeunes et de la Culture Lillebonne Saint-Epvre,48.6952335,6.1783169,community_centre,,,,,community_centre
+Kech,48.6802559,6.1954134,restaurant,,,,,restaurant
+Maison Pruneaux,48.6803155,6.1953068,,,,butcher,,butcher
+Esperluette,48.6717993,6.1748366,restaurant,,,,,restaurant
+O Panini Kebab,48.691983,6.195812,fast_food,,,,,fast_food
+Ammé thé,48.6904306,6.1843988,cafe,,,,,cafe
+Club Med,48.6913573,6.1845305,,,,travel_agency,,travel_agency
+L'Autre Rive,48.6906624,6.1843197,,,,books,,books
+Silvya Terrade,48.6908207,6.1842574,school,,,,,school
+Étoile coiffure,48.691382,6.184607,,,,hairdresser,,hairdresser
+L'Atelier Du Sourcil,48.6914587,6.184845,,,,beauty,,beauty
+O' Pères Peinards,48.6907085,6.1843028,cafe,,,,,cafe
+Après vous,48.6914813,6.1849149,,,,clothes,,clothes
+Pharmacie La Primatiale,48.6903218,6.1844466,pharmacy,,,,,pharmacy
+Pitaya,48.6914346,6.1847706,fast_food,,,,,fast_food
+La Chaussuria,48.6906068,6.1843383,,,,shoes,,shoes
+So(on),48.6904651,6.1843854,,,,clothes,,clothes
+Foot Korner,48.6914088,6.1846906,,,,clothes,,clothes
+Dix  10 optique,48.6905421,6.1843581,,,,optician,,optician
+ENGREF Centre de documentation forestière,48.6937576,6.1876848,library,,,,,library
+Ville de Nancy Restaurant Municipal,48.6930046,6.1850737,restaurant,,,,,restaurant
+Carrefour City,48.6809339,6.1943732,,,,convenience,,convenience
+Fajet,48.68724,6.1861721,studio,,,,,studio
+La Maison du Kebab,48.6876337,6.1876071,fast_food,,,,,fast_food
+Moushine Coiffure,48.6875005,6.1872235,,,,hairdresser,,hairdresser
+Le Festin,48.6854617,6.1953787,fast_food,,,,,fast_food
+Mail Boxes Etc.,48.6856546,6.1952834,,,,stationery,,stationery
+Le Loritz,48.6853449,6.1957234,bar,,,,,bar
+"Maison de l'artiste peintre Alfred Renaudin, 1902",48.6817384,6.1683993,,information,,,,information
+Bazar Saint-Nicolas,48.6885707,6.1861507,,,,convenience,,convenience
+Boucherie Lahmadi,48.687913,6.1876663,,,,butcher,,butcher
+Djerba,48.6878788,6.1877191,restaurant,,,,,restaurant
+Est Confection,48.6879582,6.1875889,,,,fabric,,fabric
+Euro Bazar,48.6881999,6.1871236,,,,variety_store,,variety_store
+Hôtel New-York,48.6881147,6.1873149,,hotel,,,,hotel
+Kartell,48.6887889,6.1858327,,,,furniture,,furniture
+Les Amares,48.6881382,6.1872731,social_facility,,,,,social_facility
+Bureau de sécurité et de proximité,48.6881593,6.1872295,police,,,,,police
+Maxi Bazar,48.6884088,6.1865321,,,,convenience,,convenience
+Orient Cosmetic,48.6878277,6.1877939,,,,beauty,,beauty
+Orient Palace,48.6878637,6.1877416,,,,clothes;beauty;jewelry,,clothes;beauty;jewelry
+Brasserie Excelsior,48.6907751,6.1758437,restaurant,,,,,restaurant
+Atelier des Solidarités,48.6882832,6.1879632,community_centre,,,,,community_centre
+Boutique Lebsa.fr,48.6881076,6.1880849,,,,clothes,,clothes
+Café de la Terrasse,48.6877593,6.1879081,bar,,,,,bar
+La Fantasia,48.6872645,6.1885597,restaurant,,,,,restaurant
+Boulangerie Pâtisserie La Rose de Tunis,48.6874051,6.1883745,,,,bakery,,bakery
+Le Méditerranéen,48.6875432,6.1881922,restaurant,,,,,restaurant
+Le Sympa,48.6873571,6.1884378,bar,,,,,bar
+Le Touareg,48.687413,6.1879341,fast_food,,,,,fast_food
+Ozdas Alimentation,48.6874749,6.187854,,,,convenience,,convenience
+Tabac Presse Saint-Nicolas,48.6875455,6.1877627,,,,newsagent,,newsagent
+Brasserie Saint-Nicolas,48.6880658,6.1869329,bar,,,,,bar
+Cyber@phone,48.688386,6.1862411,,,,telephone,,telephone
+Made in Fruit,48.6877946,6.1874215,,,,fruit_juice,,fruit_juice
+O' Miam - City food,48.6878266,6.1873798,fast_food,,,,,fast_food
+Resto Burger,48.6878519,6.187346,fast_food,,,,,fast_food
+Salon de Thé Arabica,48.6877578,6.1874686,cafe,,,,,cafe
+Webphone,48.6877011,6.1875415,,,,telephone,,telephone
+Boucherie Hallal Saint Nicolas - Chez Taoufik,48.6878952,6.187284,,,,butcher,,butcher
+Boucherie Hallal Ben,48.6882751,6.1864816,,,,butcher,,butcher
+Écrivain Public,48.6883419,6.1863369,social_facility,,,,,social_facility
+Épicerie Asya,48.6880204,6.1870392,,,,convenience,,convenience
+Épicerie Égé,48.6879448,6.1872056,,,,convenience,,convenience
+Aux Délices de Saint-Nicolas,48.6884152,6.1861784,,,,confectionery,,confectionery
+Bar à chicha,48.6888139,6.1855994,bar,,,,,bar
+Le Djurdjura,48.6884328,6.1860193,restaurant,,,,,restaurant
+Le Georges,48.6955207,6.1958163,restaurant,,,,,restaurant
+Food’Lab,48.6953813,6.1945535,food_court,,,,,food_court
+Ronde des Pains,48.6951673,6.1941648,,,,bakery,,bakery
+Pharmacie des 2 Rives,48.6950935,6.1957641,pharmacy,,,,,pharmacy
+Vietnam Street Food,48.6904748,6.185034,restaurant,,,,,restaurant
+Boucherie Charcuterie Grandjean,48.6724311,6.1726997,,,,butcher,,butcher
+L'Hivervage,48.6762851,6.1770651,restaurant,,,,,restaurant
+Copy-Thèses,48.669866,6.1699645,,,,copyshop,,copyshop
+Boulangerie Pâtisserie Confiserie Chocolaterie Nathalie LALONDE,48.6725043,6.1728685,,,,bakery,,bakery
+La Banque Postale,48.6891619,6.1777042,atm,,,,,atm
+Auto École Vauban,48.6735732,6.1657337,driving_school,,,,,driving_school
+Zorba,48.6896129,6.1852051,fast_food,,,,,fast_food
+La Palette des Sens,48.6897863,6.1858105,,,,bakery,,bakery
+Kebab,48.6920553,6.1867043,fast_food,,,,,fast_food
+Bar à mousse,48.6921465,6.1870188,bar,,,,,bar
+Centre Médical Calliopé,48.6852504,6.1863651,clinic,,,,,clinic
+La Quincaillerie,48.6899945,6.1844285,pub,,,,,pub
+Chez Nadine,48.6765792,6.1774158,cafe,,,newsagent,,cafe
+La Mer Égée,48.6964651,6.1791159,fast_food,,,,,fast_food
+Objectif Lune,48.6910265,6.1807746,,,,travel_agency,,travel_agency
+Statue Notre-Dame-de-Lourdes,48.672993,6.1761199,,,,,wayside_shrine,wayside_shrine
+Grandeur Nature,48.69149,6.18182,,,,outdoor,,outdoor
+La Poste Nancy Trois-Maisons,48.7022481,6.1742768,post_office,,,,,post_office
+Parking Charles III,48.6892127,6.1821523,parking,,,,,parking
+MultiMarché,48.6846185,6.1662453,,,,convenience,,convenience
+Pizzeria Sole Mio,48.6823164,6.1653036,restaurant,,,,,restaurant
+La P'tite Fournée,48.6775326,6.1866612,,,,bakery,,bakery
+Clinique Vétérinaire Jean Jaurès,48.6783142,6.1870954,veterinary,,,,,veterinary
+100 Patates,48.6924569,6.1945568,restaurant,,,,,restaurant
+Les Nouveaux Abattoirs,48.6942969,6.197395,restaurant,,,,,restaurant
+Maison Aubriot Jeannin,48.6941419,6.1964529,,,,bakery,,bakery
+Superette de la Colline,48.6984294,6.1625659,,,,convenience,,convenience
+Trio promo,48.6851259,6.1853343,,,,supermarket,,supermarket
+Auto-École Anye,48.6895921,6.1855109,driving_school,,,,,driving_school
+De Bouche à Oreille,48.6898,6.1862436,,,,hairdresser,,hairdresser
+Cyclomaniak,48.6900462,6.186093,,,,bicycle,,bicycle
+Faïencerie et Émaux de Nancy,48.6902157,6.185991,,,,interior_decoration,,interior_decoration
+Canisac,48.690488,6.1867497,vending_machine,,,,,vending_machine
+Maison d'Hôte de Myon,48.6906377,6.1874983,,guest_house,,,,guest_house
+L'Échanson,48.6905262,6.1852131,bar,,,,,bar
+The Burger Factory,48.6905383,6.1855315,fast_food,,,,,fast_food
+La Primatiale,48.6904768,6.1853018,restaurant,,,,,restaurant
+Les Bacchanales,48.6904971,6.1853775,restaurant,,,,,restaurant
+Mon Petit Bouchon,48.6905185,6.1854576,restaurant,,,,,restaurant
+Parallel,48.6905044,6.1851356,bar,,,,,bar
+Le Médrevil,48.6857455,6.1610798,restaurant,,,,,restaurant
+Tradita,48.6714347,6.1667432,restaurant,,,,,restaurant
+Speed Queen,48.6700392,6.170156,,,,laundry,,laundry
+Phot'Antik,48.6713413,6.1666284,,,,photo,,photo
+Bibliothèque Américaine,48.6963657,6.176368,library,,,,,library
+E-Bibliothèque Universitaire Campus Manufacture,48.6973001,6.1717403,library,,,,,library
+Bibliothèque universitaire Ingénieurs GM-GSI,48.6953137,6.1929977,library,,,,,library
+Accueil - Point informations,48.6952287,6.1663684,,information,,,,information
+Cafétéria,48.6944496,6.1664905,restaurant,,,,,restaurant
+Factéria,48.6953952,6.1657463,restaurant,,,,,restaurant
+Centre Européen Universitaire,48.6936842,6.1762326,university,,,,,university
+Institut de Préparation à l'Administration Générale,48.6934791,6.1754461,university,,,,,university
+Buste de Grandville,48.6987704,6.1807126,,artwork,,,,artwork
+Buste de Sellier,48.695769,6.1840317,,artwork,,,,artwork
+Monument Claude Gellée,48.6978916,6.1822818,,artwork,,,,artwork
+Statue du Gaulois,48.6976051,6.1833627,,artwork,,,,artwork
+Crescendo,48.6725637,6.1729346,,,,hairdresser,,hairdresser
+Pharmacie du Montet,48.6733106,6.1737447,pharmacy,,,,,pharmacy
+3idfx,48.6824424,6.1919542,,,,copyshop,,copyshop
+Le L.E.M.,48.6948778,6.181354,theatre,,,,,theatre
+Service universitaire de médecine préventive et de promotion de la santé-Nancy / Campus Lettres et Sciences Humaines,48.6937386,6.1663998,social_facility,,,,,social_facility
+Ibis Nancy Centre Stanislas,48.6935593,6.1918667,,hotel,,,,hotel
+Les Sorcières d'Eastwink,48.6832738,6.1728331,,,,tattoo,,tattoo
+Ibis Budget Nancy Centre,48.6926798,6.1952533,,hotel,,,,hotel
+Copaline,48.6846182,6.1875053,,,,bakery,,bakery
+Au Pain de mon Grand-Père,48.6846848,6.1872452,,,,bakery,,bakery
+Le Local,48.6875041,6.1847692,,,,hairdresser,,hairdresser
+Bossa Nova,48.6844215,6.1865425,,,,hairdresser,,hairdresser
+Century 21,48.6843144,6.1882822,,,,optician,,optician
+Pompes Funèbres Guidon,48.6843985,6.188141,,,,funeral_directors,,funeral_directors
+Coiffeur Artem,48.67418,6.1711578,,,,hairdresser,,hairdresser
+Diagonal Coiffure,48.6895995,6.1834695,,,,hairdresser,,hairdresser
+La Mian Ji Ramen,48.6893586,6.1836468,restaurant,,,,,restaurant
+McCafé,48.6899529,6.1832268,cafe,,,,,cafe
+Plein Ciel,48.6903242,6.1829353,,,,stationery,,stationery
+R. This,48.6894233,6.183598,,,,bakery,,bakery
+Chuan Yue,48.6893891,6.1836231,restaurant,,,,,restaurant
+Dentego,48.6918244,6.1815595,dentist,,,,,dentist
+Les Artistes,48.692872,6.1807697,pub,,,,,pub
+NJB,48.6926597,6.1806463,,,,hairdresser,,hairdresser
+Pharmacie Stanislas,48.6922786,6.1789177,pharmacy,,,,,pharmacy
+Tabac Presse Saint-Léon,48.6899315,6.1716923,,,,newsagent,,newsagent
+L'Atelier du Siège,48.6858105,6.1583012,,,,furniture,,furniture
+Salon Gallé,48.677415,6.1810829,,,,hairdresser,,hairdresser
+Pharmacie Préparatoire Delpech Nancy,48.6765817,6.1813257,pharmacy,,,,,pharmacy
+Brasserie Le Strasbourg,48.684733,6.1870567,cafe,,,,,cafe
+Coiffure Anneuchka,48.6845964,6.1875907,,,,hairdresser,,hairdresser
+Kounagi,48.6845275,6.1878597,restaurant,,,,,restaurant
+Pharmacie des Vosges,48.6847581,6.1869383,pharmacy,,,,,pharmacy
+Baguette avec deux T,48.6785375,6.1973559,,,,bakery,,bakery
+Pizza Fino,48.6778504,6.1987291,fast_food,,,,,fast_food
+Appaloosa Coiffure,48.6954158,6.1956152,,,,hairdresser,,hairdresser
+Il Ristorante,48.6915302,6.198797,restaurant,,,,,restaurant
+Institut de Formation en Ergothérapie,48.6869927,6.1987295,college,,,,,college
+Proxi,48.6755724,6.1822793,,,,convenience,,convenience
+Boulangerie Gerard,48.679237,6.173674,,,,bakery,,bakery
+Fruiterie d'Haussonville,48.6768035,6.162667,,,,greengrocer,,greengrocer
+La Marianne,48.6793124,6.1741648,restaurant,,,,,restaurant
+Arcadia,48.6913852,6.1797631,,,,toys,,toys
+Axial,48.6828568,6.2035293,,,,car_repair,,car_repair
+Dekra,48.6827713,6.2035703,vehicle_inspection,,,,,vehicle_inspection
+Citroën,48.6764853,6.1969091,,,,car_repair,,car_repair
+Institut Canin,48.6770479,6.1989603,,,,pet_grooming,,pet_grooming
+Marbrerie Étienne,48.6761443,6.1897589,,,,funeral_directors,,funeral_directors
+Laverie de la Source,48.6944779,6.1786026,,,,laundry,,laundry
+La Pizza des Gourmets,48.6824214,6.1655524,fast_food,,,,,fast_food
+Pizza Nostra,48.6698808,6.1638232,fast_food,,,,,fast_food
+Bulferetti-Snet,48.6764592,6.190407,,,,funeral_directors,,funeral_directors
+Coeur de Fleur,48.6763751,6.1902359,,,,florist,,florist
+Pinheiro,48.6760439,6.1895261,,,,funeral_directors,,funeral_directors
+Crazy Palace,48.6981139,6.1747736,pub,,,,,pub
+Conservatoire Régional du Grand Nancy,48.6963669,6.1726173,music_school,,,,,music_school
+Le Berbère,48.7010428,6.1779247,restaurant,,,,,restaurant
+Copy book,48.685095,6.1866766,,,,copyshop,,copyshop
+La Poste Nancy Plateau de Haye,48.702652,6.1516755,post_office,,,,,post_office
+Pharmacie Le Tilleul,48.7033615,6.1541126,pharmacy,,,,,pharmacy
+Pharmacie des Coquelicots,48.7027711,6.1520841,pharmacy,,,,,pharmacy
+Caisse d'Épargne Nancy Plateau de Haye,48.7011585,6.1473712,bank,,,,,bank
+Merlino,48.6910873,6.15337,,,,florist,,florist
+Hôtel Stanislas,48.6946048,6.187023,,hotel,,,,hotel
+Charly,48.6961833,6.1632103,driving_school,,,,,driving_school
+Domino's,48.6965411,6.1474032,fast_food,,,,,fast_food
+Midas,48.6968287,6.1588579,,,,car_repair,,car_repair
+Surplus Nanceien,48.6961729,6.1434462,,,,military_surplus,,military_surplus
+Pharmacie de la Libération,48.6974623,6.1558996,pharmacy,,,,,pharmacy
+Ingedus,48.6962828,6.1514131,,,,computer,,computer
+Plaise Café,48.6919498,6.1386653,bar,,,,,bar
+Au Pain Chaud,48.6721867,6.1734297,cafe,,,,,cafe
+Christine,48.7025897,6.1807565,,,,hairdresser,,hairdresser
+La P'tite Pause Créole,48.7024792,6.1813396,restaurant,,,,,restaurant
+Mille et une Saveurs,48.7026332,6.1808609,restaurant,,,,,restaurant
+Citadelle,48.7002856,6.1777919,taxi,,,,,taxi
+Maison Kanazawa,48.6728651,6.1721383,fast_food,,,,,fast_food
+La Flambée,48.6744998,6.1753775,restaurant,,,,,restaurant
+Pharmacie Notre-Dame,48.6742935,6.1748633,pharmacy,,,,,pharmacy
+Institut Lorrain de Formation en Masso-Kinésithérapie,48.6772143,6.1877974,college,,,,,college
+Le Monténégro,48.6803241,6.1879695,bar,,,,,bar
+O'Bon Grill,48.672446,6.1724653,restaurant,,,,,restaurant
+Au Coin de la Rue,48.695537,6.1794206,restaurant,,,,,restaurant
+Gaufres Lorraines,48.6987249,6.183248,fast_food,,,,,fast_food
+Leopol Kebab,48.6952511,6.1770346,fast_food,,,,,fast_food
+Mamma Mia,48.6952735,6.1794719,restaurant,,,,,restaurant
+L'Épicerie Chez Marguerite,48.6940359,6.1807798,restaurant,,,,,restaurant
+L'Escale,48.6940022,6.1806455,restaurant,,,,,restaurant
+Le Bouillon Lafayette,48.6939819,6.1805765,restaurant,,,,,restaurant
+Le Kiosque,48.6934808,6.1780685,fast_food,,,,,fast_food
+Musée des Cordeliers (Arts et Traditions populaires),48.697696,6.1789919,,museum,,,,museum
+Statue Hubert Lyautey,48.6982171,6.1801166,,,,,memorial,memorial
+Parking Charlemagne,48.6835109,6.1626067,parking,,,,,parking
+Kattan,48.6818671,6.1627089,,,,copyshop,,copyshop
+TT histoire,48.6924129,6.1869667,restaurant,,,,,restaurant
+Aux Délices du Palais,48.6967368,6.1796704,restaurant,,,,,restaurant
+Pharmacie de la Vieille Ville,48.6978081,6.1785965,pharmacy,,,,,pharmacy
+Brend'Oliv,48.6986782,6.1778748,restaurant,,,,,restaurant
+Eric Tattoo,48.6981479,6.1783871,,,,tattoo,,tattoo
+Du Pain et des Gâteaux,48.6980603,6.1784539,,,,bakery,,bakery
+Les Frères Marchand,48.6973916,6.1789518,restaurant,,,,,restaurant
+Vincent Chevalier,48.6985001,6.1781834,,,,antiques,,antiques
+Le Tiger,48.6894327,6.1936902,restaurant,,,,,restaurant
+Star Coiffure,48.6894446,6.193985,,,,hairdresser,,hairdresser
+La p'tite foire,48.6893198,6.1940471,,,,pastry,,pastry
+The Tiger,48.6931987,6.1910587,restaurant,,,,,restaurant
+Made in France,48.6926076,6.1897436,fast_food,,,,,fast_food
+Le Reinitas,48.6925217,6.1900501,,,,newsagent,,newsagent
+Les merveilles de Lily,48.7036584,6.1820246,,,,bakery,,bakery
+Kart'In,48.7029936,6.1838251,,,sports_centre,,,sports_centre
+Malzéville Kebab,48.7035576,6.181955,fast_food,,,,,fast_food
+Roc-Eclerc,48.6840897,6.1858371,,,,funeral_directors,,funeral_directors
+Marché,48.6895171,6.183311,taxi,,,,,taxi
+Collège Georges de La Tour,48.6904231,6.1361457,school,,,,,school
+Lycée Georges de la Tour,48.691309,6.1373232,school,,,,,school
+École régionale du premier degré,48.6910364,6.135278,school,,,,,school
+Prêt à Partir,48.6897066,6.1817438,,,,travel_agency,,travel_agency
+Copy City,48.6692516,6.1684064,,,,copyshop,,copyshop
+Maison Laurent,48.6959559,6.179132,,,,butcher,,butcher
+Monsieur le Primeur,48.6961893,6.1789098,,,,convenience,,convenience
+Brasserie du Sacré-Cœur,48.6862,6.1621755,cafe,,,,,cafe
+Eldorado Maison des Ados,48.6871084,6.165183,community_centre,,,,,community_centre
+Église Adventiste,48.6927412,6.1802768,place_of_worship,,,,,place_of_worship
+Sushi-Show,48.6920644,6.1959848,restaurant,,,,,restaurant
+PopKfé,48.6922075,6.1962543,restaurant,,,,,restaurant
+Centre de formation Forelis,48.6901902,6.1881206,college,,,,,college
+Mélissalon,48.6866959,6.1682331,,,,hairdresser,,hairdresser
+Dolce Pizza,48.6776784,6.1773391,restaurant,,,,,restaurant
+Clinique Vétérinaire,48.6767487,6.1997056,veterinary,,,,,veterinary
+L'Arrosoir,48.6942042,6.182672,restaurant,,,,,restaurant
+Salles Donop,48.6765454,6.173258,community_centre,,,,,community_centre
+O'jeez,48.6742075,6.1747666,,,,e-cigarette,,e-cigarette
+Domidom,48.6879748,6.1830177,social_facility,,,,,social_facility
+Collège Claude Daunot,48.6767558,6.1800868,school,,,,,school
+Lycée Professionnel Claude Daunot,48.6770925,6.1794452,school,,,,,school
+Lycée Technologique Claude Daunot,48.6773522,6.1799833,school,,,,,school
+Fraich’Art Bar Zinc,48.6901534,6.1724182,restaurant,,,seafood,,restaurant
+Foyer de l’Assomption,48.6897319,6.1710421,student_accommodation,,,,,student_accommodation
+Le Penalty,48.689359,6.1698579,bar,,,,,bar
+Pharmacie Saint-Léon,48.6902481,6.1722744,pharmacy,,,,,pharmacy
+Hôtel des Vosges,48.6858607,6.1848067,,hotel,,,,hotel
+Sun Box,48.6882605,6.1828056,,,tanning_salon,,,tanning_salon
+Brasserie d'Haussonville,48.6706298,6.1673319,bar,,,newsagent,,bar
+Accueil,48.687814,6.1914805,reception_desk,,,,,reception_desk
+Kim Seng,48.6855276,6.1944329,restaurant,,,,,restaurant
+Parking Saint-Nicolas,48.6873502,6.1896144,parking,,,,,parking
+L'Atelier d'Ralph,48.6831875,6.173746,,,,hairdresser,,hairdresser
+Le Chat Noir,48.6861775,6.1716936,nightclub,,,,,nightclub
+École internationale Tunon,48.6972985,6.1736189,college,,,,,college
+Boulangerie du Chastel,48.6953823,6.17941,,,,bakery,,bakery
+Brasserie Saint-Epvre - Mimi,48.6960482,6.1790474,bar,,,,,bar
+Couscousserie des Petites Familles,48.6957428,6.1794,restaurant,,,,,restaurant
+Pâtisserie St Epvre - Adam,48.696001,6.1790911,,,,confectionery,,confectionery
+Pinocchio,48.6963929,6.1790042,cafe,,,,,cafe
+Le Vestiaire,48.6985983,6.1779271,restaurant,,,,,restaurant
+Boteco do Brasil,48.698674,6.178448,restaurant,,,,,restaurant
+Le Palais Gourmand,48.6986697,6.1789986,restaurant,,,,,restaurant
+Nathalie Bontems,48.6986989,6.1780778,,,,hairdresser,,hairdresser
+Brasserie Stanislas,48.6929777,6.1811527,restaurant,,,,,restaurant
+Épicéa,48.6861978,6.1917071,restaurant,,,,,restaurant
+Le Bouillon Rousselet,48.6917864,6.1842948,restaurant,,,,,restaurant
+E.Leclerc Express,48.6916707,6.1816844,,,,supermarket,,supermarket
+Hana Sushi & Wok,48.6863218,6.1918582,restaurant,,,,,restaurant
+Culinarion,48.6912441,6.182002,,,,houseware,,houseware
+Laverie Saint-Dizier,48.6871821,6.1850058,,,,laundry,,laundry
+"La Tour de Pizz""",48.6863484,6.1916537,restaurant,,,,,restaurant
+Yummy Sushi,48.6863998,6.1914409,fast_food,,,,,fast_food
+Les Nabis,48.6935227,6.1803284,,,,interior_decoration,,interior_decoration
+bis13,48.6935771,6.180289,,,,clothes,,clothes
+Escapades en vélo,48.6931372,6.1806068,,,,sports,,sports
+Établissement Petite Enfance Jeanne Wunschendorff,48.6965539,6.1736599,kindergarten,,,,,kindergarten
+Restaurant Bastion,48.6989159,6.1878591,restaurant,,,,,restaurant
+Modern'Pêche,48.7056319,6.176617,,,,fishing,,fishing
+Envie,48.6989998,6.1908132,,,,electronics,,electronics
+La Capsule,48.6834177,6.1854015,,,,alcohol,,alcohol
+Conail,48.6849248,6.1713274,,,,hairdresser,,hairdresser
+Le Placieux,48.6776627,6.168565,pub,,,,,pub
+Le Salon,48.6849736,6.1664093,,,,hairdresser,,hairdresser
+Pharmacie de la Commanderie,48.6860345,6.1676595,pharmacy,,,,,pharmacy
+Tabac Presse Oliverio,48.6859206,6.1680985,,,,newsagent,,newsagent
+Animouss',48.6864084,6.1632562,,,,pet_grooming,,pet_grooming
+Boulangerie Pâtisserie Braquehais,48.6858571,6.1613791,,,,bakery,,bakery
+Martine Coiffure,48.6863979,6.1632053,,,,hairdresser,,hairdresser
+Ver' Autre Chose,48.6908112,6.1839973,,,,interior_decoration,,interior_decoration
+Crèche Louise Delsart,48.6715941,6.1672306,kindergarten,,,,,kindergarten
+La Petite Cuillère,48.6980046,6.1784922,restaurant,,,,,restaurant
+Au delà d'1 miroir,48.6869728,6.1886018,,,,hairdresser,,hairdresser
+Milano Pizza,48.676218,6.1772994,fast_food,,,,,fast_food
+GL Permis,48.6790414,6.1801633,driving_school,,,,,driving_school
+Le Médiéval,48.6960284,6.177693,pub,,,,,pub
+Vindiou,48.6968436,6.1792032,bar,,,,,bar
+Mille Et Une Perles,48.6959601,6.1775224,,,,craft,,craft
+G.B Outillage,48.6824335,6.1971415,,,,hardware,,hardware
+Optic Lobo,48.681852,6.1974662,,,,optician,,optician
+Garage Le Médreville,48.6859128,6.1610222,,,,car_repair,,car_repair
+L'École de Conduite Française,48.6856222,6.1608188,driving_school,,,,,driving_school
+Gourmandises,48.6804241,6.1982023,,,,chocolate,,chocolate
+Les Fourmis Rouges,48.6930985,6.1989108,restaurant,,,,,restaurant
+Elite Kebab,48.6768216,6.17769,fast_food,,,,,fast_food
+Mustal,48.6872449,6.1800847,,,,hairdresser,,hairdresser
+KMGoddess,48.6822731,6.17816,,,,beauty,,beauty
+Elle & Lui,48.6763426,6.1774371,,,,hairdresser,,hairdresser
+Commanderie,48.6856999,6.1673208,car_sharing,,,,,car_sharing
+École élémentaire Alfred Mézières,48.7011448,6.170471,school,,,,,school
+Pizza L'Ostorea,48.6694061,6.1694551,fast_food,,,,,fast_food
+À La Bonne Gammelle,48.6892201,6.1980181,restaurant,,,,,restaurant
+Boulangerie Pâtisserie Janny,48.6833451,6.1899066,,,,bakery,,bakery
+The Barber Shop,48.6833042,6.1899737,,,,hairdresser,,hairdresser
+Le BoucL'Art,48.6963864,6.1923419,pub,,,,,pub
+Parking Verlaine,48.6884877,6.1639122,parking,,,,,parking
+Collège Saint-Léon IX,48.6884109,6.1719672,school,,,,,school
+Les 3 marches,48.6898242,6.1718907,restaurant,,,,,restaurant
+Lycée Saint-Léon IX,48.6887446,6.1718376,school,,,,,school
+École Saint-Léon IX,48.6889092,6.1725574,school,,,,,school
+Bibliothèque universitaire Ingénieurs ENSIC,48.6997601,6.1783995,library,,,,,library
+Shawarmahut,48.6906021,6.1827307,fast_food,,,,,fast_food
+Côté Sushi,48.6895922,6.1821433,fast_food,,,,,fast_food
+Le V'Four,48.6967826,6.1789188,restaurant,,,,,restaurant
+Le Petit Gavroche,48.6838932,6.1710625,pub,,,,,pub
+À tous les Français,48.6966207,6.1804567,,,,,memorial,memorial
+Pharmacie Saint-Fiacre,48.7013858,6.1716146,pharmacy,,,,,pharmacy
+Pharmacie de Bonsecours,48.6817234,6.1983078,pharmacy,,,,,pharmacy
+École maternelle Alfred Mézières,48.7005331,6.1712073,school,,,,,school
+Mise en Scène,48.6784988,6.1974029,,,,hairdresser,,hairdresser
+Bibliothèque Haussonville,48.6708723,6.1616385,library,,,,,library
+Bibliothèque République,48.6825037,6.1788965,library,,,,,library
+Bibliothèque Trois-Maisons,48.7029815,6.1769024,library,,,,,library
+Médiathèque Haut-du-Lièvre,48.7028782,6.1560216,library,,,,,library
+Parking République,48.6873001,6.1773303,parking,,,,,parking
+Asia Food,48.6993293,6.1900065,fast_food,,,,,fast_food
+Daum,48.6940128,6.18317,,,,jewelry,,jewelry
+Piopa,48.6893137,6.1781722,restaurant,,,,,restaurant
+Boucherie Charcuterie Dalle,48.685823,6.1612975,,,,butcher,,butcher
+Le Péché Gourmand,48.6865288,6.1639138,,,,bakery,,bakery
+Energymax,48.6863372,6.1635386,,,sports_centre,,,sports_centre
+Pressing de Médreville,48.6861063,6.1619762,,,,laundry,,laundry
+26 Corner,48.681036,6.1636653,fast_food,,,,,fast_food
+White Dream,48.685557,6.1666699,bar,,,,,bar
+Activ'Santé,48.685178,6.1665469,,,,medical_supply,,medical_supply
+La Fournaise,48.6857385,6.1941726,restaurant,,,,,restaurant
+L'Assiette Sympa,48.6859684,6.1932778,fast_food,,,,,fast_food
+Adequat,48.6846945,6.1700982,,,,furniture,,furniture
+Top Carrosserie,48.685742,6.1702353,,,,car_repair,,car_repair
+Arzum Kebab,48.6835138,6.1771804,fast_food,,,,,fast_food
+Mystic Tattoo,48.6832542,6.1773457,,,,tattoo,,tattoo
+Institut Alizé Beauté,48.6830081,6.1824059,,,,beauty,,beauty
+Le Bazar à Pierrot,48.6917082,6.1925664,bar,,,,,bar
+Full house,48.6847494,6.1703788,bar,,,,,bar
+Des Peaux d'Encre,48.6946545,6.1943268,,,,tattoo,,tattoo
+Copy Carnot,48.6954741,6.1768738,,,,copyshop,,copyshop
+Carrefour Express Nancy Leopold,48.6945513,6.1775365,,,,convenience,,convenience
+Mauricette,48.6913335,6.1754303,cafe,,,,,cafe
+Campus Food,48.6968552,6.1693988,fast_food,,,,,fast_food
+Bibliothèque universitaire de l'IUT Nancy-Charlemagne,48.6828014,6.1609874,library,,,,,library
+Institut National Spécialisé d’Études Territoriales,48.6957866,6.1960455,college,,,,,college
+Chapelle Sainte-Marie-Madeleine,48.6860879,6.1843317,place_of_worship,,,,,place_of_worship
+I Cut,48.6861529,6.1715014,,,,hairdresser,,hairdresser
+Vape Thé Café,48.6923402,6.1806566,cafe,,,,,cafe
+Service d'Orientation et d'Insertion Professionnelle,48.6936623,6.1663444,college,,,,,college
+Laverie Beauregard,48.6924337,6.1421112,,,,laundry,,laundry
+Allégorie de l'Alliance,48.6937772,6.1863039,,,,,monument,monument
+Buste de Jules Crevaux,48.6946111,6.1892419,,,,,monument,monument
+Police Municipale,48.6981136,6.1806598,police,,,,,police
+Buste d'Israël Silvestre,48.6942806,6.1823157,,artwork,,,,artwork
+Buste de Ferdinand de Saint-Urbain,48.6943726,6.1822546,,artwork,,,,artwork
+C'est papa qui l'a dit,48.689355,6.1795348,,,,toys,,toys
+Auto-École Jean,48.6936956,6.1806354,driving_school,,,,,driving_school
+Coiffure de So.Hé,48.6933354,6.180733,,,,hairdresser,,hairdresser
+Empreinte,48.692353,6.1811105,,,,shoes,,shoes
+Madeleine et Salsifis,48.6933945,6.1806841,,,,houseware,,houseware
+La Poste Nancy Stanislas,48.6920246,6.1814257,post_office,,,,,post_office
+Studio R,48.6937169,6.1807209,,,,hairdresser,,hairdresser
+Thés Mariage Frères,48.6936041,6.1805411,,,,tea,,tea
+Les Planches,48.6942385,6.1810092,restaurant,,,,,restaurant
+La Gentilhommière,48.6940841,6.1809698,restaurant,,,,,restaurant
+Thaï Hey,48.6941571,6.1812366,restaurant,,,,,restaurant
+La Piazzetta,48.6941812,6.1807711,restaurant,,,,,restaurant
+Le Bistrot de Gilles,48.694056,6.1808571,restaurant,,,,,restaurant
+Les Fils à Maman,48.6939635,6.1805035,restaurant,,,,,restaurant
+Les Tentations de Séb,48.6943648,6.1815307,,,,bakery,,bakery
+Sushi Kōbe,48.6803891,6.1752215,restaurant,,,,,restaurant
+Épicerie de nuit,48.6804231,6.1754328,,,,tobacco,,tobacco
+Hertz,48.6906941,6.1750143,car_rental,,,,,car_rental
+Pharmacie de Scarpone,48.7032041,6.1631462,pharmacy,,,,,pharmacy
+LCD Laboratoire Dentaire,48.6909931,6.1869744,dentist,,,,,dentist
+L'Empan,48.6819706,6.1646631,,,,frame,,frame
+BioAmap,48.6952632,6.1782997,,,,farm,,farm
+Gare Thiers,48.6903216,6.1749702,parking,,,,,parking
+Thiers,48.6898571,6.175055,taxi,,,,,taxi
+Impression Nancy,48.6825562,6.1621286,,,,copyshop,,copyshop
+Butter Station,48.6897495,6.1759249,pub,,,,,pub
+P&P Tattoo,48.6831305,6.1737853,,,,tattoo,,tattoo
+Le Mortissia,48.6878267,6.1823755,restaurant,,,,,restaurant
+Repar’phone,48.6878899,6.1825146,,,,mobile_phone,,mobile_phone
+Équinoxe,48.6874622,6.1826424,community_centre,,,,,community_centre
+La Bolée,48.6877107,6.1824604,restaurant,,,,,restaurant
+Le Bengale,48.6879449,6.1826869,restaurant,,,,,restaurant
+Karma,48.6879143,6.1825917,restaurant,,,,,restaurant
+Le Gibraltar,48.6879667,6.182755,restaurant,,,,,restaurant
+Fauteuil Privé,48.6882511,6.1737347,,,,hairdresser,,hairdresser
+Armel,48.6890825,6.1832807,,,,clothes,,clothes
+Empire de Chine,48.6887141,6.1824737,restaurant,,,,,restaurant
+Fujiyama,48.6890546,6.1831929,restaurant,,,,,restaurant
+B'Artiste,48.6885482,6.182849,cafe,,,,,cafe
+KhaoThip Express,48.6885548,6.1825303,restaurant,,,,,restaurant
+Line Sushi,48.6886024,6.182809,restaurant,,,,,restaurant
+Picard,48.6887108,6.1827292,,,,frozen_food,,frozen_food
+Azako Ramen,48.6886189,6.1824756,restaurant,,,,,restaurant
+Tovaki,48.6890276,6.1831078,,,,hairdresser,,hairdresser
+Pharmacie Lafayette du Marché,48.6891101,6.1838334,pharmacy,,,,,pharmacy
+Jacquie & Michel,48.6839979,6.1731882,,,,erotic,,erotic
+Octavius Burger,48.693166,6.1823421,fast_food,,,,,fast_food
+Racine,48.6930959,6.182087,restaurant,,,,,restaurant
+Grand Café Foy,48.6930707,6.1827061,cafe,,,,,cafe
+À la Table du Bon Roi Stanislas,48.6937541,6.1809632,restaurant,,,,,restaurant
+Les Arcades,48.6964163,6.1794594,bar,,,,,bar
+Maison des Soeurs Macarons,48.6924625,6.1814599,,,,confectionery,,confectionery
+Opéra Café,48.6944549,6.1832195,cafe,,,,,cafe
+Glaces Lorraines,48.6940344,6.1832872,ice_cream,,,,,ice_cream
+Suzette & Gino,48.6941488,6.1829908,restaurant,,,,,restaurant
+Toa,48.6940805,6.1816212,,,,toys,,toys
+Remy,48.6928548,6.1812935,,,,books,,books
+Sushi Shop,48.6926317,6.1809718,fast_food,,,,,fast_food
+La Puce à l'Oreille,48.6929684,6.1816664,restaurant,,,,,restaurant
+Le Phénix,48.6929423,6.1815811,pub,,,,,pub
+Les Berthom,48.6931466,6.182253,pub,,,,,pub
+Champêtre,48.6931141,6.1821461,restaurant,,,,,restaurant
+Café du Commerce,48.6932025,6.1826235,cafe,,,,,cafe
+Pharmacie Gambetta,48.692631,6.181972,pharmacy,,,,,pharmacy
+Chrome,48.6927973,6.1820795,,,,clothes,,clothes
+Honey,48.6907644,6.1800554,restaurant,,,,,restaurant
+Les Portes d'Or,48.6929204,6.1815084,,hotel,,,,hotel
+Weill,48.6925785,6.181412,,,,clothes,,clothes
+Transparence,48.6930075,6.1812186,restaurant,,,,,restaurant
+Le Café des Arts,48.6937784,6.1824583,restaurant,,,,,restaurant
+Réjan,48.6890031,6.1839136,,,,variety_store,,variety_store
+Ipso Facto,48.6916372,6.1813595,,,,hairdresser,,hairdresser
+Barami,48.6984479,6.1782253,bar,,,,,bar
+La Petite Épicerie Fine Comtoise,48.6982126,6.1784528,,,,deli,,deli
+Deichmann,48.6891472,6.1805497,,,,shoes,,shoes
+Negoc'or,48.6913258,6.1762824,,,,jewelry,,jewelry
+Dessange,48.6911704,6.1757685,,,,hairdresser,,hairdresser
+Au Duché de Lorraine,48.6905676,6.1756687,,,,confectionery,,confectionery
+biocoiff',48.6908967,6.1762195,,,,hairdresser,,hairdresser
+Enterprise Rent-a-Car,48.6906012,6.1750167,car_rental,,,,,car_rental
+SIXT,48.6911842,6.1750774,car_rental,,,,,car_rental
+Maison de la Chevelure,48.6906639,6.1758849,,,,hairdresser_supply,,hairdresser_supply
+Le Salon des Ongles,48.6908517,6.1760801,,,,beauty,,beauty
+Iconik,48.6904852,6.1756954,,,,kitchen,,kitchen
+Notre-Dame-des-Douleurs,48.6732481,6.1750574,,,,,wayside_shrine,wayside_shrine
+"La Fabrique, scène municipale - Nancy",48.7021441,6.1871642,theatre,,,,,theatre
+Act Danse,48.6840981,6.1705787,,,sports_centre,,,sports_centre
+Atelier La Main d'Or,48.6844218,6.172676,,,,antiques,,antiques
+Centre Culturel Georges Pomp It Up,48.6840458,6.1720664,,gallery,,,,gallery
+Kebab Cinq Étoiles,48.6840033,6.1717037,fast_food,,,,,fast_food
+Les Dessous du Vin,48.6839546,6.1707862,,,,alcohol,,alcohol
+TM Auto,48.684494,6.1703275,,,,car_repair,,car_repair
+Adagio Aparthotel,48.6936616,6.1911019,,hotel,,,,hotel
+Le Cœur du Grand Nancy,48.6889391,6.1755887,,artwork,,,,artwork
+Royale Coiffure,48.6866381,6.1681089,,,,hairdresser,,hairdresser
+Histoire d'entendre,48.6938687,6.1917015,,,,hearing_aids,,hearing_aids
+Trois Petits Points,48.693451,6.1894564,bar,,,,,bar
+EV,48.6777215,6.1685207,restaurant,,,,,restaurant
+Top Food,48.6933748,6.1914216,fast_food,,,,,fast_food
+Kes Original Döner,48.6934387,6.1915474,fast_food,,,,,fast_food
+Les Jolies Nancéiennes,48.6933101,6.1912834,,,,hairdresser,,hairdresser
+Koboon,48.6932792,6.1912234,restaurant,,,,,restaurant
+Bar La Cigale,48.6839185,6.1889562,bar,,,,,bar
+Central Kebab,48.6838903,6.1890038,fast_food,,,,,fast_food
+Europe Copy,48.6838725,6.189034,,,,copyshop,,copyshop
+Joëlle Création,48.6859585,6.1859144,,,,hairdresser,,hairdresser
+MMA,48.6859071,6.1859525,,,,vacant,,vacant
+Pharmacie Saint-Pierre,48.6833721,6.1904589,pharmacy,,,,,pharmacy
+PFG,48.6845318,6.1883469,,,,funeral_directors,,funeral_directors
+Tabac Touati,48.6840062,6.1888077,,,,tobacco,,tobacco
+Dr. Raphaël Gonella,48.6852532,6.187068,doctors,,,,,doctors
+Le Géant des Beaux-Arts,48.686001,6.1858313,,,,craft,,craft
+Mag service,48.6874182,6.1850888,,,,sewing,,sewing
+Victor Lemoine,48.6807003,6.1710886,,,,,memorial,memorial
+Aya @ Phone,48.689109,6.1833646,,,,mobile_phone,,mobile_phone
+C'est deux euros,48.6888942,6.1839928,,,,variety_store,,variety_store
+Mary Cohr,48.6891255,6.1834166,,,,beauty,,beauty
+Qipao,48.6845822,6.1876476,,,,beauty,,beauty
+Le clou,48.6845464,6.1877866,bar,,,,,bar
+3 Cageots,48.6888622,6.1826448,restaurant,,,,,restaurant
+Allrunes,48.6832612,6.1734889,,,,tattoo,,tattoo
+Tacos One,48.6840394,6.1857605,fast_food,,,,,fast_food
+Résidence autonomie Robert Chevardé,48.6980503,6.1931598,social_facility,,,,,social_facility
+La Souris Verte,48.68165,6.1931993,kindergarten,,,,,kindergarten
+Les P'tits Malins,48.6986156,6.1761586,kindergarten,,,,,kindergarten
+Établissement Petite Enfance Osiris,48.6888658,6.1795752,kindergarten,,,,,kindergarten
+M.Houmous,48.6864568,6.1857992,restaurant,,,,,restaurant
+La Clinique du Tapis,48.6714297,6.1661844,,,,dry_cleaning,,dry_cleaning
+Brasserie Restaurant du Parc Sainte-Marie,48.6803748,6.1720244,restaurant,,,,,restaurant
+Colonel Driant,48.6919918,6.1874249,,,,,memorial,memorial
+Général de Gaulle,48.6965549,6.1805033,,,,,memorial,memorial
+Points de vue,48.6954324,6.189559,,artwork,,,,artwork
+Mathieu de Dombasle,48.6917309,6.1782642,,,,,memorial,memorial
+Laboratoire De Toute Façon,48.6763744,6.1763624,,,,art,,art
+Arteteca,48.6868082,6.1710531,restaurant,,,,,restaurant
+Passionimaux,48.6883979,6.1651039,,,,pet_grooming,,pet_grooming
+Jolie Môme,48.6873142,6.1625781,,,,beauty,,beauty
+Noviciat des Jésuites 1602,48.6860312,6.1861133,,information,,,,information
+Pascal Vély,48.6782181,6.197693,dentist,,,,,dentist
+Mairie de Quartier Saint-Pierre,48.6821586,6.1917701,townhall,,,,,townhall
+Laverie Tassigny,48.6832086,6.1901238,,,,laundry,,laundry
+Singer,48.68164,6.1926376,,,,sewing,,sewing
+Oréade,48.6809062,6.1938212,,,,beauty,,beauty
+L'Olry,48.6808144,6.1939696,pub,,,,,pub
+Arts & Fenêtres,48.6786057,6.1977423,,,,glaziery,,glaziery
+EvoPC,48.6787046,6.197605,,,,computer,,computer
+MW Marc Werklé Automobiles,48.6765693,6.1960845,,,,car,,car
+Cartridge World,48.6872593,6.1849491,,,,printer_ink,,printer_ink
+L'Oreille est Hardie,48.6864061,6.1858367,,,,books,,books
+Le Shalimar,48.6867689,6.1853033,restaurant,,,,,restaurant
+Boulangerie Pâtisserie Jérôme et Sophia Poiré,48.686665,6.1853933,,,,bakery,,bakery
+À Jeanne d'Arc,48.6873043,6.1849161,,,,books,,books
+La Belle Mira,48.6906861,6.1727086,cafe,,,,,cafe
+IAE Nancy School of Management - Campus Manufacture,48.6974692,6.1716556,university,,,,,university
+Chez Xuân,48.6864445,6.1843835,restaurant,,,,,restaurant
+De l'Encre et des Trous,48.6875465,6.1835783,,,,tattoo,,tattoo
+Hannah Glamm,48.6876187,6.183526,,,,beauty,,beauty
+Le Royal Rajasthan,48.6866017,6.1842671,restaurant,,,,,restaurant
+PIX Pub,48.6874295,6.1830492,bar,,,,,bar
+O'Millimètre,48.6871876,6.183596,,,,hairdresser,,hairdresser
+Shellac Records,48.6874971,6.1836146,,,,music,,music
+R3C Cuisines,48.6874973,6.1832325,,,,kitchen,,kitchen
+Crêpes Street,48.6871293,6.1836392,restaurant,,,,,restaurant
+Tombe de la Famille Kempf,48.6901669,6.1628249,,,,,tomb,tomb
+Tombe de la Famille Finot,48.6890356,6.1655863,,,,,tomb,tomb
+Tombe d'Émile Friant,48.690293,6.1646281,,,,,tomb,tomb
+Tombe d'Auguste Desch,48.6893735,6.1660301,,,,,tomb,tomb
+Tombe de Léon Charles Bénigne Vaillant,48.6886674,6.1663976,,,,,tomb,tomb
+Tombe de Jean Prouvé et Claude Prouvé,48.691372,6.1640781,,,,,tomb,tomb
+Tombeau Henry Gutton,48.6915269,6.1639495,,,,,tomb,tomb
+Tombe de Charles Étienne,48.6899436,6.16496,,,,,tomb,tomb
+Tombe de la famille Voirin,48.6899265,6.1652354,,,,,tomb,tomb
+Tombe d'Antoine Corbin,48.6886567,6.1665354,,,,,tomb,tomb
+Tombe de la Famille Blosse,48.6886733,6.1665856,,,,,tomb,tomb
+Tombe de Lucien Weissenburger,48.6889216,6.1656796,,,,,tomb,tomb
+Tombe de la famille Dautcourt,48.6896595,6.1648703,,,,,tomb,tomb
+Tombe d'Émile Gallé,48.6914849,6.1620781,,,,,tomb,tomb
+Tombe de Virginie Mauvais,48.6907147,6.1644396,,,,,tomb,tomb
+Tombe de Louis Majorelle,48.6900332,6.1629194,,,,,tomb,tomb
+Buste d'Henri Loritz,48.6906988,6.1922635,,,,,memorial,memorial
+Caroll,48.6892405,6.1808895,,,,clothes,,clothes
+Lissac,48.6893041,6.181082,,,,optician,,optician
+Corbeille d'Or,48.6897212,6.1825444,,,,jewelry,,jewelry
+Le Bouche à Oreilles,48.6907323,6.1809904,restaurant,,,,,restaurant
+Le P'tit Bouche,48.6907847,6.1809519,restaurant,,,,,restaurant
+Tchip Coiffure,48.690965,6.1810729,,,,hairdresser,,hairdresser
+Alex' Son,48.691053,6.1810083,,,,hairdresser,,hairdresser
+Alphabets,48.6912053,6.1808933,,,,books,,books
+Le San Lorenzo,48.6923409,6.1800699,restaurant,,,,,restaurant
+Le Stanislas,48.6909027,6.1811183,,,,dry_cleaning,,dry_cleaning
+Triptik,48.6923125,6.179835,restaurant,,,,,restaurant
+Mercure Nancy Centre Place Stanislas,48.6919815,6.1803323,,hotel,,,,hotel
+Massimo Caffè,48.6925813,6.1799046,cafe,,,,,cafe
+Maison Lagniez,48.6923427,6.1796,,,,bakery,,bakery
+Hôtel de l'Académie,48.6925948,6.1787368,,hotel,,,,hotel
+Karrément Burger,48.6927515,6.1788138,fast_food,,,,,fast_food
+Underground Bar CLub,48.6924729,6.1787816,nightclub,,,,,nightclub
+Sépia Café,48.692521,6.1787885,cafe,,,,,cafe
+Quelque Chose de Bleu,48.6893284,6.1813159,,,,clothes,,clothes
+ô cozy,48.6885804,6.1818195,restaurant,,,,,restaurant
+Black Sand Tattoo Studio,48.6834973,6.1854915,,,,tattoo,,tattoo
+Gare de Nancy,48.6897855,6.1751375,compressed_air,,,,,compressed_air
+Les Restaurants du Cœur,48.6797155,6.1908887,social_facility,,,,,social_facility
+Basic-Fit,48.6811739,6.205133,,,fitness_centre,,,fitness_centre
+Wildness,48.6810476,6.2044594,bar,,sports_centre,,,bar
+La Cave de Léon,48.6810792,6.2045993,,,,alcohol,,alcohol
+Escape Hunt,48.6808211,6.2052625,,,escape_game,,,escape_game
+La Fabrique de Bières,48.6954582,6.1947376,restaurant,,,,,restaurant
+Sole Mio,48.6973939,6.1956395,restaurant,,,,,restaurant
+Chez Henri,48.6902213,6.1851452,restaurant,,,,,restaurant
+Famille Mary,48.6898068,6.1828098,,,,honey,,honey
+Foodies,48.6895645,6.1854148,fast_food,,,,,fast_food
+Home Made Burger,48.6846441,6.1790662,fast_food,,,,,fast_food
+Tabarnak,48.6846104,6.1789071,restaurant,,,,,restaurant
+Shakespeare,48.6846642,6.1791665,bar,,,,,bar
+Son Barber Shop,48.6846158,6.1794789,,,,hairdresser,,hairdresser
+Armand Thiery,48.6907832,6.1822046,,,,clothes,,clothes
+Baiser Volé,48.6903825,6.1809735,,,,jewelry,,jewelry
+Rituals,48.6906549,6.1818148,,,,cosmetics,,cosmetics
+Gsell,48.6902708,6.1805943,,,,bag,,bag
+Chez Bébert,48.69063,6.1801536,restaurant,,,,,restaurant
+Mood Café,48.6905381,6.1819922,cafe,,,,,cafe
+Pandora,48.6903367,6.1808318,,,,jewelry,,jewelry
+Au Grand Sérieux,48.6897025,6.1820006,bar,,,,,bar
+Chapellerie Raugraff,48.6897636,6.1819557,,,,clothes,,clothes
+Les Cocottes d'Yvonne,48.6901635,6.1813993,,,,houseware,,houseware
+L'Autre Galerie,48.6897722,6.1816947,,,,art,,art
+Les Lumières du Temps,48.6900377,6.1814998,,,,candles,,candles
+Chez Loïc et Corentin,48.6899445,6.181823,,,,bakery,,bakery
+Mercerie Raugraff,48.6897957,6.1819323,,,,fabric,,fabric
+New Yorker,48.6901674,6.1816591,,,,clothes,,clothes
+Rêves de Mômes,48.6899878,6.1817913,,,,shoes,,shoes
+Stauffer,48.6896465,6.181788,,,,jewelry,,jewelry
+Verdure,48.6900622,6.1817369,fast_food,,,,,fast_food
+Droguerie du Marché,48.6898713,6.1818767,,,,chemist,,chemist
+Pharmacie Naturabio,48.6900933,6.181459,pharmacy,,,,,pharmacy
+Diagonal,48.690205,6.1813769,,,,hairdresser,,hairdresser
+Addict Coiffure,48.6967324,6.1790292,,,,hairdresser,,hairdresser
+Gaspard le Montagnard,48.6970629,6.1792171,fast_food,,,,,fast_food
+La Lunetterie,48.6969269,6.1793687,,,,optician,,optician
+La Maison de la Bible,48.6980196,6.1786351,,,,books,,books
+Le Verger des Ducs,48.6980736,6.178587,,,,greengrocer,,greengrocer
+Parmantel Pascal,48.6982405,6.178307,,,,butcher,,butcher
+Style & Création,48.7002482,6.1810251,,,,hairdresser,,hairdresser
+Cabinet médical,48.6972356,6.1981656,doctors,,,,,doctors
+La Main d'Or,48.6882793,6.1869243,,,,hairdresser,,hairdresser
+La Rose de Tunis,48.6874353,6.1883347,,,,bakery,,bakery
+L'Escapade,48.6925506,6.1895363,restaurant,,,,,restaurant
+Lavage Auto Haussonville,48.6697879,6.1682767,,,,car_repair,,car_repair
+Pianos Schaeffer,48.6967471,6.1731467,,,,musical_instrument,,musical_instrument
+La Crinière,48.7005679,6.172196,,,,hairdresser,,hairdresser
+Julie C,48.7016346,6.171683,,,,hairdresser,,hairdresser
+Optique Wagner,48.7014971,6.1717381,,,,optician,,optician
+Orfleurs,48.7008874,6.1780641,,,,florist,,florist
+Hervé Léonard,48.7011125,6.1772785,driving_school,,,,,driving_school
+Soleil d'Ange,48.684241,6.1632003,kindergarten,,,,,kindergarten
+Daniel Meyer,48.6807779,6.1708305,,,,,memorial,memorial
+Fleur & K,48.6778122,6.19824,,,,florist,,florist
+Épicerie Nur,48.677593,6.1985065,,,,convenience,,convenience
+SG,48.6772341,6.1988375,atm,,,,,atm
+Pizza Olto,48.671196,6.1667495,fast_food,,,,,fast_food
+ABC Photocopies,48.6921406,6.168312,,,,copyshop,,copyshop
+Perroquet,48.6922261,6.1686488,fast_food,,,,,fast_food
+Le Verre Anis,48.692333,6.1676326,fast_food,,,,,fast_food
+Fashion Girl,48.6896391,6.1834405,,,,clothes,,clothes
+Hôtel Saint-Georges,48.6922912,6.1912463,,hotel,,,,hotel
+Auto-École Nancéienne,48.7026719,6.1749283,driving_school,,,,,driving_school
+Nightwish,48.6990502,6.1732836,,,,tattoo,,tattoo
+La Librairie Singulière et Plurielle,48.6947188,6.1799179,,,,books,,books
+Anim & Doc,48.6989874,6.1791795,veterinary,,,,,veterinary
+Nancy Modélisme,48.6969972,6.1577633,,,,toys,,toys
+Croix-Gagnée,48.6996842,6.1580837,,,,,wayside_cross,wayside_cross
+Boulangerie Cilla,48.6967767,6.1690223,,,,bakery,,bakery
+Les 7 Bourriches,48.6930015,6.1817752,restaurant,,,,,restaurant
+Acoté,48.692766,6.1811201,,,,clothes,,clothes
+Allegria,48.6928222,6.1811871,fast_food,,,,,fast_food
+Halte-garderie René II,48.6791547,6.1922389,kindergarten,,,,,kindergarten
+Crèche familiale,48.6887903,6.1793409,kindergarten,,,,,kindergarten
+Giulia,48.6887924,6.1791409,,artwork,,,,artwork
+Complexe sportif Paul Friederich,48.6987002,6.1394978,,,sports_centre,,,sports_centre
+California,48.6932735,6.1894753,fast_food,,,,,fast_food
+Croc'us,48.704303,6.1838096,,,,convenience,,convenience
+Foyer-Club Maréchal Leclerc,48.6742117,6.1741296,community_centre,,,,,community_centre
+Laverie Patton,48.6901751,6.1715892,,,,laundry,,laundry
+Les P'tits Gamins,48.678273,6.1752886,kindergarten,,,,,kindergarten
+Cabinet Vétérinaire Félin,48.6925325,6.1466202,veterinary,,,,,veterinary
+Pickles,48.6901915,6.1845087,fast_food,,,,,fast_food
+Quokka Café,48.6902504,6.184479,cafe,,,coffee,,cafe
+Avenue 24,48.6905689,6.1841032,,,,clothes,,clothes
+Les Seigneurs,48.6982594,6.1784059,bar,,,,,bar
+Nancy Bidouille Création Construction,48.6940289,6.1997602,,,hackerspace,,,hackerspace
+La Caverne du Gobelin,48.690185,6.1839915,,,,games,,games
+Marc Jacques Reprographie,48.6910855,6.1809876,,,,stationery,,stationery
+Salle des Fêtes de Gentilly,48.6984023,6.1395419,community_centre,,,,,community_centre
+La Cabane d’Achille & Camille,48.6947579,6.1702414,kindergarten,,,,,kindergarten
+Au Tiercé,48.6768921,6.1984619,bar,,,,,bar
+Class' Coiffure,48.6777355,6.1983337,,,,hairdresser,,hairdresser
+Jean Jaurès,48.6824325,6.1779467,polling_station,,,,,polling_station
+Montet,48.6817583,6.1853456,polling_station,,,,,polling_station
+Clemenceau,48.6749111,6.1820576,polling_station,,,,,polling_station
+Bouguignon,48.6746222,6.173618,polling_station,,,,,polling_station
+Haussonville,48.6683224,6.1640687,polling_station,,,,,polling_station
+Buthegnémont,48.6927982,6.1489889,polling_station,,,,,polling_station
+Beauregard,48.690122,6.1400773,polling_station,,,,,polling_station
+Buffon,48.701647,6.1540441,polling_station,,,,,polling_station
+Alfred Mézières,48.7005282,6.1711918,polling_station,,,,,polling_station
+3 Maisons,48.7021722,6.1772152,polling_station,,,,,polling_station
+Braconnot,48.6988291,6.1797218,polling_station,,,,,polling_station
+Saint-Georges,48.6964755,6.1934134,polling_station,,,,,polling_station
+Hôtel de Ville,48.6929439,6.1835995,polling_station,,,,,polling_station
+Martiny,48.6900069,6.1963447,polling_station,,,,,polling_station
+Charles III,48.686775,6.1881208,polling_station,,,,,polling_station
+Émile Gallé,48.6815834,6.191388,polling_station,,,,,polling_station
+Marcel Leroy,48.6827536,6.1713309,polling_station,,,,,polling_station
+Didion,48.6886771,6.1788067,polling_station,,,,,polling_station
+Poincaré,48.6907878,6.1776886,polling_station,,,,,polling_station
+Charlemagne,48.6845647,6.1622381,polling_station,,,,,polling_station
+Stanislas,48.6899332,6.1696662,polling_station,,,,,polling_station
+Boudonville,48.6981361,6.1639001,polling_station,,,,,polling_station
+The Achievement,48.683644,6.1778197,bar,,,,,bar
+La Cour des Arts,48.6916027,6.1826329,restaurant,,,,,restaurant
+Miller Tradition,48.6894379,6.1823974,,,,bakery,,bakery
+Boucherie Charcuterie Edouard et Virginie Rocher,48.6892352,6.1826417,,,,butcher,,butcher
+Driant,48.6922244,6.1877488,car_sharing,,,,,car_sharing
+Maginot,48.6896936,6.1774668,car_sharing,,,,,car_sharing
+Boutique de l'Encre,48.6963005,6.1518195,,,,printer_ink,,printer_ink
+École de musique,48.6919581,6.1877006,music_school,,,,,music_school
+La Maison dans le Parc,48.6941849,6.1851687,restaurant,,,,,restaurant
+Le Vivier,48.6942312,6.1815193,restaurant,,,,,restaurant
+Sisco,48.6942573,6.181597,restaurant,,,,,restaurant
+Le RDV,48.6906299,6.1744805,restaurant,,,,,restaurant
+ICN Business School,48.6741379,6.1705358,college,,,,,college
+Tanto Bene,48.6895214,6.1770263,fast_food,,,,,fast_food
+Marc Evangelista,48.689196,6.1772078,doctors,,,,,doctors
+Soddys,48.6890942,6.1788435,,,,clothes,,clothes
+Sweety,48.6891545,6.1787989,,,,jewelry,,jewelry
+RB,48.6892203,6.1787501,,,,clothes,,clothes
+Calzedonia,48.6896841,6.1793379,,,,clothes,,clothes
+Armée du Salut,48.6969977,6.1914128,social_facility,,,,,social_facility
+Natsu,48.6853514,6.1868275,restaurant,,,,,restaurant
+Geox,48.6916578,6.1835405,,,,shoes,,shoes
+Optic 2000,48.6916894,6.1835241,,,,optician,,optician
+Ganeval,48.6913495,6.1819232,,,,optician,,optician
+Atout Manga,48.6914435,6.1826676,,,,books,,books
+Librairie Didier,48.6928851,6.1823466,,,,books,,books
+Des Petits Hauts,48.6926722,6.1816971,,,,clothes,,clothes
+Schmitt Chocolatier,48.6926925,6.1817592,,,,confectionery,,confectionery
+American Vintage,48.6926096,6.1819058,,,,clothes,,clothes
+The Kooples,48.6925484,6.1817158,,,,clothes,,clothes
+Mont Blanc,48.6926349,6.1815832,,,,jewelry,,jewelry
+Dika,48.6925601,6.1812734,,,,clothes,,clothes
+Tolub,48.6926599,6.1820604,,,,clothes,,clothes
+Ba&sh,48.6926941,6.1821638,,,,clothes,,clothes
+Ziemann & Co.,48.6927898,6.1824551,,,,clothes,,clothes
+IT Italian Trattoria,48.6894158,6.1815918,restaurant,,,,,restaurant
+Le Boufflers,48.6891658,6.1614614,restaurant,,,,,restaurant
+Kosy appart'hôtel Cœur de Ville,48.6903891,6.1749286,,hotel,,,,hotel
+Néméa Appart hotel Nancy,48.6857224,6.1905244,,hotel,,,,hotel
+Bagelstein,48.6903853,6.1844176,fast_food,,,,,fast_food
+Mama Noï vs. Memphis Burger,48.6905076,6.1841307,fast_food,,,,,fast_food
+À Taaable,48.6903846,6.1841954,,,,interior_decoration,,interior_decoration
+Hulot,48.689455,6.1817121,,,,pastry,,pastry
+Auto-École Patton,48.6906546,6.1711892,driving_school,,,,,driving_school
+Hôtel Ibis Styles Nancy Centre Gare,48.6903321,6.1714605,,hotel,,,,hotel
+Le Dizneuf,48.6888316,6.1823196,restaurant,,,,,restaurant
+Alliance du Travail et de la Pensée,48.6918358,6.1882714,,artwork,,,,artwork
+La Feinte de l'Ours,48.6848303,6.1867487,cafe,,,,,cafe
+MySpa,48.6920349,6.1883971,,,,beauty,,beauty
+Pilates Inspire Home Studio,48.6763076,6.1740529,,,sports_centre,,,sports_centre
+Exo Est,48.6929355,6.1905005,,,,convenience,,convenience
+La Lotharingie,48.6976692,6.1787071,,,,newsagent,,newsagent
+Le Relais des Cordeliers,48.6976354,6.1787121,,apartment,,,,apartment
+CopyFak,48.6921529,6.1689024,,,,copyshop,,copyshop
+Le National,48.6959205,6.189899,bar,,,,,bar
+Les Délices de Céline,48.6958615,6.1899397,,,,bakery,,bakery
+Le Petit Pain,48.6857997,6.1939212,fast_food,,,,,fast_food
+Saveurs d'Orient,48.6893846,6.1852787,,,,convenience,,convenience
+Docteur Anne-Marie Gisquet Chabane,48.6896107,6.1720604,doctors,,,,,doctors
+Ippoudo Ramen,48.6881714,6.1842767,restaurant,,,,,restaurant
+Chez 86,48.7017526,6.1715722,restaurant,,,,,restaurant
+Linvosges,48.6913607,6.1821698,,,,household_linen,,household_linen
+Les 3 Gus,48.6937833,6.1804347,bar,,,,,bar
+La Table de Bacchus,48.6942109,6.1814486,restaurant,,,,,restaurant
+Casa Zaza,48.6944072,6.1816382,restaurant,,,,,restaurant
+Jack Tavern,48.6941848,6.1812755,restaurant,,,,,restaurant
+Le Potager,48.6941282,6.1811215,restaurant,,,,,restaurant
+Le Palais de Shalimar,48.6943269,6.1814119,restaurant,,,,,restaurant
+Le Comptoir de Bacchus,48.6942953,6.1813722,restaurant,,,,,restaurant
+Le Gavroche,48.6965317,6.1793119,cafe,,,,,cafe
+Docteur Bruno Stempfel,48.6749898,6.1762269,doctors,,,,,doctors
+Meurthe-et-Moselle Habitat,48.6914898,6.175349,social_facility,,,,,social_facility
+Retrogusto,48.6927735,6.1805358,restaurant,,,,,restaurant
+Music Challenge Guitars,48.6928343,6.1806761,,,,musical_instrument,,musical_instrument
+Bouquiniste,48.6895894,6.1831591,,,,books,,books
+Optalor,48.6882739,6.1841997,,,,optician,,optician
+Le Cahier Bleu,48.6886129,6.1847875,,,,books,,books
+Parking Ville-Vieille Carnot,48.6931824,6.177806,parking,,,,,parking
+KLEIN Éric,48.6882881,6.1849604,doctors,,,,,doctors
+(S)pace Artem,48.6735688,6.1693227,restaurant,,,,,restaurant
+Cosmic Park 54,48.6847308,6.2042686,,,sports_centre,,,sports_centre
+Angelùzzo,48.6903871,6.1828886,restaurant,,,,,restaurant
+Crédit Municipal,48.6943943,6.1804698,bank,,,,,bank
+Auto-École Antoine,48.7030185,6.1813622,driving_school,,,,,driving_school
+Café Cuba,48.6926017,6.1774797,restaurant,,,,,restaurant
+Copy Com,48.6920886,6.1774216,,,,copyshop,,copyshop
+Coyote,48.6922487,6.1772187,fast_food,,,,,fast_food
+Carnot,48.6924239,6.1769076,,,,tobacco,,tobacco
+À la Maison,48.692435,6.1769615,restaurant,,,,,restaurant
+Brasserie L'Académie,48.6925412,6.1773135,restaurant,,,,,restaurant
+Pont 29,48.6882602,6.1820549,restaurant,,,,,restaurant
+La Réserve,48.6971687,6.1791643,,,,clothes,,clothes
+5àsec,48.6878218,6.179961,,,,dry_cleaning,,dry_cleaning
+Le Taureau,48.6885179,6.1768416,,artwork,,,,artwork
+Institut Européen de la Vision et du Regard,48.6999693,6.1440982,clinic,,,,,clinic
+Le 213,48.6906564,6.1801343,,,,hairdresser,,hairdresser
+Le Repère,48.6907362,6.1802388,,,,clothes,,clothes
+Boulet,48.6963298,6.180264,,,,clothes,,clothes
+Mamie Branchée,48.6926649,6.1849359,restaurant,,,,,restaurant
+Le Bras Verre,48.6961629,6.1960034,bar,,,,,bar
+Crock & Rock,48.6934983,6.1905698,restaurant,,,vacant,,restaurant
+Pokawa,48.6893883,6.1814407,fast_food,,,,,fast_food
+Stan,48.6953483,6.1897342,,artwork,,,,artwork
+Le Mur,48.6885373,6.1815061,,artwork,,,,artwork
+Le Bouquet,48.6851087,6.1867893,,artwork,,,,artwork
+Marché du Plateau de Haye,48.702794,6.1531105,marketplace,,,,,marketplace
+Auchan,48.6806864,6.1988077,,,,supermarket,,supermarket
+Søstrene Grene,48.6893523,6.17733,,,,interior_decoration,,interior_decoration
+Keepcool,48.6892688,6.1772553,,,fitness_centre,,,fitness_centre
+LD Pâtisserie,48.69037,6.1803436,,,,pastry,,pastry
+La Fée Maraboutée,48.6905961,6.1816305,,,,clothes,,clothes
+Vins et Tartines,48.6884578,6.1819096,restaurant,,,,,restaurant
+Les Pissenlits,48.6883468,6.1819912,restaurant,,,,,restaurant
+La Ruche Qui Dit Oui !,48.6749426,6.1723562,,,,farm,,farm
+Fischer 1913,48.7034603,6.1630361,,,,bakery,,bakery
+Gink’Go Biblio,48.6806568,6.1717354,public_bookcase,,,,,public_bookcase
+Central Pressing,48.6895732,6.1850207,,,,laundry,,laundry
+Linder’s Billards La Billarderie,48.6898275,6.1847672,,,,sports,,sports
+Des fringues et des aiguilles,48.6901469,6.184533,,,,clothes;tattoo,,clothes;tattoo
+École élémentaire Didion-Raugraff,48.6872285,6.1798118,school,,,,,school
+Le Brunch des Garçons,48.6893129,6.1797638,cafe,,,,,cafe
+Iron BodyFit,48.6899255,6.2001018,,,fitness_centre,,,fitness_centre
+Teatime chez Tatie,48.6904852,6.1802595,cafe,,,,,cafe
+Vertigo,48.690662,6.1802935,bar,,,,,bar
+Ambassy,48.6909844,6.1755897,bar,,,,,bar
+"Dr Guyot-Caquelin et Dr Slingard, Dermatologues",48.6852871,6.1597492,doctors,,,,,doctors
+Médre Kebab Pizza,48.6856657,6.1609227,fast_food,,,,,fast_food
+Le Snooze,48.6917301,6.1843283,nightclub,,,,,nightclub
+Le Bagatelle,48.6941156,6.182733,bar,,,,,bar
+Les Caves,48.6938086,6.1825551,nightclub,,,,,nightclub
+L'Arq,48.6940248,6.1827957,nightclub,,,,,nightclub
+Collège Guynemer,48.6873908,6.1797144,school,,,,,school
+Parking Joffre - Saint-Thiébaut,48.6875732,6.1796433,parking,,,,,parking
+Foyer Sainte-Marie,48.6853491,6.1843868,social_facility,,,,,social_facility
+"Place de la Carrière, 1751-1753",48.6966482,6.1804438,,information,,,,information
+Ordre national du mérite,48.6964967,6.180462,,information,,,,information
+Naan'cy pizza,48.6835902,6.1811121,fast_food,,,,,fast_food
+École du style et de la beauté,48.6972048,6.1737357,college,,,,,college
+École des métiers de l'entreprise,48.6971836,6.1736405,college,,,,,college
+O'Noodle,48.6930604,6.1819708,restaurant,,,,,restaurant
+Max Mara,48.6910801,6.1821222,,,,clothes,,clothes
+Ruin Bär,48.6911542,6.1820705,bar,,,,,bar
+Bloom,48.693859,6.181339,,,,cosmetics,,cosmetics
+Wall Street English,48.6867384,6.1792064,language_school,,,,,language_school
+Carpe Diem,48.688652,6.1670549,bar,,,,,bar
+Grand Prix,48.6918288,6.1774566,driving_school,,,,,driving_school
+Iberico,48.6845542,6.1864224,restaurant,,,,,restaurant
+Jacques Mugnié - Hervé Anché Masseurs-kinésithérapeutes D.E.,48.6743876,6.163875,doctors,,,,,doctors
+Médecine générale - Infirmiers,48.6748275,6.1634653,doctors,,,,,doctors
+Droguerie de la Craffe,48.6979565,6.178688,,,,chemist,,chemist
+Cabinet Docteur Hélène QUENETTE,48.6706301,6.1705521,dentist,,,,,dentist
+Faycut,48.6915202,6.1764539,,,,hairdresser,,hairdresser
+Sorbet Citron,48.6979224,6.1787151,,,,confectionery,,confectionery
+Amorino,48.6942769,6.1829013,ice_cream,,,,,ice_cream
+Hair'Man,48.6887514,6.1856661,,,,hairdresser,,hairdresser
+Biscotto,48.6967566,6.1791317,fast_food,,,,,fast_food
+La Muraille de Chine,48.691592,6.1758881,restaurant,,,,,restaurant
+Adèle Millerand Masseur-kinésithérapeute D.E.,48.6738389,6.1642371,doctors,,,,,doctors
+Melle Pole,48.6823662,6.1843017,,,dance,,,dance
+Phone Express,48.6917402,6.1758354,,,,mobile_phone,,mobile_phone
+Maison Thomas,48.6903963,6.1727578,,,,butcher,,butcher
+Le soulier,48.6897387,6.1845983,,,,shoes,,shoes
+Copy Stan services,48.6916179,6.1767283,,,,copyshop,,copyshop
+La boucherie d'Haussonville,48.6767145,6.1627004,,,,butcher,,butcher
+Brexit,48.6902006,6.1840396,bar,,,,,bar
+La Poste relais Nancy Jean Jaurès,48.6814225,6.178637,post_office,,,,,post_office
+Nirvana,48.6910323,6.1734239,nightclub,,,,,nightclub
+Le Copiste,48.6964695,6.1727306,,,,copyshop,,copyshop
+Claire Bonneville,48.6961041,6.1726793,doctors,,,,,doctors
+Bernard Poirot,48.694381,6.1741233,doctors,,,,,doctors
+Petit être,48.6883424,6.184399,,,,baby_goods,,baby_goods
+Les Tatas Fringueuses,48.6886944,6.1850436,,,,clothes,,clothes
+Zeugma,48.6887476,6.184944,restaurant,,,,,restaurant
+Médiathèque du Campus Artem,48.6739218,6.1707529,library,,,,,library
+Cabinet dentaire de la Commanderie,48.6859507,6.1677622,dentist,,,,,dentist
+Arthur Trognon,48.683274,6.1671133,doctors,,,,,doctors
+Nadine Bertoni,48.6832536,6.1671233,doctors,,,,,doctors
+École de Conduite Française - Agence Ernest,48.6821143,6.1653888,driving_school,,,,,driving_school
+Cam'Café,48.6871181,6.1722857,cafe,,,,,cafe
+Jean-François Michel,48.6871162,6.1726317,doctors,,,,,doctors
+Le Barbier,48.6964506,6.1925525,,,,hairdresser,,hairdresser
+Little Delirium Café,48.6880603,6.1782701,pub,,,,,pub
+La Forteresse,48.7010986,6.1761912,fast_food,,,,,fast_food
+Simona Kolopp,48.67932,6.1751214,doctors,,,,,doctors
+Habib Yettou,48.6815301,6.1819394,doctors,,,,,doctors
+La Belle Trouvaille,48.6867294,6.1851535,,,,clothes,,clothes
+Pauline Humbert,48.6858309,6.1848578,dentist,,,,,dentist
+David Dietsch,48.6858475,6.1848897,dentist,,,,,dentist
+Stew Cook,48.6874487,6.1874061,restaurant,,,,,restaurant
+Nicolas Duchâtel,48.6823396,6.1712163,doctors,,,,,doctors
+MS Auto,48.6852809,6.1769868,,,,car_repair,,car_repair
+China Market,48.684128,6.1804416,,,,supermarket,,supermarket
+billiotte,48.6876565,6.1825333,dentist,,,,,dentist
+Optique Lafayette,48.6893432,6.1840224,,,,optician,,optician
+Parapharmacie Lafayette,48.6894033,6.1842324,,,,chemist,,chemist
+Cash Express,48.6894769,6.1844814,,,,second_hand,,second_hand
+Centre d'information sur les droits des femmes et des familles,48.6918546,6.1874241,social_facility,,,,,social_facility
+Le Capri,48.6930261,6.1813693,restaurant,,,,,restaurant
+De Gillaumé,48.6930631,6.1814907,,,,hairdresser,,hairdresser
+L'Arôme,48.6937242,6.189423,pub,,,,,pub
+Amazigh Café,48.6938137,6.1976597,cafe,,,,,cafe
+Le Palais de Jaipur,48.6941482,6.181191,restaurant,,,,,restaurant
+Maison de Justice et du Droit,48.7013837,6.1513769,social_facility,,,,,social_facility
+Thierry Michel,48.682581,6.1743526,doctors,,,,,doctors
+Cabinet de chirurgie dentaire,48.6821007,6.1642043,dentist,,,,,dentist
+Jacques Prévost,48.6842811,6.1631796,dentist,,,,,dentist
+Sylvie Perrin,48.6742363,6.1675226,doctors,,,,,doctors
+Estelle Redon,48.6742201,6.1674787,doctors,,,,,doctors
+Jean-Pascal Fyad,48.6950275,6.1818071,doctors,,,,,doctors
+Mélanie Amiot,48.6949753,6.1818482,doctors,,,,,doctors
+Laura Giacomoni,48.6950194,6.1817717,doctors,,,,,doctors
+Angela,48.6956591,6.1813915,,,,beauty,,beauty
+Eric Blanc,48.6963233,6.1809064,dentist,,,,,dentist
+Jacques,48.695688,6.1808505,restaurant,,,,,restaurant
+Studio Elite Training,48.6965189,6.181655,,,fitness_centre,,,fitness_centre
+Idiotopie,48.6946999,6.1816388,,gallery,,,,gallery
+Bluën,48.6958438,6.1809029,cafe,,,clothes,,cafe
+La Romana,48.6945825,6.1817183,restaurant,,,,,restaurant
+L'Amusette,48.6946153,6.1797966,restaurant,,,,,restaurant
+Les Batteurs d'Or,48.6895924,6.1800042,restaurant,,,,,restaurant
+Le Capu,48.692192,6.1806175,restaurant,,,,,restaurant
+SSIAD Sainte-Marie,48.6854031,6.1843975,social_facility,,,,,social_facility
+Bruno Delaitre,48.6869712,6.17098,dentist,,,,,dentist
+Nancy Food Pizzas - Au feu de bois,48.6987985,6.1784776,restaurant,,,,,restaurant
+La Girafe,48.7059125,6.1752284,,artwork,,,,artwork
+Le petit Flacons,48.6926742,6.1812061,,,,perfumery,,perfumery
+Scarlette & Joe,48.6921861,6.1815571,,,,clothes,,clothes
+La Suite...,48.6914056,6.1821361,,,,clothes,,clothes
+City Kebab,48.6919224,6.1817539,fast_food,,,,,fast_food
+Séverine Ciancioni,48.6926528,6.1812301,dentist,,,,,dentist
+Podiums,48.6921451,6.1815879,,,,clothes,,clothes
+Sèves,48.6922902,6.1814789,cafe,,,,,cafe
+Tabac au Pacha,48.6920525,6.1816572,,,,tobacco,,tobacco
+Lorenzini-Pham,48.692025,6.1816778,,,,optician,,optician
+Symeon,48.6919529,6.1817313,,,,interior_decoration,,interior_decoration
+La Boutique du Coiffeur,48.6913062,6.1822103,,,,cosmetics,,cosmetics
+Jalla,48.6912421,6.1822582,,,,household_linen,,household_linen
+Monsieur Fuji Sushi,48.6905438,6.1827744,restaurant,,,,,restaurant
+PhotoKrome,48.6904891,6.1828139,,,,photo,,photo
+Trouvé,48.6905138,6.1827957,,,,shoes,,shoes
+New Optic,48.6892906,6.183715,,,,optician,,optician
+Speebon,48.6889017,6.1837358,fast_food,,,,,fast_food
+Tacos des Gourmets,48.6889318,6.1837135,fast_food,,,,,fast_food
+Promovacances,48.6906405,6.1827022,,,,travel_agency,,travel_agency
+Auto-école Virlat,48.6923852,6.1871573,driving_school,,,,,driving_school
+Nancy 1900,48.6923491,6.1870337,,,,antiques,,antiques
+Ciao Bella,48.690339,6.1846887,restaurant,,,,,restaurant
+Liserons Blancs,48.6908225,6.1847876,,,,books,,books
+Copy St Julien,48.6920587,6.1839263,,,,copyshop,,copyshop
+Essentiel Tattoo,48.6990246,6.1793775,,,,tattoo,,tattoo
+Résidence Art' & Facts,48.6764647,6.1694546,,hotel,,,,hotel
+Poulaillon,48.6819357,6.1984547,,,,bakery,,bakery
+Cercle Nancéien de Judo,48.682157,6.1973341,,,sports_centre,,,sports_centre
+Le Steakhouse,48.6816833,6.197941,restaurant,,,,,restaurant
+Les Tournesols,48.6843506,6.1962445,restaurant,,,,,restaurant
+Pink Plaisir,48.6839228,6.1961835,,,,erotic,,erotic
+Épicerie du coin,48.6896439,6.1939017,,,,convenience,,convenience
+Brigade des Accidents,48.7003188,6.1761599,police,,,,,police
+Épicerie Mixte,48.6826048,6.1917199,,,,convenience,,convenience
+L'Échoppe Magique,48.6882905,6.1786115,,,,gift,,gift
+Cathy Hair Shop,48.6882634,6.1785254,,,,hairdresser,,hairdresser
+Nelnami,48.6927305,6.1803473,,,,clothes,,clothes
+Flem,48.6927505,6.1804214,cafe,,,coffee,,cafe
+La Corne d'Or,48.6926074,6.1804733,fast_food,,,,,fast_food
+Sanctus Tattoo,48.6926294,6.1805469,,,,tattoo,,tattoo
+Punk Records,48.6941098,6.1810654,,,,discs,,discs
+Musée Archéologique,48.6953566,6.1657399,,museum,,,,museum
+Philippe Grandemange,48.6833667,6.1629999,doctors,,,,,doctors
+Garage Baretti,48.6837364,6.1647009,,,,car_repair,,car_repair
+Charle'miam,48.682767,6.1610371,fast_food,,,,,fast_food
+Ma bulle bio,48.6947978,6.1876537,,,,beauty,,beauty
+Le Bistro Héré,48.6942438,6.1829243,restaurant,,,,,restaurant
+Tabac Presse Le Héré,48.694057,6.1830546,,,,newsagent,,newsagent
+Dao,48.6941741,6.1826928,,,,clothes,,clothes
+Diffusion Internationale Meuble,48.6940814,6.1827566,,,,furniture,,furniture
+Le petit Jean Lam,48.6939577,6.182842,cafe,,,,,cafe
+Auto-école Pilote,48.6920557,6.1797675,driving_school,,,,,driving_school
+Coiffure Homme,48.69224,6.1803487,,,,hairdresser,,hairdresser
+American Bazar,48.6909998,6.176532,,,,clothes,,clothes
+Arbre à livres Dylan Pelot,48.6990994,6.1886237,public_bookcase,,,,,public_bookcase
+Nord Est Lounge,48.6894253,6.1794839,bar,,,,,bar
+Stef,48.6962491,6.1786452,,,,bakery,,bakery
+Espace 3A,48.6863342,6.1635968,coworking_space,,,,,coworking_space
+Institut de formation du CHU de Nancy,48.6778546,6.2024823,college,,,,,college
+Amazon Hub Locker Anja,48.6851081,6.1610463,parcel_locker,,,,,parcel_locker
+Michèle Colmez,48.687668,6.1728752,music_school,,,,,music_school
+Hôtels (Centre Gare),48.6872775,6.172666,,information,,,,information
+French Coffee Shop,48.6909491,6.1842001,cafe,,,,,cafe
+Onze,48.6913397,6.179841,,,,hairdresser,,hairdresser
+Docteur Sophie Guirten,48.6871527,6.1697196,dentist,,,,,dentist
+SCP Cardiovasculaire de l'Est,48.6867717,6.1685965,clinic,,,,,clinic
+Craffe,48.6984956,6.17773,car_sharing,,,,,car_sharing
+Cube TV,48.6923754,6.1773793,,,amusement_arcade,,,amusement_arcade
+Da' Gruma,48.6921997,6.1812945,restaurant,,,,,restaurant
+Coudre & Broder,48.6869884,6.1851485,,,,sewing,,sewing
+Lady beauté,48.6926705,6.1809432,,,,cosmetics,,cosmetics
+Freedom Théâtre,48.6871204,6.1850513,theatre,,,,,theatre
+A.R.M.,48.6857755,6.1859342,,,,hairdresser,,hairdresser
+Panthaire,48.6915393,6.1824338,,,,hairdresser,,hairdresser
+Cuisines Leicht,48.6868537,6.1851938,,,,kitchen,,kitchen
+Vêt Éthic,48.6885361,6.1842573,,,,clothes,,clothes
+Word Phone,48.6887759,6.183829,,,,mobile_phone,,mobile_phone
+Sam Barber Shop,48.6887195,6.1838707,,,,hairdresser,,hairdresser
+Couronne,48.6885726,6.1842302,,,,hairdresser,,hairdresser
+A'Corps beauté,48.6860291,6.1846845,,,,beauty,,beauty
+Flacons,48.6925553,6.1810283,,,,perfumery,,perfumery
+Jean Charles,48.6929178,6.1824465,,,,clothes,,clothes
+Boulet kids,48.6928118,6.1821218,,,,clothes,,clothes
+Damien A.,48.6859676,6.184729,,,,hairdresser,,hairdresser
+Cotélac,48.6924815,6.1810678,,,,clothes,,clothes
+Arc d'or,48.6886647,6.1841619,,,,jewelry,,jewelry
+Shéhérazade,48.6914891,6.1828947,,,,carpet,,carpet
+Indies,48.69294,6.1825141,,,,clothes,,clothes
+Hookah,48.6858716,6.1859789,,,,e-cigarette,,e-cigarette
+L'or lorrain,48.6868325,6.1841009,,,,gold_buyer,,gold_buyer
+La Boite à Piles,48.687473,6.1850484,,,,radiotechnics,,radiotechnics
+Green Kebab & Tacos,48.6887039,6.1841329,fast_food,,,,,fast_food
+Yom Thaï Food,48.685811,6.1860099,restaurant,,,,,restaurant
+Audrey Didot,48.6853711,6.1613324,dentist,,,,,dentist
+Salaün,48.69214,6.1813391,,,,travel_agency,,travel_agency
+Anadolu,48.6865378,6.1857395,fast_food,,,,,fast_food
+L’Èbène,48.6885172,6.1840212,restaurant,,,,,restaurant
+Dünya LED,48.6881174,6.1843176,,,,lighting,,lighting
+Le DM's Café,48.6840954,6.1771502,cafe,,,newsagent,,cafe
+Christophe Charton,48.6863493,6.1657834,dentist,,,,,dentist
+Les Domaines Qui Montent,48.683947,6.1769458,restaurant,,,wine,,restaurant
+Le P'tit Liégeois,48.6899018,6.1806881,cafe,,,,,cafe
+Galerie de l'Atelier,48.6960605,6.1805637,,gallery,,,,gallery
+Maison Délices,48.6842239,6.1770672,,,,pastry,,pastry
+Victoria's English,48.6874568,6.1706797,language_school,,,,,language_school
+Écouter Voir,48.6898239,6.1807451,,,,optician,,optician
+Hommage à Lamour,48.6938619,6.1818382,,artwork,,,,artwork
+Traits d'union,48.6904339,6.1767868,,artwork,,,,artwork
+Musée de l'ecole de Nancy,48.6804609,6.1663414,,information,,,,information
+Bar des Carmes,48.6916673,6.1803089,bar,,,,,bar
+Benjamin Surrel,48.6945647,6.1821316,doctors,,,,,doctors
+Educarest,48.6917154,6.1811928,driving_school,,,,,driving_school
+Guidat,48.6886183,6.1735775,dentist,,,,,dentist
+Musée de l'école de Nancy,48.6804711,6.1661581,,,,ticket,,ticket
+9etA,48.6909035,6.1801166,,,,beauty,,beauty
+Amazon Locker Louison,48.6895795,6.1733941,parcel_locker,,,,,parcel_locker
+Morino,48.6912192,6.1798849,,,,optician,,optician
+Les Garçons Coiffeurs,48.6915958,6.1806128,,,,hairdresser,,hairdresser
+Mysteria Temporis,48.6906637,6.1796974,,,,books,,books
+Lihua,48.6880684,6.1843555,,,,clothes,,clothes
+Vino Grande Rue,48.697524,6.1788624,,,,alcohol,,alcohol
+Steve Art Tattoo,48.6923914,6.1837433,,,,tattoo,,tattoo
+Green Bagel Café,48.6913157,6.1798144,fast_food,,,,,fast_food
+Artisans du Monde,48.691253,6.1808547,,,,charity,,charity
+La Faille,48.6915096,6.1810126,bar,,,,,bar
+Maison Varry,48.6916932,6.180542,,,,interior_decoration,,interior_decoration
+Écouter voir,48.6875496,6.1826143,,,,hearing_aids,,hearing_aids
+Institut plume de coton,48.6916797,6.1810735,,,,beauty,,beauty
+Denis Creton,48.6896476,6.1755433,doctors,,,,,doctors
+Enterprise Alamo National,48.6878574,6.1784694,car_rental,,,,,car_rental
+AGH Automobiles,48.6870054,6.1799976,,,,car,,car
+Le Bakoua,48.6869917,6.1827859,restaurant,,,,,restaurant
+Clin d'Œil,48.690032,6.1828989,,,,optician,,optician
+Cabinet de médecine générale,48.6881355,6.1845728,doctors,,,,,doctors
+Khan,48.6869367,6.1828671,restaurant,,,,,restaurant
+MK Music Kontrol,48.6882295,6.1842331,,,,musical_instrument,,musical_instrument
+Billets grandes lignes,48.6895442,6.174606,vending_machine,,,,,vending_machine
+Nemo Poke Bowl,48.6917286,6.1812953,restaurant,,,,,restaurant
+Maison du Vélo,48.6922767,6.1845887,,,,bicycle,,bicycle
+Médiathèque Saint-Pierre,48.6820496,6.1918811,library,,,,,library
+Valérie Canton,48.6873923,6.1627673,doctors,,,,,doctors
+SCP chirurgiens dentistes,48.6913725,6.1752165,dentist,,,,,dentist
+Christine Maeder,48.6851377,6.1767065,dentist,,,,,dentist
+Thierry Delmas,48.6908245,6.1755419,doctors,,,,,doctors
+Emmanuel Régnier,48.6984485,6.1670146,doctors,,,,,doctors
+Le 31 Maison médicale de garde,48.6841972,6.1933212,doctors,,,,,doctors
+Poissonnerie Schaller,48.6715706,6.1664562,,,,seafood,,seafood
+Nancy - Ville d'Art de Parcs et de Jardins,48.6789282,6.1714655,,information,,,,information
+ESNA Business School,48.6850963,6.1626232,college,,,,,college
+Dr Rebstock,48.6859607,6.1681763,doctors,,,,,doctors
+Tribunal de contentieux de l'incapacité,48.6870611,6.1646347,courthouse,,,,,courthouse
+ProxiVape,48.6922879,6.1622833,,,,e-cigarette,,e-cigarette
+Central Coiffure,48.6863259,6.1912786,,,,hairdresser,,hairdresser
+ECF Nancy Centre,48.6916392,6.1757052,driving_school,,,,,driving_school
+Dana om spa,48.6914913,6.1824523,,,,beauty,,beauty
+Les Arrangés du Bocal,48.6912521,6.1806085,bar,,,,,bar
+mangoreva,48.6915317,6.1830894,,,,beauty,,beauty
+Cube,48.692953,6.1977299,,,escape_game,,,escape_game
+Administration et inscriptions,48.6939465,6.1671146,,information,,,,information
+Skatepark de Nancy,48.6901853,6.2024052,,information,,,,information
+Circuit Agility - Commune de Nancy,48.6882345,6.1993481,,information,,,,information
+Esplanade Cuenot - Salon 2 - Espace Canin,48.688246,6.1992931,,information,,,,information
+Vélo Chargeur,48.6879858,6.1987695,,,fitness_station,,,fitness_station
+Bienvenue dans votre espace Fitness,48.6880435,6.1987332,,information,,,,information
+Volant Barreur,48.687966,6.1987911,,,fitness_station,,,fitness_station
+Abdos lombaires,48.6879486,6.1987635,,,fitness_station,,,fitness_station
+Patineur,48.6879261,6.1987317,,,fitness_station,,,fitness_station
+Vélo elliptique,48.68795,6.1987038,,,fitness_station,,,fitness_station
+Squat machine,48.6879122,6.1984747,,,fitness_station,,,fitness_station
+Tai Ji Quan,48.6878733,6.1982337,,,fitness_centre,,,fitness_centre
+Le Triple Twister,48.6880703,6.1988445,,,fitness_station,,,fitness_station
+Machine à tricepts,48.68797,6.1985887,,,fitness_station,,,fitness_station
+Push Pull,48.6879912,6.1989173,,,fitness_station,,,fitness_station
+Pont de Singe,48.6880962,6.1990075,,,fitness_station,,,fitness_station
+Marcheur double,48.688156,6.1989344,,,fitness_station,,,fitness_station
+Esplanade Cuenot - Salon 1 - Espace Sport Work-Out,48.688198,6.1990812,bicycle_parking,,,,,bicycle_parking
+La Moustache à Papa,48.6749093,6.1758321,,,,hairdresser,,hairdresser
+Krys,48.6891574,6.1835169,,,,optician,,optician
+Zapa,48.6915844,6.1820003,,,,clothes,,clothes
+Burger King,48.6904187,6.1826188,fast_food,,,,,fast_food
+Le Comptoir Irlandais,48.6884564,6.1843303,,,,gift,,gift
+Lalonde,48.6898679,6.1832864,,,,confectionery,,confectionery
+E. Leclerc,48.6950145,6.1958604,,,,supermarket,,supermarket
+L'Instant Pause,48.7055896,6.1764255,cafe,,,,,cafe
+Tom Pouce,48.6911215,6.1487965,kindergarten,,,,,kindergarten
+Le dispensaire CBD,48.6842676,6.1772125,,,,cannabis,,cannabis
+Carpe diem,48.684218,6.1775707,,,,hairdresser,,hairdresser
+Louis Majorelle,48.6800136,6.1655341,,artwork,,,,artwork
+Extrait du discours du Congrès de la paix 21 août 1849,48.6896685,6.17285,,information,,,memorial,information
+AMAP du Crapaud Sonneur,48.7059775,6.1756387,,,,farm,,farm
+Widep,48.6925965,6.178926,,,,mobile_phone,,mobile_phone
+Magalices,48.6892931,6.1829799,,,,deli,,deli
+Uyar Primeurs,48.6894795,6.1829702,,,,greengrocer,,greengrocer
+Aux Saveurs Lyonnaises et Périgourdines,48.6715408,6.1664982,,,,butcher,,butcher
+Boulangerie Juliac,48.7011506,6.1780658,,,,bakery,,bakery
+Henri Florion Sarl,48.689031,6.1825399,,,,convenience,,convenience
+Masy Fruits,48.6893846,6.1829784,,,,greengrocer,,greengrocer
+Fromagerie Martineau,48.6893014,6.1824018,,,,cheese,,cheese
+Tabac presse Yeniavci,48.7031313,6.153321,,,,newsagent,,newsagent
+La Tabatière,48.692329,6.1463882,,,,tobacco,,tobacco
+Les Viandes Dombasloises,48.6893437,6.1826396,,,,butcher,,butcher
+Boucherie Charcuteries Principales,48.6901778,6.172048,,,,butcher,,butcher
+Supermarché La Belle Vie,48.703216,6.1536118,,,,supermarket,,supermarket
+Pharmacie Centrale,48.6905458,6.1802133,pharmacy,,,,,pharmacy
+Pharmacie Gérard,48.6888354,6.1676561,pharmacy,,,,,pharmacy
+Boulangerie Pâtisserie Nigon,48.70175,6.1713529,,,,bakery,,bakery
+Pharmacie de la Gare,48.6897202,6.1757241,pharmacy,,,,,pharmacy
+Tabac des Carmes,48.6924431,6.1799952,,,,tobacco,,tobacco
+Green Planet,48.6924119,6.180018,,,,convenience,,convenience
+Tabac Presse Monchieri,48.6896235,6.1849703,,,,newsagent,,newsagent
+Maryland,48.6893909,6.1812288,,,,newsagent,,newsagent
+Tabac Le Royal,48.6931557,6.1826529,,,,kiosk,,kiosk
+La Casa Victoria,48.6906172,6.1843979,,apartment,,,,apartment
+Aux Plaisirs d'Antan,48.6925198,6.1801862,,,,bakery,,bakery
+Aïda & Franck,48.6766693,6.1775036,,,,bakery,,bakery
+Le Temps De...,48.6824031,6.1920159,,,,beauty,,beauty
+Un Des Sens,48.694644,6.1799548,,,,cosmetics,,cosmetics
+Fromages de France,48.6715986,6.1664141,,,,cheese,,cheese
+Crémerie Navet,48.6895055,6.1829743,,,,dairy,,dairy
+Saveurs et Parfums d'Italie,48.6894546,6.1826392,restaurant,,,deli,,restaurant
+Prim Délice,48.6894326,6.182976,,,,greengrocer,,greengrocer
+Boucherie DEFIN William,48.67164,6.1663558,,,,butcher,,butcher
+Acuitis,48.687985,6.1844182,,,,optician,,optician
+Big Burger,48.6923165,6.1676955,fast_food,,,,,fast_food
+Carrefour,48.689327,6.161779,fuel,,,convenience;gas,,fuel
+L'impromptu,48.6892954,6.183238,restaurant,,,,,restaurant
+Borayale,48.6898072,6.1809235,,,,jewelry,,jewelry
+Taxy 18 Nancy,48.6755475,6.1952738,taxi,,,,,taxi
+Fac & Spera by M.Chapoutier,48.6893251,6.182978,,,,alcohol,,alcohol
+2iStore,48.6922691,6.2006162,,,,computer,,computer
+Lorraine Médical,48.6889872,6.1860924,,,,medical_supply,,medical_supply
+L'Artisan Épicier,48.6893026,6.1850885,,,,deli,,deli
+Les Petites Pépites,48.6933773,6.1804336,,,,clothes,,clothes
+Akiba Station,48.6914771,6.1828351,,,,video_games,,video_games
+100 % Café,48.6894834,6.1823974,,,,coffee,,coffee
+Boucherie Meline et fils,48.6891799,6.1826365,,,,butcher,,butcher
+Aux saveurs lyonnaises et périgourdines,48.6894168,6.1826379,,,,deli,,deli
+Boucherie Grégoire,48.6892814,6.1826393,,,,butcher,,butcher
+La Camaraderie,48.6931013,6.1816162,restaurant,,,,,restaurant
+Los Tacos,48.6896121,6.1855823,restaurant,,,,,restaurant
+King Pizza,48.6924674,6.1418698,restaurant,,,,,restaurant
+Le Palais de Chine,48.6830372,6.190395,restaurant,,,,,restaurant
+Marché et Café,48.690328,6.1724817,,,,coffee,,coffee
+La Chimère,48.6902214,6.1721888,,,,florist,,florist
+Nancy Pièces Autos Services,48.6809004,6.2035676,,,,car_parts,,car_parts
+HatShop,48.6885952,6.1878667,,,,clothes,,clothes
+SPE,48.6817356,6.2032973,,,,doityourself,,doityourself
+L'Ostorea II,48.7033911,6.1542142,fast_food,,,,,fast_food
+Le Montmartre,48.6889275,6.1698869,,,,hairdresser,,hairdresser
+Pidélice,48.6900831,6.1721897,fast_food,,,,,fast_food
+Chingu,48.6938481,6.1807387,restaurant,,,,,restaurant
+Le Collectif des Lunetiers,48.6950441,6.1961992,,,,optician,,optician
+By Cracotte,48.6934313,6.1803946,,,,clothes,,clothes
+Les P'tits Stan,48.6906209,6.1840809,,,,clothes,,clothes
+Atelier 81,48.698251,6.1544033,,,,florist,,florist
+Grand Rue,48.6972141,6.1791018,,,,leather,,leather
+Maxod,48.6894569,6.1811806,,,,clothes,,clothes
+L'Affranchi,48.6908462,6.1801774,,,,books,,books
+Lun'Optic,48.7028685,6.1524185,,,,optician,,optician
+Bagel & Salsa,48.6731241,6.1733491,restaurant,,,,,restaurant
+Resto' Cours Léopold,48.6950159,6.1772029,restaurant,,,,,restaurant
+Les 3 ours polaires,48.6886326,6.1788676,,artwork,,,,artwork
+La Détente,48.7010706,6.1696645,,,sauna,,,sauna
+Garage Bon Coin,48.6816985,6.1651867,,,,car_repair,,car_repair
+Halte-garderie Jeanine Bodson,48.7005835,6.1463329,kindergarten,,,,,kindergarten
+Au Nom de la Rose,48.6934442,6.1806548,,,,florist,,florist
+Médreville,48.6853718,6.1610793,bicycle_rental,,,,,bicycle_rental
+Saint-Epvre,48.6953065,6.179787,bicycle_rental,,,,,bicycle_rental
+Foyer Maraé,48.6927866,6.1883379,social_facility,,,,,social_facility
+Flying Tiger Copenhagen,48.6895784,6.1802034,,,,interior_decoration,,interior_decoration
+Mankind,48.6851697,6.2053066,,,amusement_arcade,,,amusement_arcade
+Le Chardon,48.6855063,6.1865969,restaurant,,,,,restaurant
+E.Leclerc Drive,48.6902402,6.1827478,,,,outpost,,outpost
+Nemea Appart'Hotel,48.685751,6.1820782,,apartment,,,,apartment
+Patati Patata,48.6806948,6.1760773,kindergarten,,,,,kindergarten
+Villa Majorelle,48.6850123,6.1643147,,information,,,,information
+Artem,48.6747373,6.1705993,bicycle_rental,,,,,bicycle_rental
+Casino Shop,48.689448,6.170118,,,,convenience,,convenience
+Atelier Courant d'Art,48.6887695,6.16744,arts_centre,,,,,arts_centre
+Anacours,48.6889198,6.1679338,,,,vacant,,vacant
+Maud,48.6909678,6.1800691,,,,beauty,,beauty
+Turn Over,48.6910364,6.1800189,,,,gift,,gift
+Atelier W,48.6909984,6.1800467,,,,tattoo,,tattoo
+Tana thaï bien-être,48.6894735,6.1702013,,,,massage,,massage
+Tourbillon,48.6889352,6.1679844,,,,clothes,,clothes
+Le Comptoir Exotique Shop,48.6892659,6.1695186,,,,convenience,,convenience
+Nouvelle femme,48.6855956,6.16072,,,,clothes,,clothes
+Espace FitPark,48.679912,6.1714943,,information,,,,information
+Emile Coué,48.6814914,6.1709243,,information,,,,information
+P+R Les Deux Rives,48.6946794,6.1966673,parking,,,,,parking
+Port de Plaisance,48.6920413,6.1934942,compressed_air,,,,,compressed_air
+Vache Burger,48.6905854,6.1854217,fast_food,,,,,fast_food
+Objectif Code,48.6924029,6.1792511,driving_school,,,,,driving_school
+Stan Kebab,48.6931686,6.1818375,fast_food,,,,,fast_food
+Libélula Cycle,48.6967377,6.1940842,,,,small_electric_vehicle,,small_electric_vehicle
+Spa Luxury,48.681134,6.1940917,,,,beauty,,beauty
+Les Petits Frères des Pauvres,48.6775752,6.1782984,,,,charity,,charity
+L'Arsenal,48.6968892,6.1776717,restaurant,,,,,restaurant
+La Poste Nancy Leclerc Les Deux Rives,48.6952037,6.195998,post_office,,,,,post_office
+La Poste Nancy La Lotharingie,48.6976623,6.1786948,post_office,,,,,post_office
+La Poste Nancy Tabac Touati,48.6840009,6.1888023,post_office,,,,,post_office
+Auto-école Léonard,48.6950268,6.1953709,driving_school,,,,,driving_school
+Couleur Coiffeur,48.691526,6.1796632,,,,hairdresser,,hairdresser
+Bière de Dombasle,48.6841893,6.1787853,,artwork,,,,artwork
+Le Kreu,48.6953891,6.1805621,,gallery,,,,gallery
+L'arbre suspendu,48.6990121,6.1777696,,artwork,,,,artwork
+Maison de la Presse,48.6955031,6.1956675,,,,newsagent,,newsagent
+Virginie Mauvais,48.697756,6.1788444,,,,,memorial,memorial
+Blink opticien,48.6928351,6.1821935,,,,optician,,optician
+Amazon Locker Léna,48.6952682,6.1958715,parcel_locker,,,,,parcel_locker
+Hôtel de Rogeville,48.6949261,6.1813203,,information,,,,information
+Au Soleil de Provence,48.684422,6.1779713,restaurant,,,,,restaurant
+Chez Ejama,48.6954566,6.18054,,,,gift,,gift
+Nana Benz,48.6878729,6.1799237,,,,hairdresser,,hairdresser
+Terre de fées,48.6928595,6.1822678,,,,clothes,,clothes
+La Citad’Elles,48.699745,6.1778654,,,,clothes,,clothes
+Location E.Leclerc,48.6951137,6.1960736,car_rental,,,,,car_rental
+Kam Cut,48.6908653,6.1811455,,,,hairdresser,,hairdresser
+Sabine Gillot,48.6920076,6.1795494,dentist,,,,,dentist
+Marine minette,48.6948799,6.1955517,,,,beauty,,beauty
+Maxime Guyot,48.6919968,6.1795295,dentist,,,,,dentist
+Weng Hoak,48.6896912,6.1808431,fast_food,,,,,fast_food
+Didier Noël,48.6925846,6.1818869,music_school,,,,,music_school
+Auto-École Toulon,48.7030628,6.1530857,driving_school,,,,,driving_school
+Asie-Rama,48.703025,6.152956,,,,convenience,,convenience
+Fathi Coiffure,48.7028319,6.1522927,,,,hairdresser,,hairdresser
+La Laiterie de Nancy,48.6897771,6.1845597,,,,dairy,,dairy
+Le 27,48.6922505,6.1807965,restaurant,,,,,restaurant
+Saveurs du Monde,48.7029325,6.1526384,,,,convenience,,convenience
+Centre d'Allergologie de Gentilly,48.7008609,6.1401278,doctors,,,,,doctors
+Khao Thip,48.6887846,6.1826749,restaurant,,,,,restaurant
+Noces de Cristal,48.6879112,6.1830643,,,,clothes,,clothes
+Bodyhit,48.6882009,6.1831042,,,fitness_centre,,,fitness_centre
+Roadrunner,48.687754,6.1831792,,,,musical_instrument,,musical_instrument
+Little Garden Daycare,48.6882974,6.1742111,kindergarten,,,,,kindergarten
+Maison de la Boulangerie-Pâtisserie,48.6884186,6.18269,,,,bakery,,bakery
+Hôtel des Ventes Anticthermal,48.6776935,6.1674768,,,,antiques,,antiques
+Résidence Carmes,48.6922648,6.1801475,social_facility,,,,,social_facility
+Babychou Services,48.6749685,6.1759,social_facility,,,,,social_facility
+Maltazar,48.69039,6.1850441,bar,,,,,bar
+Michel Joseph,48.6883141,6.184442,doctors,,,,,doctors
+Gérard Ehrmann,48.6843412,6.1774414,doctors,,,,,doctors
+Claude Weber,48.6825546,6.1683205,doctors,,,,,doctors
+Antiquités Monts et Vermeil,48.6843978,6.172932,,,,antiques,,antiques
+La Patate Gourmande,48.6896627,6.1849364,fast_food,,,,,fast_food
+Parking Saint-Léon,48.6892101,6.172813,parking,,,,,parking
+Entendre,48.6927658,6.1780012,,,,hearing_aids,,hearing_aids
+Bon’t,48.6889241,6.1920556,restaurant,,,,,restaurant
+Dynamo Location,48.6923768,6.1901455,,,,bicycle,,bicycle
+Docteur Fabienne Donner; Docteur Bénédicte Vilain,48.6716633,6.1723923,doctors,,,,,doctors
+Atelier Kael,48.6716585,6.1723762,,,,hairdresser,,hairdresser
+DigiDiwan,48.6846542,6.1796083,,,,copyshop,,copyshop
+Philatelor,48.6842037,6.1775045,,,,antiques,,antiques
+Institut Églantine,48.6843543,6.1782268,,,,beauty,,beauty
+Anaë Coiffure,48.6883828,6.1829706,,,,hairdresser,,hairdresser
+Kebab Melissa,48.6877466,6.1834543,fast_food,,,,,fast_food
+À l'Ombre des Marques,48.6899493,6.1815648,,,,clothes,,clothes
+Place Saint-Epvre,48.6961138,6.1795289,compressed_air,,,,,compressed_air
+Artothèque 379,48.6964237,6.1460682,arts_centre,,,,,arts_centre
+Fiorenza,48.6919909,6.1817031,,,,clothes,,clothes
+AP² Soutien Scolaire,48.6794813,6.1806096,prep_school,,,,,prep_school
+Institut Impérial,48.6925717,6.1818988,,,,beauty,,beauty
+Cyclable,48.6911892,6.1809059,,,,bicycle,,bicycle
+KungFu nouilles,48.6894843,6.1809969,restaurant,,,,,restaurant
+Au Merle Blanc,48.6895521,6.180947,restaurant,,,,,restaurant
+Edmont de Goncourt,48.690726,6.1812525,,,,,memorial,memorial
+Hervé Bize,48.6923603,6.1818689,,gallery,,,,gallery
+La Maison Chinoise,48.6845451,6.1785517,restaurant,,,,,restaurant
+Camille Albane,48.6907656,6.1812183,,,,hairdresser,,hairdresser
+Arelia,48.6774164,6.1791969,social_centre,,,,,social_centre
+Laverie Clemenceau,48.6755354,6.1822915,,,,laundry,,laundry
+À la mémoire des cheminots,48.6893265,6.174678,,,,,memorial,memorial
+Dépôt vente Setti,48.6911251,6.1799788,,,,clothes,,clothes
+Warhammer,48.6920056,6.18144,,,,games,,games
+RDV2049,48.6911217,6.1809588,,,,clothes,,clothes
+La Bovida,48.6825826,6.2036477,,,,hardware,,hardware
+Dallo,48.6907057,6.1819169,dentist,,,,,dentist
+Vanessa,48.6927332,6.1818842,,,,clothes,,clothes
+Élégamment vôtre,48.693251,6.1805247,,,,clothes,,clothes
+Voyou,48.693093,6.1815642,fast_food,,,,,fast_food
+Antiquités,48.693024,6.1819128,,,,antiques,,antiques
+Au Papa Guy,48.692881,6.1814324,restaurant,,,,,restaurant
+Superhuit,48.6935382,6.1805859,,,,clothes,,clothes
+Amplifon,48.6932748,6.1807755,,,,hearing_aids,,hearing_aids
+Anne Schmit-Ansel,48.6889212,6.172995,doctors,,,,,doctors
+Lorraine Pierres Investissements,48.6940651,6.183353,bank,,,,,bank
+Maison alsacienne datant de 1804,48.6808291,6.1718138,,,,,memorial,memorial
+Cabinet de rhumatologie,48.6886999,6.1732143,doctors,,,,,doctors
+Gérard Darel,48.6925363,6.1816793,,,,clothes,,clothes
+Anne Plumes,48.6924914,6.1815483,,,,clothes,,clothes
+Manufacture des émaux de Longwy,48.6927649,6.1819819,,,,jewelry,,jewelry
+Thé citron,48.6930096,6.1818397,cafe,,,,,cafe
+Snipes,48.6901454,6.1802339,,,,shoes,,shoes
+IAE Nancy School of Management,48.6738678,6.1708054,college,,,,,college
+Daniel Bourger,48.6840791,6.1803354,dentist,,,,,dentist
+Radio club F6KIM,48.6825447,6.1790877,studio,,,,,studio
+Myriam Auque,48.6814456,6.1671148,doctors,,,,,doctors
+Amina Zaghzi,48.6827586,6.1773447,dentist,,,,,dentist
+Centre Alliance Vision Nancy,48.688276,6.1757789,clinic,,,,,clinic
+Florence Mayer-Coupin,48.6827729,6.1773327,dentist,,,,,dentist
+Angelina Coffee,48.6917172,6.1850892,cafe,,,,,cafe
+Cabinet dentaire,48.6901947,6.1725561,dentist,,,,,dentist
+Alexis Vautrin,48.6825509,6.1745615,,,,,memorial,memorial
+Reynette,48.6821032,6.1642435,doctors,,,,,doctors
+Bertrand de Metz-Noblat Antiquités,48.6848626,6.1756843,,,,antiques,,antiques
+Meublé de tourisme,48.6893005,6.1933095,,guest_house,,,,guest_house
+Université de la poste,48.6889544,6.1926623,university,,,,,university
+L'Alpa,48.6911445,6.2021765,restaurant,,,,,restaurant
+Fac & spera,48.689162,6.1825257,,,,wine,,wine
+Histoire d'elles,48.6767846,6.1652562,,,,beauty,,beauty
+Ormes Lutèce Nanguen,48.6809735,6.1717586,,information,,,,information
+GASPAR,48.6789898,6.1641227,,,,farm,,farm
+Compost54,48.6818315,6.173762,recycling,,,,,recycling
+Céline food,48.6893584,6.193728,restaurant,,,,,restaurant
+Olivier Desnoyers,48.6908908,6.1739508,dentist,,,,,dentist
+Bornert Ocularistes,48.6907047,6.1736871,,,,optician,,optician
+Infirmier Giacovelli Damien,48.6775238,6.1686908,clinic,,,,,clinic
+Achat or,48.6799142,6.175764,,,,jewelry,,jewelry
+Étirement,48.7027059,6.1475024,,,fitness_station,,,fitness_station
+Tractions,48.7035463,6.1470806,,,fitness_station,,,fitness_station
+Pas de Géant,48.7040886,6.146633,,,fitness_station,,,fitness_station
+Saut de grenouille,48.7048493,6.1491016,,,fitness_station,,,fitness_station
+Espalier double,48.7042569,6.149362,,,fitness_station,,,fitness_station
+L'Express Take Away,48.6891906,6.175395,fast_food,,,,,fast_food
+Beef N’Go,48.7019708,6.1711961,,,,butcher,,butcher
+Up To You,48.6945234,6.1817557,restaurant,,,,,restaurant
+La Traviata,48.6967073,6.1797136,restaurant,,,,,restaurant
+Kimchi Bap,48.6847087,6.162985,fast_food,,,,,fast_food
+L'Autre Marché,48.6937865,6.1994326,marketplace,,,,,marketplace
+Place Mandela,48.6943208,6.1837873,compressed_air,,,,,compressed_air
+Maison Marcel Callo,48.6892327,6.1715034,community_centre,,,,,community_centre
+Pascaline Spaëth,48.6833397,6.1782822,doctors,,,,,doctors
+Big shop,48.6879348,6.1795105,,,,deli,,deli
+Compagnie lorraine d'électricité,48.6832724,6.179347,,,,,memorial,memorial
+Flamingo,48.687888,6.1795309,,,,convenience,,convenience
+Antoine Drouot,48.6887456,6.174049,,,,,memorial,memorial
+Nguyen onglerie,48.6885668,6.1839552,,,,beauty,,beauty
+Bpifrance,48.685809,6.1814447,bank,,,,,bank
+Parcours de santé,48.7020691,6.1480059,,information,,,,information
+Poutre d'équilibre,48.7031058,6.150024,,,fitness_station,,,fitness_station
+Tan My,48.6674163,6.1655317,,,,convenience,,convenience
+Galerie Neuf,48.693704,6.1807718,,gallery,,,,gallery
+Galerie Lillebonne,48.6952564,6.178485,,gallery,,,,gallery
+My Monkey,48.6888951,6.19148,,gallery,,,,gallery
+Institut des sciences du Digital Management & Cognition,48.6974346,6.1716956,university,,,,,university
+Bibliothèques de Nancy - Médiathèque Manufacture,48.6967185,6.1713306,library,,,,,library
+Favoris Vacances,48.6886536,6.1737622,,,,travel_agency,,travel_agency
+Take'n Eat,48.688777,6.174094,fast_food,,,,,fast_food
+Laisse Le Bon Temps Rouler,48.6884809,6.1741353,bar,,,,,bar
+Goddyn's,48.6884475,6.1740391,fast_food,,,,,fast_food
+TUI,48.6884248,6.1738956,,,,travel_agency,,travel_agency
+Nancy-Train,48.6879835,6.1731463,,,,toys,,toys
+Em'Institut,48.6873913,6.1725982,,,,beauty,,beauty
+Falbalas,48.6872008,6.1724045,,,,party,,party
+Auto-École Nancy Vauban,48.686854,6.1717838,driving_school,,,,,driving_school
+O'Pacha Kebab,48.6867126,6.1713431,fast_food,,,,,fast_food
+Pharmacie Jeanne d'Arc,48.6866074,6.1714087,pharmacy,,,,,pharmacy
+Les P'tits Oignons,48.6864467,6.1713026,fast_food,,,,,fast_food
+Terroirs,48.6813869,6.1662058,restaurant,,,wine,,restaurant
+Le Cadet,48.6820217,6.1659939,restaurant,,,,,restaurant
+Barber Shop Thermal,48.6826505,6.1658748,,,,hairdresser,,hairdresser
+Le Dolls Club,48.6827788,6.1688861,bar,,,,,bar
+Autominiature 54,48.6828029,6.1691022,,,,toys,,toys
+Ici Work+Shop,48.6826567,6.1689223,,,,craft,,craft
+Pharmacie des Thermes,48.6785174,6.167598,pharmacy,,,,,pharmacy
+Auto École Nancy Thermal,48.6783373,6.1677587,driving_school,,,,,driving_school
+La Brasserie des Bains,48.6782373,6.1696248,restaurant,,,,,restaurant
+Riel Coiffure,48.6780602,6.1691535,,,,hairdresser,,hairdresser
+Carrosserie Lenoble,48.6768346,6.1647406,,,,car_repair,,car_repair
+Droguerie,48.6761417,6.1629224,,,,hardware,,hardware
+Totem,48.6752711,6.1632349,,,,kiosk,,kiosk
+Senior Compagnie,48.6750005,6.1633356,social_facility,,,,,social_facility
+Infinistyl's,48.6747955,6.1634728,,,,hairdresser,,hairdresser
+Pâtissier Chocolatier Virginie et Alexandre Baudet,48.6742665,6.1638766,,,,confectionery,,confectionery
+Rock' N Tattoo,48.6741182,6.163991,,,,tattoo,,tattoo
+L'Atelier du Vélo,48.6736193,6.1643783,,,,bicycle,,bicycle
+Bul'D'hair,48.6735912,6.1643998,,,,hairdresser,,hairdresser
+Mon Épicerie,48.6728556,6.1650515,,,,convenience,,convenience
+Chiche et Bon,48.672665,6.1649222,fast_food,,,,,fast_food
+Pharmacie d'Haussonville,48.672777,6.1648098,pharmacy,,,,,pharmacy
+Pizza Hut,48.686047,6.1715743,restaurant,,,,,restaurant
+Centre d'hemodialyse,48.7025608,6.1394152,hospital,,,,,hospital
+Galerie des Michottes,48.6926817,6.1789076,,gallery,,,,gallery
+Repro 54,48.6673138,6.1656548,,,,copyshop,,copyshop
+Starbucks,48.6894082,6.1766518,cafe,,,,,cafe
+Thé Việt,48.6897582,6.1807932,fast_food,,,,,fast_food
+Il était une seconde fois,48.6898539,6.1809128,,,,clothes,,clothes
+Ikks,48.6927574,6.1823576,,,,clothes,,clothes
+Google Atelier numérique,48.692378,6.2009623,training,,,,,training
+Archie's Tattoo Studio,48.6856181,6.1672417,,,,tattoo,,tattoo
+Boulangerie de la Commanderie,48.6859289,6.1688161,,,,bakery,,bakery
+L'essenti'Elle,48.6861572,6.1697647,,,,beauty,,beauty
+Toup'ti Gym,48.6857928,6.1702125,,,fitness_centre,,,fitness_centre
+Auto Contrôle Croix de Bourgogne,48.6857629,6.170395,vehicle_inspection,,,,,vehicle_inspection
+L'Éclat de Verre,48.6864004,6.170234,,,,frame,,frame
+Laverie de la Commanderie,48.6864968,6.1706045,,,,laundry,,laundry
+La Yourte,48.6865396,6.1707586,restaurant,,,,,restaurant
+l'homme Visible,48.6865983,6.1709749,,,,tattoo,,tattoo
+Pana Thai Spa,48.6923967,6.1808336,,,,beauty,,beauty
+Comptoir National de l'Or,48.6922615,6.1804171,,,,pawnbroker,,pawnbroker
+Coiffure Claude Cuny,48.6916067,6.1803476,,,,hairdresser,,hairdresser
+La Plantation,48.6909221,6.1744872,bar,,,,,bar
+Bar du théâtre,48.6960818,6.1717319,bar,,,,,bar
+Restaurant B,48.6892166,6.1824682,,,,convenience,,convenience
+Nos MondeS,48.6908372,6.1854645,,,,art,,art
+Hôtel Campanile Nancy Centre - Gare,48.6916735,6.1754872,,hotel,,,,hotel
+Les Deux Palmiers,48.6921361,6.1784534,bar,,,,,bar
+Ciseaux d'Or,48.6905733,6.1714617,,,,hairdresser,,hairdresser
+La Voie Bleue,48.7041238,6.1753229,,information,,,,information
+Normal,48.6902491,6.1829915,,,,variety_store,,variety_store
+Bloc Session,48.6844372,6.2025882,,,sports_centre,,,sports_centre
+Le passe-livres,48.6836496,6.178263,public_bookcase,,,,,public_bookcase
+Karadeniz,48.6923005,6.1794647,fast_food,,,,,fast_food
+Cours Pilates,48.6871311,6.162673,,,fitness_centre,,,fitness_centre
+Sculpter un jardin à l'échelle humaine,48.6833004,6.1607295,,artwork,,,,artwork
+Shamaï Haber,48.6832034,6.1609481,,information,,,,information
+Salle Raugraff,48.6896798,6.1810967,theatre,,,,,theatre
+Au Tanneur,48.6902888,6.1806846,,,,bag,,bag
+Club Café,48.6897324,6.1809788,cafe,,,,,cafe
+Chamas Tacos,48.6899017,6.1808559,fast_food,,,,,fast_food
+Galerie 72,48.6886708,6.1839068,,,,antiques,,antiques
+Smoke dog,48.6876503,6.1832551,,,,cannabis,,cannabis
+KeepCool,48.6718725,6.1727385,,,fitness_centre,,,fitness_centre
+Hôtel Stanley,48.6893328,6.1782306,,hotel,,,,hotel
+Latitude,48.6895106,6.181141,,,,shoes,,shoes
+Poké Bar,48.689573,6.1810953,fast_food,,,,,fast_food
+Kung Fu Nouilles,48.6895092,6.1809785,restaurant,,,,,restaurant
+Rieker,48.6896672,6.1808609,,,,shoes,,shoes
+Le Petit Monde de Barnabé,48.6887672,6.1821842,cafe,,,,,cafe
+L'institut K,48.6971115,6.1789368,,,,beauty,,beauty
+Monument Funéraire,48.6802143,6.1650398,,artwork,,,,artwork
+Ancienne Porte Cochère Des Ateliers Gallé,48.6803938,6.165657,,artwork,,,,artwork
+Aquarium,48.679945,6.1656219,,information,,,,information
+Révolution Laundry,48.68328,6.1816467,,,,laundry,,laundry
+Fabul'eau,48.6773873,6.1862166,,artwork,,,,artwork
+Atelier national de recherche typographique,48.6747739,6.1699019,research_institute,,,,,research_institute
+Appart'City Nancy,48.6925998,6.1981545,,hotel,,,,hotel
+La Galerie Bleue,48.6892111,6.1796862,,,,antiques,,antiques
+Lionnois,48.6960213,6.1806073,,,,,memorial,memorial
+Le Comptoir Des Caprices,48.6892967,6.1796955,,,,antiques,,antiques
+Les Six Os D'or,48.6892985,6.1797392,,,,pet_grooming,,pet_grooming
+Barbara Kitchen,48.6893234,6.1798208,restaurant,,,,,restaurant
+Passage Bleu Beauté Globale,48.6893983,6.1800137,,,,beauty,,beauty
+Piperno,48.6892573,6.1804359,restaurant,,,,,restaurant
+So'hair,48.6900882,6.1846006,,,,hairdresser,,hairdresser
+dans cette maison est né Henri Poincaré,48.6978424,6.178578,,,,,memorial,memorial
+Chez Marie,48.6907428,6.1854838,,,,sewing,,sewing
+Parcours Jean Prouvé,48.7006293,6.1624448,,information,,,,information
+Galerie Victoria,48.6906545,6.1855228,,gallery,,,,gallery
+Altura,48.6894987,6.1830791,,,,coffee,,coffee
+L'Armoire,48.6883223,6.1827604,,,,clothes,,clothes
+Masmoudi,48.6810687,6.1988183,,,,pastry,,pastry
+Li6,48.6865413,6.1854844,,,,small_electric_vehicle,,small_electric_vehicle
+Brune,48.6976267,6.1787476,,,,hairdresser,,hairdresser
+Ètoile Coiffure,48.6920307,6.1860678,,,,hairdresser,,hairdresser
+Glam & Glow,48.6790016,6.1800989,,,,beauty,,beauty
+Trenois Decamps,48.6847511,6.2031722,,,,hardware,,hardware
+Isabey Est Né Dans Cette Maison,48.6891537,6.1835494,,,,,memorial,memorial
+Sabi Exp'hair,48.6898438,6.1708905,,,,beauty,,beauty
+Bob Mobitech,48.6899056,6.1710809,,,,mobile_phone,,mobile_phone
+Popeye,48.6899168,6.1711346,,,,hairdresser,,hairdresser
+Bread and Coffee,48.6766388,6.1693244,cafe,,,,,cafe
+Tennis Store,48.6762786,6.1695925,,,,sports,,sports
+Le Jardin des Thermes,48.6760186,6.1697988,restaurant,,,,,restaurant
+Chez Suzanna,48.6758454,6.1699152,,,,beauty,,beauty
+EDG Conduite,48.6750538,6.1705221,driving_school,,,,,driving_school
+Snack Blandan,48.6744682,6.1709682,fast_food,,,,,fast_food
+Bonidé,48.6740459,6.1712577,fast_food,,,,,fast_food
+Pouxt'chou,48.6737637,6.171468,,,,yes,,yes
+Bio CBD,48.6736835,6.171541,,,,cannabis,,cannabis
+Câlins et Trottinettes,48.6738525,6.1720902,kindergarten,,,,,kindergarten
+Émilie Sushi Bar,48.6734963,6.1735683,fast_food,,,,,fast_food
+ZAC Coiffure,48.6734387,6.173871,,,,hairdresser,,hairdresser
+E.Leclerc Express Albert 1er,48.6973813,6.1673849,,,,convenience,,convenience
+Hôtel Foch,48.6886617,6.1737433,,hotel,,,,hotel
+Dépil Tech,48.6880865,6.1845928,,,,beauty,,beauty
+Les p'tites graines Montessori,48.6706145,6.1711335,kindergarten,,,,,kindergarten
+Ven’s Coiffure,48.6934564,6.1784495,,,,hairdresser,,hairdresser
+Darjeeling,48.6901843,6.1803615,,,,clothes,,clothes
+Grand Opticiens,48.6908928,6.1825251,,,,optician,,optician
+Ideal Audition,48.6908203,6.1828689,,,,hearing_aids,,hearing_aids
+Petit Bateau,48.6916183,6.1838256,,,,clothes,,clothes
+Les fous de terroir,48.6915765,6.1838511,,,,deli,,deli
+Eden Park,48.691539,6.1838749,,,,clothes,,clothes
+Haas,48.691502,6.1838984,,,,clothes,,clothes
+Le petit lunetier,48.6914153,6.1839527,,,,optician,,optician
+Nespresso,48.6917007,6.1837735,,,,coffee,,coffee
+Mise au Green,48.6917618,6.1837327,,,,clothes,,clothes
+Mauboussin,48.6917911,6.1837105,,,,jewelry,,jewelry
+Pharmacie du Ginkgo,48.6917889,6.1834813,pharmacy,,,,,pharmacy
+Cabaya,48.6918835,6.1834208,,,,bag,,bag
+Aubade,48.6918681,6.1836518,,,,clothes,,clothes
+Un Jour Ailleurs,48.6919182,6.183614,,,,clothes,,clothes
+L'Atelier d'Amaya,48.6919414,6.1835962,,,,jewelry,,jewelry
+Damart,48.6920003,6.1835524,,,,clothes,,clothes
+Pylones,48.6919673,6.1833667,,,,gift,,gift
+Iris Galerie,48.691933,6.1833889,,,,photo,,photo
+Nicolas,48.6920733,6.1835,,,,alcohol,,alcohol
+Just Over the Top,48.6912149,6.183533,,,,clothes,,clothes
+Anthony,48.691343,6.1837535,,,,clothes,,clothes
+Lacoste,48.6914279,6.1837031,,,,clothes,,clothes
+Dom Optic,48.6920546,6.1833066,,,,optician,,optician
+L'Occitanie en Provence,48.6921047,6.1832728,,,,cosmetics,,cosmetics
+Pascal Coffet,48.6921624,6.1832335,,,,confectionery,,confectionery
+Faguo,48.6922133,6.1831985,,,,clothes,,clothes
+Jimmy Fairly,48.6921081,6.1834749,,,,optician,,optician
+Gabor,48.6921373,6.1834538,,,,shoes,,shoes
+Palais des Thés,48.6921741,6.1834268,,,,tea,,tea
+Farandole,48.6921996,6.1834087,,,,clothes,,clothes
+Bijoux,48.6922615,6.1833674,,,,jewelry,,jewelry
+Bompard,48.6923149,6.1833321,,,,clothes,,clothes
+Le Tanneur,48.6923734,6.1832954,,,,bag,,bag
+Brunner,48.69232,6.1831247,,,,jewelry,,jewelry
+Yellow Korner,48.6924272,6.1830514,,,,photo,,photo
+Jacadi,48.69248,6.1830139,,,,clothes,,clothes
+Manfield,48.6925507,6.1829636,,,,shoes,,shoes
+Cyrillus,48.6925995,6.182929,,,,clothes,,clothes
+Longchamp,48.692697,6.1828596,,,,fashion_accessories,,fashion_accessories
+Le Petit Souk,48.6928052,6.1827834,,,,toys,,toys
+Baccarat,48.6928583,6.1827161,,,,jewelry,,jewelry
+Maison Lelièvre,48.6928153,6.1825327,,,,wine,,wine
+Association École de Nancy,48.6906731,6.1775023,,,,,memorial,memorial
+La cave d’Alex,48.6922899,6.1465228,,,,wine,,wine
+Gribouille Tattoo,48.6878881,6.1844868,,,,tattoo,,tattoo
+Berlin Kebap Haus,48.6932343,6.1897813,fast_food,,,,,fast_food
+Cleanik Cut,48.6967451,6.1670489,,,,hairdresser,,hairdresser
+Laverie Keller,48.7026037,6.1750962,,,,laundry,,laundry
+Les Cousins,48.6901399,6.1716185,bar,,,,,bar
+Villa Thermae,48.6792834,6.1681828,,hotel,,,,hotel
+MadCat,48.6966314,6.1792603,fast_food,,,,,fast_food
+Mr.Bricolage,48.6875784,6.1801366,,,,doityourself,,doityourself
+Le Bar du Crystal,48.6901445,6.1781096,bar,,,,,bar
+Le Prime,48.6691241,6.1691428,,,,hairdresser,,hairdresser
+Art'Optical,48.6708517,6.171341,,,,optician,,optician
+Arcane Game,48.6810946,6.194152,,,escape_game,,,escape_game
+Le Cabanon de Louison,48.7018298,6.1787721,,,,clothes,,clothes
+Group Hug,48.7020732,6.1872167,,artwork,,,,artwork
+Cadici,48.6981111,6.1785702,,,,pastry,,pastry
+Antoinette Restaurant Nancy,48.6914161,6.1881767,restaurant,,,,,restaurant
+Creaflock,48.6893326,6.185057,,,,clothes,,clothes
+Fripon & Fripette,48.6860765,6.1694375,,,,clothes,,clothes
+Objet Urbain Vraiment Non Identifié,48.6835748,6.1851646,,artwork,,,,artwork
+Damien.P,48.6880362,6.1822196,,,,hairdresser,,hairdresser
+L'Atelier 35,48.6880922,6.1821784,restaurant,,,,,restaurant
+Le Coup de Fourchette,48.6881272,6.1821527,restaurant,,,,,restaurant
+Laura Blattner,48.6712344,6.1663834,dentist,,,,,dentist
+Station réparation & gonflage,48.6941224,6.1650467,bicycle_repair_station,,,,,bicycle_repair_station
+Thé Viet,48.6897326,6.1807884,cafe,,,,,cafe
+La Place du Pain,48.6854029,6.166807,,,,bakery,,bakery
+Lavoir de la Place,48.6854421,6.195434,,,,laundry,,laundry
+Laverie Painlevé,48.6822928,6.165215,,,,laundry,,laundry
+Allo Pizza,48.6892479,6.1611466,fast_food,,,,,fast_food
+Ikone,48.6859677,6.1683864,,,,tailor,,tailor
+Boutique Orange,48.68983,6.1797927,,,,mobile_phone,,mobile_phone
+Audition Santé,48.6863751,6.1856026,,,,hearing_aids,,hearing_aids
+Aqua Sirouna,48.6853717,6.1862228,,,sauna,,,sauna
+Yanna fleurs,48.6850476,6.1866991,,,,florist,,florist
+Vaudémont,48.6944446,6.1821125,restaurant,,,,,restaurant
+B comme bœuf,48.6892571,6.1831208,restaurant,,,,,restaurant
+Parcours touristiques,48.6816339,6.1715259,,information,,,,information
+H Barber,48.6815012,6.1644435,,,,hairdresser,,hairdresser
+La Verdine,48.6819854,6.1648958,restaurant,,,,,restaurant
+Boulangerie Martin,48.6823784,6.1654856,,,,bakery,,bakery
+Café du Bon Coin,48.6821691,6.1659823,cafe,,,,,cafe
+Pharmacie Giphar,48.6827215,6.1659617,pharmacy,,,,,pharmacy
+Sublim' & Vous,48.6826444,6.1657294,,,,beauty,,beauty
+Maxi Kebab,48.6830069,6.1661417,fast_food,,,,,fast_food
+Régalo Pizzas,48.6835943,6.1684084,fast_food,,,,,fast_food
+Boulangerie Pâtisserie Jim et Jess,48.6830729,6.1715906,,,,bakery,,bakery
+Bibliothèque Pour Tous,48.6834698,6.1733286,library,,,,,library
+Boulangerie Pâtisserie Maison This,48.6833558,6.1734087,,,,bakery,,bakery
+Couture Confection,48.6836847,6.1744722,,,,boutique,,boutique
+Aux Bruyères,48.6829015,6.173738,,,,florist,,florist
+Pharmacie Saint-Joseph,48.6835203,6.1742718,pharmacy,,,,,pharmacy
+Le Lotus Bleu,48.6838872,6.1759931,,,,massage,,massage
+K'Exotic,48.6837691,6.1767033,,,,convenience,,convenience
+Boucherie Charcuterie Traiteur Pierre Revest,48.6846854,6.1792654,,,,butcher,,butcher
+Mairie de Quartier Mon Désert,48.6847625,6.1792726,townhall,,,,,townhall
+Bestiaire Inabstrait,48.681948,6.1787328,,artwork,,,,artwork
+Charlie Coworking,48.7018342,6.1729574,coworking_space,,,,,coworking_space
+Collège Montessori Grand Est,48.6860649,6.1688289,school,,,,,school
+Ewigo,48.7047855,6.1698358,,,,car,,car
+A+ Glass,48.6881489,6.1873577,,,,car_repair,,car_repair
+Photomaton,48.688093,6.1816919,photo_booth,,,,,photo_booth
+Le village Afrotaste,48.6891666,6.1943737,restaurant,,,,,restaurant
+Seb Barber,48.6911316,6.1854537,,,,hairdresser,,hairdresser
+GOMU,48.689428,6.1810191,fast_food,,,,,fast_food
+Bistrot Georgette,48.6919515,6.1863774,bar,,,,,bar
+L’Arborio,48.6968744,6.1794531,restaurant,,,,,restaurant
+54 Cocktails Bar,48.6947489,6.1797119,bar,,,,,bar
+L'Ardoise,48.6938711,6.1807861,restaurant,,,,,restaurant
+Osaka Street Food,48.6939141,6.1809602,restaurant,,,,,restaurant
+Nancy Tatouage,48.6939667,6.1811673,,,,tattoo,,tattoo
+Papa Joe,48.6940446,6.181485,restaurant,,,,,restaurant
+La Cerise sur le Gâteau,48.6942492,6.1817521,restaurant,,,,,restaurant
+Madeleines de Liverdun,48.6914542,6.1839289,,,,pastry,,pastry
+Dr. Martens,48.6911529,6.183343,,,,shoes,,shoes
+Cousins Cousines,48.6907514,6.1840227,,,,shoes,,shoes
+Antonelle,48.6912705,6.1837053,,,,clothes,,clothes
+Jeff de Bruges,48.6912533,6.1836519,,,,chocolate,,chocolate
+Salon de Thé Batt,48.6912614,6.1842402,cafe,,,,,cafe
+Pâtisserie Alain Batt,48.6912426,6.1841813,,,,confectionery,,confectionery
+Fleur Bleue,48.6910767,6.1841404,,,,florist,,florist
+Tango,48.6911357,6.1841106,,,,jewelry,,jewelry
+Arthur,48.6912038,6.1840898,,,,clothes,,clothes
+Au Bon Coin - Maison Schmidt,48.6909263,6.1842111,,,,bakery,,bakery
+Alain Batt Chocolats,48.6912985,6.1843561,,,,confectionery,,confectionery
+Finsbury,48.6913784,6.1839762,,,,shoes,,shoes
+Le Mont Liban,48.6914452,6.1842475,restaurant,,,,,restaurant
+Godot & Fils,48.6914163,6.1841585,bureau_de_change,,,,,bureau_de_change
+Naturalia,48.6915119,6.1844573,,,,supermarket,,supermarket
+Pharmacie de la Cathédrale,48.6917932,6.1853245,pharmacy,,,,,pharmacy
+Trattoria San Giorgio,48.692296,6.186887,restaurant,,,,,restaurant
+Crédit Coopératif,48.6921947,6.1865797,bank,,,,,bank
+Brasserie Saint-Georges,48.6921629,6.1864714,restaurant,,,,,restaurant
+Benoît Jacquin,48.692104,6.1862899,,,,bakery,,bakery
+Café Des Trolls,48.6918347,6.1854517,pub,,,,,pub
+Boulangerie Pâtisserie Schmidt,48.6917578,6.1852149,,,,bakery,,bakery
+Les Docks,48.6916585,6.1849085,pub,,,,,pub
+Le Schmilblick,48.6919878,6.1864915,bar,,,,,bar
+Madame Bergamote,48.6945446,6.1815557,cafe,,,,,cafe
+L’Auberge Francine,48.6726803,6.1940608,restaurant,,,,,restaurant
+day by day - Mon épicerie en vrac,48.7009399,6.1765016,,,,convenience,,convenience
+B.A,48.6842331,6.1776432,,,,second_hand,,second_hand
+Lush,48.6904038,6.1815763,,,,cosmetics,,cosmetics
+Kusmi Tea,48.6904426,6.1816965,,,,tea,,tea
+Rouge Libellule,48.6865283,6.1710687,,,,clothes,,clothes
+Caméo Commanderie,48.6870352,6.1721765,cinema,,,,,cinema
+BBC,48.6901353,6.1795795,bar,,,,,bar
+Ensemble de ferronneries,48.6904165,6.179561,,information,,,,information
+Eugène Tisserant,48.6901088,6.1796186,,,,,memorial,memorial
+So.bio,48.702359,6.1755208,,,,convenience,,convenience
+Secours Populaire Français - Antenne de Nancy Charmois,48.6693948,6.170358,charity,,,clothes,,charity
+Secours Populaire Français - Antenne de Nancy-Étoile,48.680565,6.1817416,charity,,,clothes,,charity
+La Penderie,48.6763832,6.1636673,,,,clothes,,clothes
+Alter Ego,48.7013843,6.1709754,,,,clothes,,clothes
+Saurupt,48.6804504,6.181809,bicycle_rental,,,,,bicycle_rental
+Cavavin,48.7025528,6.1753905,,,,alcohol,,alcohol
+Les Jardins d'Esther,48.6982103,6.1743055,restaurant,,,,,restaurant
+Camille Cavallier,48.6932721,6.1652613,,artwork,,,,artwork
+Nonna,48.6933618,6.1984759,restaurant,,,,,restaurant
+La Mandarine,48.6932113,6.1818967,fast_food,,,,,fast_food
+Le Majeur,48.687469,6.1802162,restaurant,,,,,restaurant
+Vélo Elliptique,48.6931904,6.159469,,,fitness_station,,,fitness_station
+"Rameur ""R"" avec Vérin Réglable",48.6931714,6.1594281,,,fitness_station,,,fitness_station
+Aromatiques,48.6929853,6.1591821,,information,,,,information
+Légumes - Graines,48.6929712,6.1591959,,information,,,,information
+Légumes - Bulbes,48.6929571,6.1592097,,information,,,,information
+Légumes - Racines,48.692943,6.1592235,,information,,,,information
+Légumes - Feuilles,48.6929289,6.1592373,,information,,,,information
+Légumes - Fruits,48.6929148,6.1592511,,information,,,,information
+Fruitiers,48.6928939,6.1592453,,information,,,,information
+Près d'ici,48.692804,6.1902206,,,,supermarket,,supermarket
+"Centre médical dentaire, d'ophtalmologie & d'allergologie",48.6928613,6.1895248,doctors,,,,,doctors
+Laverie Leclerc,48.6767487,6.1775888,,,,laundry,,laundry
+Charles,48.6952516,6.1812948,cafe,,,coffee,,cafe
+Bocage,48.6899676,6.1802369,,,,shoes,,shoes
+Cheesy,48.691592,6.184691,fast_food,,,,,fast_food
+Fresh Épices,48.6920542,6.1630659,,,,convenience,,convenience
+Le Fabuleux Jardin,48.7000514,6.1892561,,,,convenience,,convenience
+Lidl,48.6884411,6.1791561,,,,supermarket,,supermarket
+Cafet’ Pôle Herbert Simon,48.6970113,6.1707517,fast_food,,,,,fast_food
+Aides,48.6922239,6.1801852,social_centre,,,,,social_centre
+Marie FRIOT,48.6869903,6.1646006,doctors,,,,,doctors
+Benjamine BATTA,48.6869875,6.164588,doctors,,,,,doctors
+Centre Édouard Will,48.6956504,6.1664133,library,,,,,library
+Pana Thaï Spa,48.6923131,6.1810316,,,,massage,,massage
+Hédoné,48.6969751,6.1726838,,chalet,,,,chalet
+French Trattoria,48.6964341,6.1727994,restaurant,,,,,restaurant
+Église Évangélique Baptiste de Nancy,48.6929822,6.1798581,place_of_worship,,,,,place_of_worship
+Le Comptoir Saint Michel,48.6969222,6.1791839,restaurant,,,,,restaurant
+Herz,48.6903792,6.1757971,car_rental,,,,,car_rental
+Vélos pour tous,48.6825966,6.1627493,,,,bicycle,,bicycle
+Le Doc' du vélo,48.681693,6.1834798,,,,bicycle,,bicycle
+Nancy,48.6899127,6.1756043,,artwork,,,,artwork
+Le Jour D'après,48.6920971,6.1763557,,,,funeral_directors,,funeral_directors
+Vallée du graff,48.7030146,6.1871721,,artwork,,,,artwork
+P'tit Fauve,48.6890597,6.1725725,restaurant,,,,,restaurant
+Dren Abdullahu,48.6857746,6.173095,,,,,memorial,memorial
+Ciğköftem Nancy,48.6920709,6.1861863,restaurant,,,,,restaurant
+Belle Demoiselle,48.6731226,6.1735554,,,,beauty,,beauty
+McDonald's Nancy Gare,48.6899989,6.1742377,fast_food,,,,,fast_food
+Mon Désert,48.6841068,6.1764239,bicycle_rental,,,,,bicycle_rental
+Gilio's Pizza,48.6825311,6.1742383,restaurant,,,,,restaurant
+Lys dans la vallée,48.6863349,6.1716012,place_of_worship,,,,,place_of_worship
+"Cabinet de médecine générale - Frank Pilcer, Marie Hénart",48.6893562,6.1803716,doctors,,,,,doctors
+L'Etna,48.6862192,6.1699424,restaurant,,,,,restaurant
+Églantine Fleurs,48.6865549,6.1712108,,,,florist,,florist
+Royal Donuts,48.6896306,6.1817632,,,,pastry,,pastry
+Maxdrive,48.6920006,6.1865401,driving_school,,,,,driving_school
+Bar L'Agence,48.6977428,6.1775284,bar,,,,,bar
+La Petite Farandole,48.6904637,6.1970595,kindergarten,,,,,kindergarten
+Chapelle de l'Institution des jeunes aveugles,48.6889461,6.1601253,place_of_worship,,,,,place_of_worship
+Food by night,48.6845098,6.1728633,fast_food,,,,,fast_food
+Laurent Louis,48.6920442,6.1855401,,,,jewelry,,jewelry
+Quartier Libre,48.6948509,6.1813708,,,,books,,books
+Ma'Sage parenthèse,48.6962171,6.1782092,,,,massage,,massage
+Dreaminktattoo,48.691452,6.1761788,,,,tattoo,,tattoo
+Forêt Zen,48.6938578,6.178385,,,,massage,,massage
+Cueillir,48.6945169,6.1785688,,,,interior_decoration,,interior_decoration
+Corinne Joly,48.6967024,6.1780261,music_school,,,,,music_school
+Chez Bou Bou,48.6980268,6.1778368,,,,hairdresser,,hairdresser
+Hôtel de Ligneville,48.6974761,6.1788839,,information,,,,information
+Barber Stan,48.6914654,6.1762489,,,,hairdresser,,hairdresser
+Raksa Thaï,48.6910086,6.1810624,,,,massage,,massage
+CLV,48.6886075,6.1735382,clinic,,,,,clinic
+L'échange,48.6834432,6.1917881,social_centre,,,,,social_centre
+Bureau d'information,48.6839861,6.1894739,,information,,,,information
+Relay,48.6851876,6.1921186,cafe,,,newsagent,,cafe
+Eugène Hugo,48.6939339,6.1811139,,,,,memorial,memorial
+Affichage libre,48.6817529,6.1911665,,information,,,,information
+Chapelle de la Visitation,48.6917511,6.1793167,,information,,,,information
+Formes et couleurs,48.6898553,6.1844786,,,,furniture,,furniture
+YouPhone,48.6890293,6.1853417,,,,mobile_phone,,mobile_phone
+Moluki,48.6926463,6.1789206,,,,clothes,,clothes
+Mojimeee House,48.6939829,6.1812609,,,,sewing,,sewing
+Le petit Badiem,48.6941028,6.1817241,restaurant,,,,,restaurant
+ADA,48.6839327,6.188414,car_rental,,,,,car_rental
+Au p'tit bio,48.6893213,6.1830928,fast_food,,,,,fast_food
+Clément Graber,48.6927653,6.1780884,dentist,,,,,dentist
+Peau d'âmes,48.6880988,6.1705955,,,,massage,,massage
+La terre en pause,48.6808159,6.1715719,,information,,,,information
+Alexandre Srouji,48.6917955,6.1722578,dentist,,,,,dentist
+Easywork,48.6907326,6.1747685,coworking_space,,,,,coworking_space
+Barber house,48.689484,6.1703252,,,,hairdresser,,hairdresser
+Danse Boutique,48.679101,6.1980291,,,,yes,,yes
+On Air Fitness,48.6782121,6.1997383,,,fitness_centre,,,fitness_centre
+Société Nouvelle Gautier Moulron,48.6821956,6.2017946,,,,car_parts,,car_parts
+Frencci,48.6924589,6.1966411,,,,bakery,,bakery
+La boutique pour tous,48.6862837,6.1702256,,,,charity,,charity
+La Boutique - Croix-rouge française,48.6877676,6.1732383,,,,charity,,charity
+Église Un Chant Nouveau,48.7024209,6.174745,place_of_worship,,,,,place_of_worship
+Harlem Smash,48.683122,6.1902211,fast_food,,,,,fast_food
+Église « La Victoire de Dieu »,48.702801,6.183407,place_of_worship,,,,,place_of_worship
+La Belle Fringuette,48.6868616,6.1840899,,,,clothes,,clothes
+Lysiane Marchal,48.6879556,6.1706552,doctors,,,,,doctors
+Cyclopark,48.6876081,6.1796482,bicycle_parking,,,,,bicycle_parking
+Où est le singe ?,48.6935868,6.1908393,bar,,,,,bar
+Maddak,48.6989718,6.1790839,restaurant,,,,,restaurant
+Wallace,48.6951921,6.1800138,restaurant,,,,,restaurant
+ZENTITUDE,48.6890375,6.1948587,,hotel,,,,hotel
+Glorieuses,48.6956722,6.194589,,,,antiques,,antiques
+Centre Dentaire,48.691198,6.1834301,dentist,,,,,dentist
+Bar des Vedettes,48.6856001,6.1860045,bar,,,,,bar
+Cash Play,48.6869708,6.1854505,,,,video_games,,video_games
+Deux aiguilles dans la cafetière,48.6937948,6.1810759,,,,sewing,,sewing
+Accro Plongée,48.7023748,6.1911453,dive_centre,,,,,dive_centre
+Association des Artistes Lorrains,48.6805901,6.194922,arts_centre,,,,,arts_centre
+Polmard,48.6923761,6.1791592,restaurant,,,,,restaurant
+Acadanse,48.6904312,6.1802607,dancing_school,,,,,dancing_school
+L'Échiquier,48.6875973,6.1730528,cafe,,,,,cafe
+Ça Krousty,48.6831739,6.190158,fast_food,,,,,fast_food
+Carsi Besiktas,48.6830671,6.1903087,fast_food,,,,,fast_food
+AGORAé Nancy Lionnois,48.6842845,6.1942868,,,,convenience,,convenience
+AGORAé Nancy CLSH,48.6936451,6.1662138,,,,convenience,,convenience
+ALBA STUDIO,48.6920771,6.1763448,,,fitness_centre,,,fitness_centre
+Isabelle Vautelin,48.691814,6.1722713,childcare,,,,,childcare
+Indigo,48.6882052,6.1808535,vending_machine,,,,,vending_machine
+Take a Break,48.6914874,6.176325,cafe,,,,,cafe
+Studio-KS,48.6972936,6.1920499,,,,hairdresser,,hairdresser
+BB bioburger,48.6874373,6.1806984,fast_food,,,,,fast_food
+Le palais à roulettes,48.6870581,6.1807021,fast_food,,,,,fast_food
+Craft Bar,48.6871854,6.1805844,cafe,,,,,cafe
+La pizza de Nico,48.6872529,6.1808286,fast_food,,,,,fast_food
+Emilie and the cool kids,48.6873396,6.1803951,fast_food,,,,,fast_food
+Nicolas - Allegro Musique,48.6889262,6.1610768,music_school,,,,,music_school
+Emma - Allegro Musique,48.684561,6.1707069,music_school,,,,,music_school
+Gaetan - Professeur de musique,48.6901369,6.1659805,music_school,,,,,music_school
+BeePlex,48.6899317,6.1768517,coworking_space,,,,,coworking_space
+Pigier Nancy,48.6888187,6.198694,university,,,,,university
+École International Tunon,48.6929275,6.1787036,university,,,,,university
+Alexandre Landre,48.6974085,6.1668053,,,,antiques,,antiques
+Corpo Art Tattoo,48.6926371,6.184962,,,,tattoo,,tattoo
+Plantis café,48.6815179,6.1662014,cafe,,,,,cafe
+Club Pilates,48.6929826,6.1906118,,,fitness_centre,,,fitness_centre
+Stych Auto-École Nancy,48.6856322,6.1607996,driving_school,,,,,driving_school
+Wash Me,48.6972739,6.1673304,,,,laundry,,laundry
+La bagagerie du 32,48.6882596,6.187962,social_facility,,,,,social_facility
+Waffle Factory,48.6895052,6.1802617,fast_food,,,,,fast_food
+Maison Mosa,48.6920237,6.1860223,,,,beauty,,beauty
+Centre de Dermatologie,48.6931265,6.1893142,doctors,,,,,doctors
+AMOS ESDAC,48.6897675,6.1800732,college,,,,,college
+Liu Jo,48.6922224,6.1807289,,,,clothes,,clothes
+WIN Sport School Nancy,48.6972912,6.1736817,college,,,,,college
+Dr Jean-Pascal FYAD,48.694924,6.1814521,doctors,,,,,doctors
+Le Carré de Liège,48.6909451,6.1821984,,,,pastry,,pastry
+Trottibox,48.6897534,6.1772767,kick-scooter_parking,,,,,kick-scooter_parking

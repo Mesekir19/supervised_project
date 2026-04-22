@@ -1,0 +1,40 @@
+======================================================
+  EVALUATION REPORT — Geospatial LLM (Qwen3-0.6B)
+======================================================
+
+  Test samples        : 496
+  Direction accuracy  : 0.2762  (137/496)
+  Exact match         : 0.0565  (28/496)
+  Distance mentioned  : 0.2016  (100/496)
+  No direction found  : 0  (model failed to end with a direction)
+
+  Per-direction breakdown:
+    north       : 0.177  [###                 ]  (22/124)
+    east        : 0.121  [##                  ]  (15/124)
+    south       : 0.315  [######              ]  (39/124)
+    west        : 0.492  [#########           ]  (61/124)
+
+  Sample correct predictions:
+    Q: What is the spatial relationship between Mise en Scène and Clément Graber in Nancy, France?
+    A: Clément Graber is approximately 1400 meters from Mise en Scène, to the west
+
+    Q: What is the spatial relationship between Sun Box and CopyFak in Nancy, France?
+    A: CopyFak is approximately 100 meters from Sun Box, to the west
+
+    Q: What is the spatial relationship between Maison Gaudin and Mamie Branchée in Nancy, France?
+    A: Mamie Branchée is approximately 1400 meters from Maison Gaudin, to the west
+
+  Sample incorrect predictions:
+    Q: What is the spatial relationship between Pharmacie Centrale and Le Tanneur in Nancy, France?
+    Expected : Le Tanneur is approximately 300 meters from Pharmacie Centrale, to the east
+    Got      : Le Tanneur is approximately 1400 meters from Pharmacie Centrale, to the north
+
+    Q: What is the spatial relationship between Chez Nadine and CopyFak in Nancy, France?
+    Expected : CopyFak is approximately 2300 meters from Chez Nadine, to the north
+    Got      : CopyFak is approximately 100 meters from Chez Nadine, to the west
+
+    Q: What is the spatial relationship between Collège Saint-Léon IX and Auto-École Nancy Vauban in Nancy, France?
+    Expected : Auto-École Nancy Vauban is approximately 100 meters from Collège Saint-Léon IX, to the south
+    Got      : Auto-École Nancy Vauban is approximately 1400 meters from Collège Saint-Léon IX, to the west
+
+======================================================
