@@ -1,0 +1,406 @@
+{
+  "timestamp": "2026-05-23T18:33:57.082943",
+  "stage1": {
+    "timestamp": "2026-05-23T17:48:45.492738",
+    "eval_samples": 4000,
+    "samples_per_dir": 1000,
+    "overall": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0,
+      "mean_confidence": 0.9989
+    },
+    "per_class": {
+      "NORTH": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EAST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "SOUTH": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "WEST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "NORTH",
+        "EAST",
+        "SOUTH",
+        "WEST"
+      ],
+      "matrix": [
+        [
+          1000,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1000,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1000,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1000
+        ]
+      ],
+      "matrix_pct": [
+        [
+          100.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          100.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          100.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          100.0
+        ]
+      ]
+    },
+    "per_confidence_bucket": {
+      "100-110%": {
+        "accuracy": 1.0,
+        "samples": 3866
+      },
+      "40-50%": {
+        "accuracy": 1.0,
+        "samples": 3
+      },
+      "50-60%": {
+        "accuracy": 1.0,
+        "samples": 1
+      },
+      "70-80%": {
+        "accuracy": 1.0,
+        "samples": 3
+      },
+      "80-90%": {
+        "accuracy": 1.0,
+        "samples": 4
+      },
+      "90-100%": {
+        "accuracy": 1.0,
+        "samples": 123
+      }
+    },
+    "classification_report": {
+      "NORTH": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1000.0
+      },
+      "EAST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1000.0
+      },
+      "SOUTH": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1000.0
+      },
+      "WEST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1000.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4000.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4000.0
+      }
+    }
+  },
+  "stage2": {
+    "label": "STAGE_2_MODEL",
+    "timestamp": "2026-05-23T18:11:20.018737",
+    "eval_samples": 300,
+    "overall": {
+      "n": 300,
+      "direction_accuracy": 0.9633,
+      "poi_recall": 0.9967,
+      "distance_recall": 0.5,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4048,
+      "semantic_similarity": 0.9301,
+      "factual_score": 0.8807,
+      "diversity_score": 0.4713,
+      "avg_output_length": 12.3,
+      "min_output_length": 5,
+      "max_output_length": 21
+    },
+    "by_direction": {
+      "SOUTH": {
+        "n": 75,
+        "direction_accuracy": 0.9333,
+        "poi_recall": 1.0,
+        "distance_recall": 0.6133,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.3723,
+        "semantic_similarity": 0.9297,
+        "factual_score": 0.8893,
+        "diversity_score": 0.5763,
+        "avg_output_length": 12.8,
+        "min_output_length": 7,
+        "max_output_length": 21
+      },
+      "NORTH": {
+        "n": 75,
+        "direction_accuracy": 0.9733,
+        "poi_recall": 1.0,
+        "distance_recall": 0.44,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.4427,
+        "semantic_similarity": 0.9384,
+        "factual_score": 0.8747,
+        "diversity_score": 0.591,
+        "avg_output_length": 12.0,
+        "min_output_length": 6,
+        "max_output_length": 21
+      },
+      "WEST": {
+        "n": 75,
+        "direction_accuracy": 0.9733,
+        "poi_recall": 1.0,
+        "distance_recall": 0.48,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.3772,
+        "semantic_similarity": 0.9226,
+        "factual_score": 0.8827,
+        "diversity_score": 0.5744,
+        "avg_output_length": 12.3,
+        "min_output_length": 6,
+        "max_output_length": 20
+      },
+      "EAST": {
+        "n": 75,
+        "direction_accuracy": 0.9733,
+        "poi_recall": 0.9867,
+        "distance_recall": 0.4667,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.427,
+        "semantic_similarity": 0.9297,
+        "factual_score": 0.876,
+        "diversity_score": 0.5546,
+        "avg_output_length": 12.0,
+        "min_output_length": 5,
+        "max_output_length": 21
+      }
+    },
+    "by_tier": {
+      "easy": {
+        "n": 100,
+        "direction_accuracy": 0.98,
+        "poi_recall": 1.0,
+        "distance_recall": 0.46,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.4223,
+        "semantic_similarity": 0.9352,
+        "factual_score": 0.882,
+        "diversity_score": 0.5116,
+        "avg_output_length": 11.7,
+        "min_output_length": 6,
+        "max_output_length": 18
+      },
+      "medium": {
+        "n": 140,
+        "direction_accuracy": 0.9571,
+        "poi_recall": 0.9964,
+        "distance_recall": 0.5429,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.3758,
+        "semantic_similarity": 0.9264,
+        "factual_score": 0.8861,
+        "diversity_score": 0.5223,
+        "avg_output_length": 12.1,
+        "min_output_length": 5,
+        "max_output_length": 21
+      },
+      "hard": {
+        "n": 60,
+        "direction_accuracy": 0.95,
+        "poi_recall": 0.9917,
+        "distance_recall": 0.4667,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.4435,
+        "semantic_similarity": 0.9302,
+        "factual_score": 0.8658,
+        "diversity_score": 0.6839,
+        "avg_output_length": 13.7,
+        "min_output_length": 6,
+        "max_output_length": 21
+      }
+    }
+  },
+  "pipeline": {
+    "label": "PIPELINE_STAGE1+STAGE2",
+    "timestamp": "2026-05-23T18:33:56.994527",
+    "eval_samples": 300,
+    "overall": {
+      "n": 300,
+      "direction_accuracy": 0.94,
+      "poi_recall": 0.9983,
+      "distance_recall": 0.52,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4093,
+      "semantic_similarity": 0.929,
+      "factual_score": 0.8735,
+      "diversity_score": 0.4691,
+      "avg_output_length": 12.3,
+      "min_output_length": 5,
+      "max_output_length": 25
+    },
+    "by_direction": {
+      "SOUTH": {
+        "n": 75,
+        "direction_accuracy": 0.9067,
+        "poi_recall": 1.0,
+        "distance_recall": 0.5333,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.3848,
+        "semantic_similarity": 0.9238,
+        "factual_score": 0.86,
+        "diversity_score": 0.6017,
+        "avg_output_length": 12.4,
+        "min_output_length": 6,
+        "max_output_length": 21
+      },
+      "NORTH": {
+        "n": 75,
+        "direction_accuracy": 0.9733,
+        "poi_recall": 1.0,
+        "distance_recall": 0.5333,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.4174,
+        "semantic_similarity": 0.9367,
+        "factual_score": 0.8933,
+        "diversity_score": 0.572,
+        "avg_output_length": 12.5,
+        "min_output_length": 5,
+        "max_output_length": 25
+      },
+      "WEST": {
+        "n": 75,
+        "direction_accuracy": 0.9333,
+        "poi_recall": 1.0,
+        "distance_recall": 0.4933,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.4127,
+        "semantic_similarity": 0.9248,
+        "factual_score": 0.8653,
+        "diversity_score": 0.5877,
+        "avg_output_length": 12.1,
+        "min_output_length": 6,
+        "max_output_length": 24
+      },
+      "EAST": {
+        "n": 75,
+        "direction_accuracy": 0.9467,
+        "poi_recall": 0.9933,
+        "distance_recall": 0.52,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.4224,
+        "semantic_similarity": 0.9308,
+        "factual_score": 0.8753,
+        "diversity_score": 0.5571,
+        "avg_output_length": 12.2,
+        "min_output_length": 6,
+        "max_output_length": 22
+      }
+    },
+    "by_tier": {
+      "easy": {
+        "n": 100,
+        "direction_accuracy": 0.94,
+        "poi_recall": 1.0,
+        "distance_recall": 0.51,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.389,
+        "semantic_similarity": 0.9315,
+        "factual_score": 0.872,
+        "diversity_score": 0.5157,
+        "avg_output_length": 11.7,
+        "min_output_length": 5,
+        "max_output_length": 19
+      },
+      "medium": {
+        "n": 140,
+        "direction_accuracy": 0.9429,
+        "poi_recall": 1.0,
+        "distance_recall": 0.5143,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.4015,
+        "semantic_similarity": 0.9248,
+        "factual_score": 0.8743,
+        "diversity_score": 0.5096,
+        "avg_output_length": 12.1,
+        "min_output_length": 6,
+        "max_output_length": 19
+      },
+      "hard": {
+        "n": 60,
+        "direction_accuracy": 0.9333,
+        "poi_recall": 0.9917,
+        "distance_recall": 0.55,
+        "prompt_leak_rate": 0.0,
+        "bleu_score": 0.4616,
+        "semantic_similarity": 0.9349,
+        "factual_score": 0.8742,
+        "diversity_score": 0.6946,
+        "avg_output_length": 13.6,
+        "min_output_length": 6,
+        "max_output_length": 25
+      }
+    },
+    "stage1_direction_accuracy_in_pipeline": 1.0
+  }
+}

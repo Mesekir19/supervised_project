@@ -1,0 +1,121 @@
+{
+  "label": "STAGE_2_MODEL",
+  "timestamp": "2026-05-23T18:11:20.018737",
+  "eval_samples": 300,
+  "overall": {
+    "n": 300,
+    "direction_accuracy": 0.9633,
+    "poi_recall": 0.9967,
+    "distance_recall": 0.5,
+    "prompt_leak_rate": 0.0,
+    "bleu_score": 0.4048,
+    "semantic_similarity": 0.9301,
+    "factual_score": 0.8807,
+    "diversity_score": 0.4713,
+    "avg_output_length": 12.3,
+    "min_output_length": 5,
+    "max_output_length": 21
+  },
+  "by_direction": {
+    "SOUTH": {
+      "n": 75,
+      "direction_accuracy": 0.9333,
+      "poi_recall": 1.0,
+      "distance_recall": 0.6133,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.3723,
+      "semantic_similarity": 0.9297,
+      "factual_score": 0.8893,
+      "diversity_score": 0.5763,
+      "avg_output_length": 12.8,
+      "min_output_length": 7,
+      "max_output_length": 21
+    },
+    "NORTH": {
+      "n": 75,
+      "direction_accuracy": 0.9733,
+      "poi_recall": 1.0,
+      "distance_recall": 0.44,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4427,
+      "semantic_similarity": 0.9384,
+      "factual_score": 0.8747,
+      "diversity_score": 0.591,
+      "avg_output_length": 12.0,
+      "min_output_length": 6,
+      "max_output_length": 21
+    },
+    "WEST": {
+      "n": 75,
+      "direction_accuracy": 0.9733,
+      "poi_recall": 1.0,
+      "distance_recall": 0.48,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.3772,
+      "semantic_similarity": 0.9226,
+      "factual_score": 0.8827,
+      "diversity_score": 0.5744,
+      "avg_output_length": 12.3,
+      "min_output_length": 6,
+      "max_output_length": 20
+    },
+    "EAST": {
+      "n": 75,
+      "direction_accuracy": 0.9733,
+      "poi_recall": 0.9867,
+      "distance_recall": 0.4667,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.427,
+      "semantic_similarity": 0.9297,
+      "factual_score": 0.876,
+      "diversity_score": 0.5546,
+      "avg_output_length": 12.0,
+      "min_output_length": 5,
+      "max_output_length": 21
+    }
+  },
+  "by_tier": {
+    "easy": {
+      "n": 100,
+      "direction_accuracy": 0.98,
+      "poi_recall": 1.0,
+      "distance_recall": 0.46,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4223,
+      "semantic_similarity": 0.9352,
+      "factual_score": 0.882,
+      "diversity_score": 0.5116,
+      "avg_output_length": 11.7,
+      "min_output_length": 6,
+      "max_output_length": 18
+    },
+    "medium": {
+      "n": 140,
+      "direction_accuracy": 0.9571,
+      "poi_recall": 0.9964,
+      "distance_recall": 0.5429,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.3758,
+      "semantic_similarity": 0.9264,
+      "factual_score": 0.8861,
+      "diversity_score": 0.5223,
+      "avg_output_length": 12.1,
+      "min_output_length": 5,
+      "max_output_length": 21
+    },
+    "hard": {
+      "n": 60,
+      "direction_accuracy": 0.95,
+      "poi_recall": 0.9917,
+      "distance_recall": 0.4667,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4435,
+      "semantic_similarity": 0.9302,
+      "factual_score": 0.8658,
+      "diversity_score": 0.6839,
+      "avg_output_length": 13.7,
+      "min_output_length": 6,
+      "max_output_length": 21
+    }
+  }
+}

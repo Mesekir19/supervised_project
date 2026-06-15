@@ -1,0 +1,122 @@
+{
+  "label": "PIPELINE_STAGE1+STAGE2",
+  "timestamp": "2026-05-23T18:33:56.994527",
+  "eval_samples": 300,
+  "overall": {
+    "n": 300,
+    "direction_accuracy": 0.94,
+    "poi_recall": 0.9983,
+    "distance_recall": 0.52,
+    "prompt_leak_rate": 0.0,
+    "bleu_score": 0.4093,
+    "semantic_similarity": 0.929,
+    "factual_score": 0.8735,
+    "diversity_score": 0.4691,
+    "avg_output_length": 12.3,
+    "min_output_length": 5,
+    "max_output_length": 25
+  },
+  "by_direction": {
+    "SOUTH": {
+      "n": 75,
+      "direction_accuracy": 0.9067,
+      "poi_recall": 1.0,
+      "distance_recall": 0.5333,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.3848,
+      "semantic_similarity": 0.9238,
+      "factual_score": 0.86,
+      "diversity_score": 0.6017,
+      "avg_output_length": 12.4,
+      "min_output_length": 6,
+      "max_output_length": 21
+    },
+    "NORTH": {
+      "n": 75,
+      "direction_accuracy": 0.9733,
+      "poi_recall": 1.0,
+      "distance_recall": 0.5333,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4174,
+      "semantic_similarity": 0.9367,
+      "factual_score": 0.8933,
+      "diversity_score": 0.572,
+      "avg_output_length": 12.5,
+      "min_output_length": 5,
+      "max_output_length": 25
+    },
+    "WEST": {
+      "n": 75,
+      "direction_accuracy": 0.9333,
+      "poi_recall": 1.0,
+      "distance_recall": 0.4933,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4127,
+      "semantic_similarity": 0.9248,
+      "factual_score": 0.8653,
+      "diversity_score": 0.5877,
+      "avg_output_length": 12.1,
+      "min_output_length": 6,
+      "max_output_length": 24
+    },
+    "EAST": {
+      "n": 75,
+      "direction_accuracy": 0.9467,
+      "poi_recall": 0.9933,
+      "distance_recall": 0.52,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4224,
+      "semantic_similarity": 0.9308,
+      "factual_score": 0.8753,
+      "diversity_score": 0.5571,
+      "avg_output_length": 12.2,
+      "min_output_length": 6,
+      "max_output_length": 22
+    }
+  },
+  "by_tier": {
+    "easy": {
+      "n": 100,
+      "direction_accuracy": 0.94,
+      "poi_recall": 1.0,
+      "distance_recall": 0.51,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.389,
+      "semantic_similarity": 0.9315,
+      "factual_score": 0.872,
+      "diversity_score": 0.5157,
+      "avg_output_length": 11.7,
+      "min_output_length": 5,
+      "max_output_length": 19
+    },
+    "medium": {
+      "n": 140,
+      "direction_accuracy": 0.9429,
+      "poi_recall": 1.0,
+      "distance_recall": 0.5143,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4015,
+      "semantic_similarity": 0.9248,
+      "factual_score": 0.8743,
+      "diversity_score": 0.5096,
+      "avg_output_length": 12.1,
+      "min_output_length": 6,
+      "max_output_length": 19
+    },
+    "hard": {
+      "n": 60,
+      "direction_accuracy": 0.9333,
+      "poi_recall": 0.9917,
+      "distance_recall": 0.55,
+      "prompt_leak_rate": 0.0,
+      "bleu_score": 0.4616,
+      "semantic_similarity": 0.9349,
+      "factual_score": 0.8742,
+      "diversity_score": 0.6946,
+      "avg_output_length": 13.6,
+      "min_output_length": 6,
+      "max_output_length": 25
+    }
+  },
+  "stage1_direction_accuracy_in_pipeline": 1.0
+}

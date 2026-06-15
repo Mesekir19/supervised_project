@@ -1,0 +1,48 @@
+{
+  "n_samples": 200,
+  "overall": {
+    "direction_accuracy": 0.825,
+    "poi_name_recall": 0.795,
+    "distance_recall": 0.47,
+    "prompt_leak_rate": 0.4,
+    "bleu_score": 0.1754,
+    "diversity_score": 0.3029,
+    "mean_output_length": 25.3,
+    "min_output_length": 3,
+    "max_output_length": 68
+  },
+  "by_direction": {
+    "NORTH": {
+      "n": 50,
+      "direction_accuracy": 0.74,
+      "poi_name_recall": 0.77,
+      "distance_recall": 0.54,
+      "bleu_score": 0.1259,
+      "diversity_score": 0.3775
+    },
+    "SOUTH": {
+      "n": 50,
+      "direction_accuracy": 0.86,
+      "poi_name_recall": 0.77,
+      "distance_recall": 0.46,
+      "bleu_score": 0.1807,
+      "diversity_score": 0.375
+    },
+    "EAST": {
+      "n": 50,
+      "direction_accuracy": 0.86,
+      "poi_name_recall": 0.82,
+      "distance_recall": 0.44,
+      "bleu_score": 0.1815,
+      "diversity_score": 0.4017
+    },
+    "WEST": {
+      "n": 50,
+      "direction_accuracy": 0.84,
+      "poi_name_recall": 0.82,
+      "distance_recall": 0.44,
+      "bleu_score": 0.2138,
+      "diversity_score": 0.4094
+    }
+  }
+}

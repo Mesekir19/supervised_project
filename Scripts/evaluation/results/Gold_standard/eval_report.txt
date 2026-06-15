@@ -1,0 +1,36 @@
+
+=================================================================
+  EVALUATION REPORT — GOLD STANDARD
+  2026-05-16 22:14
+=================================================================
+  Gold standard pairs: 300
+
+  Metric                       Baseline      Model        Delta
+  ------------------------------------------------------------
+  Direction Accuracy             100.0%      96.3%   v -3.7%
+  POI Name Recall                100.0%      99.7%   v -0.3%
+  Distance Recall                100.0%      50.0%   v -50.0%
+  Prompt Leak Rate                 0.0%       0.0%   = +0.0%
+  Fluency Score                   17.9%      16.1%   v -1.8%
+  BLEU Score                      57.5%      40.5%   v -17.0%
+  Semantic Similarity             94.2%      93.0%   v -1.2%
+  Factual Score                  100.0%      88.1%   v -11.9%
+  Diversity Score                 29.9%      47.1%   ^ +17.2%
+
+  Avg output length:   Baseline 15 tokens  |  Model 12 tokens
+
+  Per-Direction (Model):
+  Dir         Dir Acc    Factual   Semantic
+  ------------------------------------------
+  NORTH         97.3%      87.5%      93.8%
+  SOUTH         93.3%      88.9%      93.0%
+  EAST          97.3%      87.6%      93.0%
+  WEST          97.3%      88.3%      92.3%
+
+  Per-Tier (Model):
+  Tier        Dir Acc    Factual   Semantic
+  ------------------------------------------
+  easy          98.0%      88.2%      93.5%
+  medium        95.7%      88.6%      92.6%
+  hard          95.0%      86.6%      93.0%
+=================================================================
