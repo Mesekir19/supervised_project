@@ -15,9 +15,9 @@ while hand-written templates are factually correct but repetitive.
 
 This project separates the two concerns:
 
-* **Stage 1** — a lightweight 3-layer MLP classifies the cardinal direction
+* **Stage 1** - a lightweight 3-layer MLP classifies the cardinal direction
 (N/S/E/W) between two POI from their coordinates, with a confidence score.
-* **Stage 2** — a QLoRA fine-tuned `Phi-3-mini-4k-instruct` model takes the
+* **Stage 2** - a QLoRA fine-tuned `Phi-3-mini-4k-instruct` model takes the
 predicted direction, the Haversine distance, and the POI names, and
 generates a fluent sentence.
 
@@ -94,7 +94,7 @@ Peter Harmer, Mesekir Getachew Sahilu, Mulualem Asfaw Mekonnen,
 Akob Tah Banjong, Usman Muhammad
 
 Supervised by Prof. Christophe Cerisara, assisted by Gabriel Lauzzana.
-MSc Natural Language Processing — Supervised Project, 2025–2026.
+MSc Natural Language Processing - Supervised Project, 2025-2026.
 
 ## References
 
